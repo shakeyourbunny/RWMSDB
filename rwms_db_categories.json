@@ -1,0 +1,138 @@
+{
+  "animalbehaviour": [
+    390.0,
+    "animal logic mods"
+  ],
+  "animalmods": [
+    350.0,
+    "animal modification mods"
+  ],
+  "animals": [
+    300.0,
+    "animal mods, creature(s), creature packs"
+  ],
+  "appearances": [
+    60.0,
+    "colonist appearance (hair, faces, hats, etc)"
+  ],
+  "behaviour": [
+    290.0,
+    "colonist behaviour mods"
+  ],
+  "biomes": [
+    70.0,
+    "biome mods"
+  ],
+  "caravan": [
+    90.0,
+    "caravan mods"
+  ],
+  "core": [
+    1.0,
+    "Core"
+  ],
+  "corelibs": [
+    5.0,
+    "Core Libs"
+  ],
+  "defense": [
+    500.0,
+    "defensive structures"
+  ],
+  "faction": [
+    660.0,
+    "(player) faction mods"
+  ],
+  "fixes": [
+    900.0,
+    "compatibility patches and fixes"
+  ],
+  "frameworks": [
+    10.0,
+    "Frameworks"
+  ],
+  "furniture": [
+    150.0,
+    "furniture mods"
+  ],
+  "gameplay": [
+    20.0,
+    "New Gameplay Mechanics"
+  ],
+  "gameplayaddons": [
+    25.0,
+    "New Gameplay Mechanics, Addons"
+  ],
+  "hugslib": [
+    2.0,
+    "Hugslib etc"
+  ],
+  "misccombat": [
+    590.0,
+    "misc. combat mods"
+  ],
+  "mods_at_the_end": [
+    999.0,
+    "mods which should be at the end"
+  ],
+  "production": [
+    100.0,
+    "production mods"
+  ],
+  "races": [
+    200.0,
+    "colonist races"
+  ],
+  "skills": [
+    250.0,
+    "colonist skills and traits"
+  ],
+  "statue": [
+    160.0,
+    "statue mods"
+  ],
+  "storyteller": [
+    50.0,
+    "Storyteller"
+  ],
+  "terrainresources": [
+    75.0,
+    "resource and terrain mods"
+  ],
+  "textures": [
+    800.0,
+    "texture mods"
+  ],
+  "tools": [
+    170.0,
+    "tools and instrument mods"
+  ],
+  "totalconversion": [
+    40.0,
+    "Total Conversions"
+  ],
+  "totalconversionaddons": [
+    45.0,
+    "Total Conversions, Addon"
+  ],
+  "trading": [
+    600.0,
+    "trading mods"
+  ],
+  "translations": [
+    950.0,
+    "language patches"
+  ],
+  "userinterface": [
+    700.0,
+    "user interface"
+  ],
+  "userinterfaceaddon": [
+    710.0,
+    "user interface addons"
+  ],
+  "weapons": [
+    550.0,
+    "weapon mods"
+  ]
+}
