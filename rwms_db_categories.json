@@ -63,8 +63,12 @@
   10.0,
   "Gameplay"
  ],
- "joy": [
+  "item": [
   120.0,
+    "general items and stuff"
+  ],
+  "joy": [
+    125.0,
   "joy items"
  ],
  "libs": [
@@ -92,11 +96,15 @@
   "prisoners and slavery"
  ],
  "production": [
-  60.0,
+   65.0,
   "production mods"
  ],
+  "race": [
+    50.0,
+    "races"
+  ],
  "resource": [
-  50.0,
+   60.0,
   "resources"
  ],
  "scenario": [
