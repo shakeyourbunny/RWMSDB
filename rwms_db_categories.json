@@ -1,0 +1,150 @@
+{
+  "ai": [
+    170.0,
+    "colonist behaviour"
+  ],
+  "animal": [
+    200.0,
+    "animals"
+  ],
+  "animal_ai": [
+    210.0,
+    "animal behaviour mods"
+  ],
+  "annoyance": [
+    500.0,
+    "annoyances"
+  ],
+  "biome": [
+    40.0,
+    "biomes"
+  ],
+  "caravan": [
+    310.0,
+    "caravan stuff"
+  ],
+  "clothing": [
+    140.0,
+    "clothing stuff"
+  ],
+  "colonist_appearance": [
+    150.0,
+    "colonist appearance"
+  ],
+  "combat": [
+    250.0,
+    "general combat mods"
+  ],
+  "core": [
+    1.0,
+    "Core"
+  ],
+  "energy": [
+    90.0,
+    "energy mods"
+  ],
+  "faction": [
+    400.0,
+    "Faction Stuff"
+  ],
+  "food": [
+    110.0,
+    "foodstuff"
+  ],
+  "framework": [
+    5.0,
+    "Frameworks"
+  ],
+  "furniture": [
+    80.0,
+    "furniture"
+  ],
+  "gameplay": [
+    10.0,
+    "Gameplay"
+  ],
+  "joy": [
+    120.0,
+    "joy items"
+  ],
+  "libs": [
+    3.0,
+    "Core Libs"
+  ],
+  "load_last_mod": [
+    9999.0,
+    "Load Last Mods"
+  ],
+  "load_really_first": [
+    2.0,
+    "load first mods"
+  ],
+  "medicine": [
+    100.0,
+    "medicine"
+  ],
+  "patch": [
+    520.0,
+    "patches and fixes"
+  ],
+  "prisoner": [
+    180.0,
+    "prisoners and slavery"
+  ],
+  "production": [
+    60.0,
+    "production mods"
+  ],
+  "resource": [
+    50.0,
+    "resources"
+  ],
+  "scenario": [
+    30.0,
+    "scenario"
+  ],
+  "skill": [
+    160.0,
+    "colonist skills"
+  ],
+  "statue": [
+    130.0,
+    "statues"
+  ],
+  "storyteller": [
+    410.0,
+    "Storyteller"
+  ],
+  "structure": [
+    70.0,
+    "structure"
+  ],
+  "texture": [
+    700.0,
+    "graphic overhaul / textures"
+  ],
+  "total_conversion": [
+    20.0,
+    "conversions "
+  ],
+  "trading": [
+    300.0,
+    "trading stuff"
+  ],
+  "translation": [
+    510.0,
+    "translations"
+  ],
+  "ui": [
+    600.0,
+    "User Interface"
+  ],
+  "ui_addon": [
+    610.0,
+    "User Interface Mods, Addons"
+  ],
+  "weapon": [
+    260.0,
+    "weapons"
+  ]
+}
