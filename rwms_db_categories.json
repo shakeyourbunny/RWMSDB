@@ -15,6 +15,10 @@
   500.0,
   "annoyances"
  ],
+  "appearance": [
+    150.0,
+    "colonist appearance"
+  ],
  "biome": [
   40.0,
   "biomes"
@@ -26,10 +30,6 @@
  "clothing": [
   140.0,
   "clothing stuff"
- ],
- "colonist_appearance": [
-  150.0,
-  "colonist appearance"
  ],
  "combat": [
   250.0,
