@@ -316,5 +316,14 @@
   "Haul to Stack": "ai",
   "RuntimeGC": "load_really_first",
   "Gas Traps And Shells": "combat",
-  "WeaponStats": "ui"
+  "WeaponStats": "ui",
+  "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings - 1.0": "ui",
+  "Vanilla Factions Tribal Weapons": "annoyance",
+  "Advanced Biomes": "biome",
+  "Deads not so Intense dense Biomes": "biome",
+  "Vanilla Weapon Upgrades": "weapon",
+  "Extended Turrets": "combat",
+  "CaveworldFlora": "resouce",
+  "RimStarve": "animal",
+  "[XND] Vanilla-Friendly Weapon Expansion": "weapon"
 }
