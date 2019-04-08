@@ -36,7 +36,7 @@
   "general combat mods"
  ],
  "core": [
-  1.0,
+   2.0,
   "Core"
  ],
  "energy": [
@@ -52,7 +52,7 @@
   "foodstuff"
  ],
  "framework": [
-  5.0,
+   8.0,
   "Frameworks"
  ],
  "furniture": [
@@ -63,6 +63,10 @@
   10.0,
   "Gameplay"
  ],
+  "hugslib": [
+    5.0,
+    "hugslib"
+  ],
   "item": [
   120.0,
     "general items and stuff"
@@ -72,16 +76,24 @@
   "joy items"
  ],
  "libs": [
-  3.0,
+   6.0,
   "Core Libs"
  ],
+  "light": [
+    85.0,
+    "light mods"
+  ],
+  "load_first_mod": [
+    4.0,
+    "load first mods"
+  ],
  "load_last_mod": [
   9999.0,
   "Load Last Mods"
  ],
- "load_really_first": [
-  2.0,
-  "load first mods"
+  "load_really_first_mod": [
+    1.0,
+    "load REALLY first mods"
  ],
  "medicine": [
   100.0,
@@ -127,6 +139,10 @@
   70.0,
   "structure"
  ],
+  "temperature": [
+    45.0,
+    "temperature"
+  ],
  "texture": [
   700.0,
   "graphic overhaul / textures"
