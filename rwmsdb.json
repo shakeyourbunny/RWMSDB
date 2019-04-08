@@ -244,7 +244,7 @@
   "Horses (1.0)": "animal",
     "Horses (1.0) A Dog Said Patch": "patch",
   "Hospitality": "gameplay",
-  "HugsLib": "load_really_first",
+    "HugsLib": "hugslib",
   "Humanoid Alien Races 2.0": "libs",
   "Hunt for Me": "ai_animal",
   "Impassable Chest-deep Water": "biome",
