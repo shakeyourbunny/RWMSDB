@@ -3,7 +3,7 @@
   "Preechr": 48,
   "dreipixel": 49,
   "nightliss": 57,
-  "shakeyourbunny": 660,
+  "shakeyourbunny": 662,
   "\u26e7 Black Goat \u26e7": 129
  },
  "db": {
@@ -80,6 +80,7 @@
   "BetterVents": "temperature",
   "BioReactor": "energy",
   "Bionic icons": "texture",
+  "Blake's apparel": "clothing",
   "Blighted Alert": "ui",
   "Blueprint Totals Tooltip": "ui",
   "Blueprints": "appearance",
@@ -242,6 +243,7 @@
   "Field Medic [1.0]": "medicine",
   "Filthy Orc Invasion": "race",
   "Fire Extinguisher": "item",
+  "Firekeeper": "ai",
   "FishIndustry": "food",
   "Five Second Rule": "annoyance",
   "Fixable Mood Debuffs Alert": "ui",
