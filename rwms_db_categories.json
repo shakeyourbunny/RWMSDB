@@ -35,6 +35,10 @@
   250.0,
   "general combat mods"
  ],
+  "combat_addon": [
+    270.0,
+    "combat addons"
+  ],
  "core": [
    2.0,
   "Core"
