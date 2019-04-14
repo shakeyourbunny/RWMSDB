@@ -8,4 +8,10 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 
 Contributors
 ------------
-no other contributors yet
+- shakeyourbunny
+- ⛧ Black Goat ⛧
+- dreipixel
+- nightliss
+- Preechr
+- Montyi
+
