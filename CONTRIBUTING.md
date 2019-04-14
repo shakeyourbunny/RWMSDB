@@ -14,4 +14,5 @@ Contributors
 - nightliss
 - Preechr
 - Montyi
+- AngryScandinavian
 
