@@ -6,7 +6,7 @@
   "dreipixel": 49,
   "nightliss": 57,
   "rawrfisher": 23,
-  "shakeyourbunny": 662,
+  "shakeyourbunny": 664,
   "\u26e7 Black Goat \u26e7": 129
  },
  "db": {
@@ -607,6 +607,7 @@
   "RimJobWorld": "load_last_mod",
   "RimPlas": "resource",
   "RimQuest": "storyteller",
+  "RimSaves": "ui",
   "RimSearch": "ui",
   "RimStarve": "animal",
   "RimTaser [1.0]": "combat",
@@ -623,6 +624,7 @@
   "Rimcolle Clothes": "clothing",
   "Rimcolle Hair": "appearance",
   "Rimcraft": "race",
+  "Rimcraft Animals Only": "animal",
   "Rimefeller": "energy",
   "Rimhammer - The End Times": "total_conversion",
   "Rimhammer - The End Times - With Guns!!": "total_conversion",
