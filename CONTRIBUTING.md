@@ -16,4 +16,6 @@ Contributors
 - Montyi
 - AngryScandinavian
 - rawrfisher
-
+- axelfoxy
+- Jiala
+- Bdan720
