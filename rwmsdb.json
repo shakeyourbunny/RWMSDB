@@ -9,7 +9,7 @@
   "bagelhe": 35,
   "dreipixel": 49,
   "nightliss": 57,
-  "rawrfisher": 23,
+   "rawrfisher": 26,
   "shakeyourbunny": 664,
   "\u26e7 Black Goat \u26e7": 129
  },
@@ -408,7 +408,7 @@
   "Let's Have a Cat!": "animal",
   "Let's Trade! [1.0]": "trading",
   "Level This! (Version 1.2: Finally got **** working)": "skill",
-  "Level This! (Version 1.3: Electric Configuloo)": "gameplay",
+   "Level This! (Version 1.3: Electric Configuloo)": "skill",
   "Level Up!": "ui",
   "Lighter Than Fast": "race",
   "Lizardmen": "race",
@@ -752,6 +752,7 @@
   "Sci-Fire-Power Core": "combat",
   "Science Never Stops": "resource",
   "Search and Destroy": "ai",
+   "Secret Passage Doors": "structure",
   "Selectable Sculpture Graphic": "ui",
   "Selected Reconnector": "energy",
   "Selling prisoners with no guilt": "prisoner",
@@ -849,6 +850,7 @@
   "Tiberium Rim Factions": "total_conversion",
   "TicksPerSecond": "ui",
   "Tilled Soil": "resource",
+   "Time-Based Dangers": "storyteller",
   "Time-of-Day Switches": "energy",
   "Toggle Harvest": "ui",
   "Toggles": "annoyance",
@@ -1134,7 +1136,8 @@
   "gloomy_dress": "clothing",
   "gloomy_face": "appearance",
   "gloomy_hair": "appearance",
-  "no disturbed sleep": "annoyance"
+   "no disturbed sleep": "annoyance",
+   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
  "timestamp": "Mon Apr  8 19:00:05 2019",
  "version": 4
