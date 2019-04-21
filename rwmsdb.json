@@ -14,7 +14,7 @@
   "dreipixel": 49,
   "nightliss": 57,
   "rawrfisher": 29,
-  "shakeyourbunny": 671,
+  "shakeyourbunny": 672,
   "\u26e7 Black Goat \u26e7": 129
  },
  "db": {
@@ -1252,6 +1252,7 @@
   "[T] MoreFloors": "furniture",
   "[WD] Barbed Wire 1.0": "combat",
   "[WD] Barricades! 1.0": "structure",
+  "[WD] Expanded Artillery": "combat",
   "[WD] Expanded Artillery 1.0": "combat",
   "[WD] Fast Moisture Pumps 1.0": "item",
   "[WD] Materials For Coolers 1.0": "energy",
