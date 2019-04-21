@@ -501,7 +501,7 @@
   "Misc. Weapon Repair": "combat",
   "Miscellaneous 'CORE'": "libs",
   "Mod Manager": "ui",
-  "ModCheck": "load_first_mod",
+  "ModCheck": "load_really_first_mod",
   "ModSwitch": "ui",
   "ModSync RW - 1.0": "ui",
   "Moody": "ui",
