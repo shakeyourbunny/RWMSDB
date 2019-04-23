@@ -14,7 +14,7 @@
   "czarneski77": 120,
   "dreipixel": 49,
   "nightliss": 57,
-  "rawrfisher": 29,
+  "rawrfisher": 32,
   "shakeyourbunny": 676
  },
  "db": {
@@ -233,6 +233,7 @@
   "DeepRim": "production",
   "Defensive Machine Gun Turret Pack": "combat",
   "Defensive Positions": "ui",
+  "Definitely More Cannons": "combat",
   "DermalRegenerator 1.0": "medicine",
   "Desynchronized (v1.4.5)": "ai",
   "Desynchronized (v1.4.6)": "ai",
@@ -379,6 +380,7 @@
   "Giddy-up! Core": "gameplay",
   "Giddy-up! Mechanoids": "patch",
   "Giddy-up! Ride and Roll": "ai",
+  "Girl's Frontline Theme": "ui_addon",
   "Girls' frontline Apparel Pack": "clothing",
   "Glass+Lights": "light",
   "Glass+Lights Efficient Lights": "patch",
@@ -460,6 +462,7 @@
   "Kill For Me": "ai_animal",
   "Killfeed": "ui",
   "Kurin, The Three Tailed Fox": "faction",
+  "Kurin, a bad translation": "patch",
   "Kyulen - NinetailFox": "animal",
   "LBE's A Dog Said Easy Patcher": "patch",
   "LWM's Deep Storage": "furniture",
