@@ -2,6 +2,7 @@
  "contributor": {
   "AngryScandinavian": 22,
   "Bdan720": 24,
+  "Black Goat": 129,
   "Deathawaits4": 7,
   "Jiala": 14,
   "Jolc3r": 22,
@@ -14,8 +15,7 @@
   "dreipixel": 49,
   "nightliss": 57,
   "rawrfisher": 29,
-  "shakeyourbunny": 672,
-  "Black Goat": 129
+  "shakeyourbunny": 676
  },
  "db": {
   "1- UN-Colony [1.0]": "total_conversion",
@@ -604,6 +604,7 @@
   "More Vanilla Turrets 1.0": "combat",
   "More vanilla factions": "faction",
   "MoreMonstergirls": "animal",
+  "MoreQualityInfluence": "patch",
   "Movable Sandbags": "patch",
   "Muffalant": "animal",
   "Muffalant - A Dog Said Patch": "patch",
@@ -623,6 +624,7 @@
   "NewRatkinPlus": "race",
   "Ni'Hal 1.0": "race",
   "Ni'Hal Drake Gear 1.0": "animal",
+  "Night Light [1.0]": "light",
   "No \"Ate Without A Table\"": "annoyance",
   "No Burny (less flammable metals)": "annoyance",
   "No Debris B18": "annoyance",
@@ -1022,6 +1024,7 @@
   "Vanilla Animals Expanded \u2014 Livestock": "animal",
   "Vanilla Animals Overhaul Reloaded": "patch",
   "Vanilla Factions Tribal Weapons": "annoyance",
+  "Vanilla Friendly Pallet [1.0]": "furniture",
   "Vanilla Furniture Expanded": "furniture",
   "Vanilla Furniture Expanded - Medical Module": "furniture",
   "Vanilla Weapon Upgrades": "weapon",
@@ -1035,6 +1038,7 @@
   "Veinminer R1.0": "production",
   "Verge of Galaxy (Music Mod) 1.0.0": "ui",
   "Verify Start 1.0": "ui",
+  "VeteranColonist": "ui",
   "Volcano Variety (Advanced Biomes)": "patch",
   "Vulpine Race Pack": "race",
   "WA-Wall [1.0]": "structure",
