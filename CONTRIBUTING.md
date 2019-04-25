@@ -23,3 +23,4 @@ Contributors
 - Thirsk
 - johnrando
 - Kladdey
+- Halcyonix
