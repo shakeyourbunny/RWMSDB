@@ -19,7 +19,7 @@
   "nightliss": 57,
   "rawrfisher": 32,
   "seriouscylinder": 4,
-  "shakeyourbunny": 676
+  "shakeyourbunny": 677
  },
  "db": {
   "1- UN-Colony [1.0]": "total_conversion",
@@ -840,6 +840,7 @@
   "Rimcolle Clothes": "clothing",
   "Rimcolle Hair": "appearance",
   "Rimcraft": "race",
+  "Rimcraft Animals": "animal",
   "Rimcraft Animals Only": "animal",
   "Rimefeller": "energy",
   "Rimhammer - The End Times": "total_conversion",

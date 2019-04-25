@@ -22,3 +22,4 @@ Contributors
 - seriouscylinder
 - Thirsk
 - johnrando
+- Kladdey
