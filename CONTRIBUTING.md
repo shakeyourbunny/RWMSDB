@@ -21,3 +21,4 @@ Contributors
 - Bdan720
 - seriouscylinder
 - Thirsk
+- johnrando
