@@ -20,3 +20,4 @@ Contributors
 - Jiala
 - Bdan720
 - seriouscylinder
+- Thirsk
