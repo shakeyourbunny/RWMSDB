@@ -1,7 +1,7 @@
 {
  "contributor": {
   "AngryScandinavian": 22,
-  "Bdan720": 24,
+  "Bdan720": 29,
   "Black Goat": 157,
   "Deathawaits4": 7,
   "Halcyonix": 10,
@@ -98,6 +98,7 @@
   "AutoPriorities": "ui",
   "AutopsyTable": "production",
   "Avali": "race",
+  "Avali Race Mod - 1.4.0": "race",
   "Avali Race Mod 1.4.0": "race",
   "Avoid Friendly Fire": "combat",
   "Awoolf": "ui",
@@ -1058,6 +1059,8 @@
   "TwitchToolkit": "storyteller",
   "USCM - Colonial Marines Corps Faction 1.0": "faction",
   "USCM - Core 1.0": "weapon",
+  "USCM - Turret 1.0": "combat",
+  "USCM - Xenomorphs Faction 1.0": "faction",
   "USCM Turret 1.0": "combat",
   "USCM Xenomorphs Faction 1.0": "faction",
   "Ugh You Got Me": "ai",
@@ -1200,6 +1203,7 @@
   "[1.0] Trading Economy Mod 3.1": "trading",
   "[1.0] Tranquilizer guns": "weapon",
   "[1.0] Wild Animal Sex V4.1": "ai_animal",
+  "[1.0] Xenite Industries": "production",
   "[1.0] Xenite Industries\u201d": "gameplay",
   "[1.0]Gourmand trait nerf": "annoyance",
   "[1.0]Long Range Transport Pods": "patch",
@@ -1387,6 +1391,7 @@
   "gloomy_hair": "appearance",
   "no disturbed sleep": "annoyance",
   "oni": "race",
+  "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
  "timestamp": "Mon Apr  8 19:00:05 2019",
