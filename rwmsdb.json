@@ -22,7 +22,7 @@
   "nightliss": 57,
   "rawrfisher": 32,
   "seriouscylinder": 4,
-  "shakeyourbunny": 677
+  "shakeyourbunny": 681
  },
  "db": {
   "1- UN-Colony [1.0]": "total_conversion",
@@ -172,6 +172,7 @@
   "Call of Cthulhu - Straitjackets": "clothing",
   "Callistans(1.0)": "race",
   "Camera+": "ui",
+  "Camp Table (from CP Srv Add)": "caravan",
   "Camping Stuff": "structure",
   "Capacity Tweak": "patch",
   "Caravan Auto-Bedroll": "caravan",
@@ -230,6 +231,7 @@
   "Crash Landing": "gameplay",
   "Crazy Cat Lady": "skill",
   "Cremate Auto Strip": "ai",
+  "Crikey, it's a Croc!": "animal",
   "Crossbows": "combat",
   "Cryogenics Cube": "furniture",
   "Crystalloid (Rewrite)": "race",
@@ -318,6 +320,7 @@
   "Electric Stonecutting Table": "production",
   "ElectricFence": "structure",
   "Embrasures": "structure",
+  "Emporium": "trading",
   "Engraved Walls [1.0]": "patch",
   "Enhanced Battery": "energy",
   "Epic Rivers": "biome",
@@ -948,6 +951,7 @@
   "Simple Chains: Leather": "production",
   "Simple Chains: Steel": "production",
   "Simple Concrete": "resource",
+  "Simple Furniture (from CP Srv Add)": "furniture",
   "Simple Recycling": "production",
   "Simple Slavery[1.0]": "prisoner",
   "Simple Stockpile Presets": "ui",
@@ -1409,6 +1413,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sat Apr 27 10:31:24 2019",
+ "timestamp": "Sat Apr 27 11:10:05 2019",
  "version": 4
 }
