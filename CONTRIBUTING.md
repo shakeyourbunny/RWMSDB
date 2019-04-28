@@ -26,3 +26,4 @@ Contributors
 - Halcyonix
 - Kyonai
 - SpookieWookie
+- Deathawaits4

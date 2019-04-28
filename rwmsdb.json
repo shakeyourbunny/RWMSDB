@@ -3,7 +3,7 @@
   "AngryScandinavian": 22,
   "Bdan720": 29,
   "Black Goat": 157,
-  "Deathawaits4": 7,
+  "Deathawaits4": 8,
   "Halcyonix": 10,
   "Jiala": 14,
   "Jolc3r": 22,
@@ -660,6 +660,7 @@
   "More vanilla factions": "faction",
   "MoreMonstergirls": "animal",
   "MoreQualityInfluence": "patch",
+  "Mountain Miner 1.0": "production",
   "Movable Sandbags": "patch",
   "Muffalant": "animal",
   "Muffalant - A Dog Said Patch": "patch",
@@ -1414,6 +1415,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sat Apr 27 12:03:20 2019",
+ "timestamp": "Sun Apr 28 13:25:09 2019",
  "version": 4
 }
