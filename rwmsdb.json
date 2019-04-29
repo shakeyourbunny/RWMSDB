@@ -23,7 +23,7 @@
   "nightliss": 57,
   "rawrfisher": 32,
   "seriouscylinder": 4,
-  "shakeyourbunny": 682
+  "shakeyourbunny": 683
  },
  "db": {
   "1- UN-Colony [1.0]": "total_conversion",
@@ -548,6 +548,7 @@
   "Leeani Playable Race": "race",
   "Less Arbitrary Surgery": "medicine",
   "Less Default Hair": "appearance",
+  "Less Incident Trolling": "annoyance",
   "Less Rebuff": "ai",
   "Less Stupid Romance Attempt": "ai",
   "Lesser mood debuffs": "annoyance",
@@ -1473,6 +1474,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun Apr 28 13:37:16 2019",
+ "timestamp": "Mon Apr 29 10:08:26 2019",
  "version": 4
 }
