@@ -14,7 +14,7 @@
   "Montyi": 16,
   "Preechr": 48,
   "SpookieWookie": 7,
-  "Thirsk": 3,
+  "Thirsk": 4,
   "axelfoxy": 41,
   "bagelhe": 35,
   "czarneski77": 120,
@@ -419,6 +419,7 @@
   "Fueled Smelter [.19/1.0] Version": "production",
   "Full Gun Sell Price": "trading",
   "Furnace": "production",
+  "GM's Winter Hats [1.0]": "clothing",
   "Gas Traps And Shells": "combat",
   "Gear Up And Go": "ui",
   "Gems": "resource",
@@ -1474,6 +1475,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Mon Apr 29 10:08:26 2019",
+ "timestamp": "Mon Apr 29 10:13:30 2019",
  "version": 4
 }
