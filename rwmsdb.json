@@ -2,7 +2,7 @@
  "contributor": {
   "AngryScandinavian": 22,
   "Bdan720": 29,
-  "Black Goat": 157,
+  "Black Goat": 159,
   "Deathawaits4": 8,
   "Dessometrics": 57,
   "Halcyonix": 10,
@@ -644,6 +644,7 @@
   "Mechalit Equipment + Faction 1.0": "faction",
   "Mechanite Augmentation": "gameplay",
   "Mechanite Forge Reborn": "medicine",
+  "Mechanoid Power": "energy",
   "Mechanoids Extraordinaire": "faction",
   "Mechanoids Feel Chill Now 1.0": "faction",
   "Medical Supplements": "medicine",
@@ -1060,6 +1061,7 @@
   "Simple FX: Smoke": "texture",
   "Simple Furniture (from CP Srv Add)": "furniture",
   "Simple Recycling": "production",
+  "Simple Sidearms Fire Extinguisher Fix": "patch",
   "Simple Slavery[1.0]": "prisoner",
   "Simple Stockpile Presets": "ui",
   "Simple sidearms": "combat",
@@ -1552,6 +1554,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Tue Apr 30 20:12:53 2019",
+ "timestamp": "Tue Apr 30 20:16:35 2019",
  "version": 4
 }
