@@ -10,6 +10,7 @@ Contributors
 - AngryScandinavian: 22 mods
 - Bdan720: 29 mods
 - Black Goat: 159 mods
+- DaedManLost: 35 mods
 - Deathawaits4: 8 mods
 - Dessometrics: 57 mods
 - Halcyonix: 10 mods
@@ -34,3 +35,4 @@ Contributors
 - seriouscylinder: 4 mods
 - shakeyourbunny: 683 mods
 - transbiod: 32 mods
+- pjradz: 2 mods
