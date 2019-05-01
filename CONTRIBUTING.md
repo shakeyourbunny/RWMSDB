@@ -30,3 +30,4 @@ Contributors
 - Dessometrics
 - transbiod
 - maff
+- rallias
