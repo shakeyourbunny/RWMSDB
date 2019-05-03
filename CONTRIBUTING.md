@@ -11,7 +11,7 @@ Contributors
 - Bdan720: 29 mods
 - Black Goat: 159 mods
 - DaedManLost: 35 mods
-- Deathawaits4: 8 mods
+- Deathawaits4: 9 mods
 - Dessometrics: 57 mods
 - Halcyonix: 10 mods
 - Jiala: 14 mods

@@ -4,7 +4,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "DaedManLost": 35,
-  "Deathawaits4": 8,
+  "Deathawaits4": 9,
   "Dessometrics": 57,
   "Halcyonix": 10,
   "Jiala": 14,
@@ -1627,6 +1627,7 @@
   "[sd] chicken nest": "furniture",
   "[sd] conduit wall": "energy",
   "[sd] goodnight": "furniture",
+  "[sd] luciferium production": "production",
   "[sd] medicaddons": "medicine",
   "[sd] nopower comms console": "trading",
   "[sd] spaceship": "structure",
@@ -1647,6 +1648,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 14:55:46 2019",
+ "timestamp": "Fri May  3 21:16:31 2019",
  "version": 4
 }
