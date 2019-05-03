@@ -30,9 +30,10 @@ Contributors
 - johnrando: 30 mods
 - maff: 43 mods
 - nightliss: 57 mods
+- pjradz: 2 mods
 - rallias: 15 mods
 - rawrfisher: 32 mods
 - seriouscylinder: 4 mods
 - shakeyourbunny: 683 mods
 - transbiod: 32 mods
-- pjradz: 2 mods
+- bertaz: 1 mods

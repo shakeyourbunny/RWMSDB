@@ -18,6 +18,7 @@
   "Thirsk": 4,
   "axelfoxy": 41,
   "bagelhe": 35,
+  "bertaz": 1,
   "czarneski77": 120,
   "dreipixel": 49,
   "johnrando": 30,
@@ -894,6 +895,7 @@
   "Quantum Storage 1.0": "gameplay",
   "Quarry 1.0": "production",
   "Questionable Ethics": "gameplay",
+  "Quicker+skill Stonecutting": "skill",
   "RBSE Hardcore Edition": "gameplay",
   "RIMMSLoadUp": "load_really_first_mod",
   "RIMMSqol": "patch",
@@ -1614,6 +1616,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Wed May  1 11:51:04 2019",
+ "timestamp": "Fri May  3 08:55:43 2019",
  "version": 4
 }
