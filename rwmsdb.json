@@ -25,7 +25,7 @@
   "johnrando": 30,
   "jupiterlily": 14,
   "maff": 43,
-  "nightliss": 57,
+  "nightliss": 58,
   "pjradz": 2,
   "rallias": 15,
   "rawrfisher": 32,
@@ -1128,6 +1128,7 @@
   "SimplyMoreFloors": "furniture",
   "Single Plant Texture Patch": "texture",
   "Skilled Stonecutting": "skill",
+  "SleepStopper": "gameplay",
   "Slightly More Realistic Wool Production": "patch",
   "Slither Race": "race",
   "Sloppy Chop": "production",
@@ -1639,6 +1640,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 09:16:48 2019",
+ "timestamp": "Fri May  3 13:52:41 2019",
  "version": 4
 }
