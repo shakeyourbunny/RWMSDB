@@ -1,5 +1,6 @@
 {
  "contributor": {
+  "": 2,
   "AngryScandinavian": 22,
   "Bdan720": 29,
   "Black Goat": 159,
@@ -25,7 +26,7 @@
   "johnrando": 30,
   "jupiterlily": 14,
   "maff": 43,
-  "nightliss": 58,
+  "Nightliss": 60,
   "pjradz": 2,
   "rallias": 15,
   "rawrfisher": 32,
@@ -364,6 +365,7 @@
   "ETRT: Cannibal Tweaks": "ai",
   "ETRT: Industrial Tweaks": "patch",
   "ETRT: Medicine Production": "patch",
+  "ETRT: Power Usage Tweaks": "patch",
   "ETRT: Tribal Apparel": "clothing",
   "Early Industrial Societies": "faction",
   "Easier Growingzones": "ui",
@@ -1413,6 +1415,7 @@
   "[1.0] Palisades Embrasures Patch ": "combat",
   "[1.0] Polyamory Beds (More Furniture Patch)": "patch",
   "[1.0] Polyamory Beds (Nano Repair Edition)": "patch",
+  "[1.0] Polyamory Beds (Support Package)": "patch",
   "[1.0] Polyamory Beds (Vanilla Edition)": "furniture",
   "[1.0] RPG Style Inventory": "ui",
   "[1.0] Razor Wire (With Damage)": "combat",
@@ -1648,6 +1651,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 21:16:31 2019",
+ "timestamp": "Fri May  3 21:18:18 2019",
  "version": 4
 }

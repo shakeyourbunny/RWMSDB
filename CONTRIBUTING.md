@@ -32,7 +32,7 @@ Contributors
 - johnrando: 30 mods
 - jupiterlily: 14 mods
 - maff: 43 mods
-- nightliss: 58 mods
+- Nightliss: 60 mods
 - pjradz: 2 mods
 - rallias: 15 mods
 - rawrfisher: 32 mods
