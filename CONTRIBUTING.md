@@ -22,7 +22,7 @@ Contributors
 - Montyi: 16 mods
 - Preechr: 48 mods
 - SpookieWookie: 7 mods
-- Thirsk: 4 mods
+- Thirsk: 6 mods
 - axelfoxy: 41 mods
 - bagelhe: 35 mods
 - bertaz: 1 mods

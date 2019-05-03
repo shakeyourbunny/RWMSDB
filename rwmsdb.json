@@ -15,7 +15,7 @@
   "Montyi": 16,
   "Preechr": 48,
   "SpookieWookie": 7,
-  "Thirsk": 4,
+  "Thirsk": 6,
   "axelfoxy": 41,
   "bagelhe": 35,
   "bertaz": 1,
@@ -452,6 +452,7 @@
   "Food Alert": "ui",
   "Forbiddable Refuelables": "ai",
   "Forbidden Temperatures": "ai",
+  "Forsakens": "race",
   "Foxes Aren't Suicidal": "ai_animal",
   "FrameRateControl": "ui",
   "Frilleus": "animal",
@@ -1247,6 +1248,7 @@
   "Tradeable AI Persona Core": "patch",
   "Trading Spot": "ui",
   "Training Console 1.0": "skill",
+  "Transmution": "production",
   "Transport Downed Pawns": "ai",
   "Trap Disable[1.0]": "patch",
   "Tribal Headgear Retexturing": "texture",
@@ -1637,6 +1639,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 09:09:39 2019",
+ "timestamp": "Fri May  3 09:16:48 2019",
  "version": 4
 }
