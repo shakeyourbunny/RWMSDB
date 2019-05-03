@@ -17,7 +17,7 @@ Contributors
 - Jiala: 14 mods
 - Jolc3r: 22 mods
 - KaosuReido: 1 mods
-- Kladdey: 2 mods
+- Kladdey: 9 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
 - Preechr: 48 mods
