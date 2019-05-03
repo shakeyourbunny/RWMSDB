@@ -25,6 +25,7 @@ Contributors
 - Thirsk: 4 mods
 - axelfoxy: 41 mods
 - bagelhe: 35 mods
+- bertaz: 1 mods
 - czarneski77: 120 mods
 - dreipixel: 49 mods
 - johnrando: 30 mods
@@ -36,4 +37,4 @@ Contributors
 - seriouscylinder: 4 mods
 - shakeyourbunny: 683 mods
 - transbiod: 32 mods
-- bertaz: 1 mods
+- handspiker2: 2 mods

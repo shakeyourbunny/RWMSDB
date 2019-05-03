@@ -21,6 +21,7 @@
   "bertaz": 1,
   "czarneski77": 120,
   "dreipixel": 49,
+  "handspiker2": 2,
   "johnrando": 30,
   "maff": 43,
   "nightliss": 57,
@@ -401,7 +402,9 @@
   "Extended Turrets": "combat",
   "Extended Woodworking": "production",
   "Extra Traits for CE": "patch",
+  "FFGermanShepherd": "animal",
   "FFGermanShepherd Caravaneer re-upload": "caravan",
+  "FFGermanShepherd Compatibility Patch for A Dog Said": "patch",
   "Facial Stuff 1.0": "appearance",
   "Faction Discovery": "faction",
   "Faction Manager": "gameplay",
@@ -1616,6 +1619,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 08:55:43 2019",
+ "timestamp": "Fri May  3 08:59:08 2019",
  "version": 4
 }
