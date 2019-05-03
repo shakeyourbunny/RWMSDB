@@ -31,7 +31,8 @@
   "rawrfisher": 32,
   "seriouscylinder": 4,
   "shakeyourbunny": 683,
-  "transbiod": 32
+  "transbiod": 32,
+  "whitmadm": 2
  },
  "db": {
   "1- UN-Colony [1.0]": "total_conversion",
@@ -1347,6 +1348,7 @@
   "Wide Boi Solar Panel": "energy",
   "Wild Drugs": "biome",
   "Wild Haygrass [1.0]": "resource",
+  "Wild Pok\u00e9mon [1.0]": "animal",
   "Wooden Pallet [1.0]": "furniture",
   "Work Tab": "ui",
   "WorldEdit": "ui",
@@ -1458,6 +1460,7 @@
   "[FSF] Growable Ambrosia": "resource",
   "[FSF] Growable Grass": "resource",
   "[FSF] Growable Mushrooms": "food",
+  "[FSF] Improved Ship Reactors": "energy",
   "[FSF] Indoor Tree Farms": "production",
   "[FSF] No Default Shelf Storage": "annoyance",
   "[FSF] Rain Washes Away Filth": "annoyance",
@@ -1634,6 +1637,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May  3 09:06:58 2019",
+ "timestamp": "Fri May  3 09:09:39 2019",
  "version": 4
 }
