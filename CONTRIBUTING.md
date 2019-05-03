@@ -28,6 +28,7 @@ Contributors
 - bertaz: 1 mods
 - czarneski77: 120 mods
 - dreipixel: 49 mods
+- handspiker2: 2 mods
 - johnrando: 30 mods
 - maff: 43 mods
 - nightliss: 57 mods
@@ -37,4 +38,4 @@ Contributors
 - seriouscylinder: 4 mods
 - shakeyourbunny: 683 mods
 - transbiod: 32 mods
-- handspiker2: 2 mods
+- jupiterlily: 14 mods
