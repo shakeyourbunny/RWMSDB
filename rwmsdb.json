@@ -23,6 +23,7 @@
   "czarneski77": 120,
   "dreipixel": 49,
   "handspiker2": 2,
+  "john": 3,
   "johnrando": 30,
   "jupiterlily": 14,
   "maff": 43,
@@ -359,6 +360,7 @@
   "ED-Prometheus": "gameplay",
   "ED-SafeTraps": "combat",
   "ED-ShieldsBasic": "combat",
+  "EPOE - rebalance": "patch",
   "EPOE Replacement Expansion": "gameplay",
   "ETRT: Bulk Production Recipes": "production",
   "ETRT: Cannibal Tweaks": "ai",
@@ -430,6 +432,7 @@
   "Ferian Race": "race",
   "Ferrex Race 1.0": "race",
   "Fertile Fields Dub's Hygiene Compat": "patch",
+  "Fertile Planet": "biome",
   "Field Medic [1.0]": "medicine",
   "Filthy Orc Invasion": "race",
   "Fire Door": "structure",
@@ -773,6 +776,7 @@
   "MoreFlowers": "biome",
   "MoreMonstergirls": "animal",
   "MoreQualityInfluence": "patch",
+  "Mortar Accuracy": "combat",
   "Mountain Miner 1.0": "production",
   "Movable Sandbags": "patch",
   "Muffalant": "animal",
@@ -1652,6 +1656,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sat May  4 10:00:14 2019",
+ "timestamp": "Sat May  4 10:14:23 2019",
  "version": 4
 }

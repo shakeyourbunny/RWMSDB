@@ -7,7 +7,6 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 
 Contributors
 ------------
-- : 2 mods
 - AngryScandinavian: 22 mods
 - Bdan720: 29 mods
 - Black Goat: 159 mods
@@ -21,6 +20,7 @@ Contributors
 - Kladdey: 9 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
+- Nightliss: 60 mods
 - Preechr: 48 mods
 - SpookieWookie: 7 mods
 - Thirsk: 6 mods
@@ -30,10 +30,10 @@ Contributors
 - czarneski77: 120 mods
 - dreipixel: 49 mods
 - handspiker2: 2 mods
+- john: 3 mods
 - johnrando: 30 mods
 - jupiterlily: 14 mods
 - maff: 43 mods
-- Nightliss: 60 mods
 - pjradz: 2 mods
 - rallias: 15 mods
 - rawrfisher: 32 mods
