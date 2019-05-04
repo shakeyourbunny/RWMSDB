@@ -25,7 +25,7 @@ Contributors
 - SpookieWookie: 7 mods
 - Thirsk: 6 mods
 - axelfoxy: 41 mods
-- bagelhe: 35 mods
+- bagelhe: 38 mods
 - bertaz: 1 mods
 - czarneski77: 120 mods
 - dreipixel: 49 mods
