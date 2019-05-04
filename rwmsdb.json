@@ -1178,7 +1178,7 @@
   "Star Wars Races": "race",
   "Starship Troopers - Uniforms (B1.0)": "clothing",
   "Starship Troopers - Weapons (B1.0)": "weapon",
-  "Startup impact": "load_first_mod",
+  "Startup impact": "load_really_first_mod",
   "Static Quality Plus 1.1": "ui",
   "Stats Matter": "patch",
   "Statue of Animal": "statue",
