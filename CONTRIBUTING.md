@@ -37,6 +37,7 @@ Contributors
 - jupiterlily: 14 mods
 - kladdey: 10 mods
 - maff: 43 mods
+- pentacore: 2 mods
 - pjradz: 2 mods
 - rallias: 15 mods
 - rawrfisher: 32 mods
@@ -44,4 +45,4 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
-- pentacore: 2 mods
+- ju1998ly: 21 mods
