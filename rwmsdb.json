@@ -30,6 +30,7 @@
   "jupiterlily": 14,
   "kladdey": 10,
   "maff": 43,
+  "pentacore": 2,
   "pjradz": 2,
   "rallias": 15,
   "rawrfisher": 32,
@@ -236,6 +237,7 @@
   "Cheaper Carpet": "patch",
   "Cheaper Components": "annoyance",
   "Chemfueled Stove": "energy",
+  "Chemical Distilling for Combat Extended": "combat_addon",
   "Chemicals & Neutroamine": "production",
   "Chickens Efficient Light": "light",
   "Children and Pregnancy - Cheran": "patch",
@@ -1491,6 +1493,7 @@
   "[1.0] No Simple Raids": "combat",
   "[1.0] Palisades": "structure",
   "[1.0] Palisades Embrasures Patch ": "combat",
+  "[1.0] Plasteel Great Bow": "weapon",
   "[1.0] Polyamory Beds (More Furniture Patch)": "patch",
   "[1.0] Polyamory Beds (Nano Repair Edition)": "patch",
   "[1.0] Polyamory Beds (Support Package)": "patch",
@@ -1741,6 +1744,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May  5 18:23:24 2019",
+ "timestamp": "Sun May  5 18:27:47 2019",
  "version": 4
 }

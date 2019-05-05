@@ -44,3 +44,4 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
+- pentacore: 2 mods
