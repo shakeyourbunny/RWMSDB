@@ -4,7 +4,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "DaedManLost": 36,
-  "Deathawaits4": 12,
+  "Deathawaits4": 13,
   "Dessometrics": 57,
   "Halcyonix": 10,
   "Jiala": 14,
@@ -445,6 +445,7 @@
   "Faction Manager - Set Up Camp": "caravan",
   "Fahrenheit and Celsius": "ui",
   "Fallout Traits": "skill",
+  "FantasticWorlds": "biome",
   "Fantasy Goblins": "race",
   "Fantasy Metals": "resource",
   "FashionRIMsta": "clothing",
@@ -1740,6 +1741,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May  5 15:54:54 2019",
+ "timestamp": "Sun May  5 18:23:24 2019",
  "version": 4
 }

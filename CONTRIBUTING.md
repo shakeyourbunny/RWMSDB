@@ -11,7 +11,7 @@ Contributors
 - Bdan720: 29 mods
 - Black Goat: 159 mods
 - DaedManLost: 36 mods
-- Deathawaits4: 12 mods
+- Deathawaits4: 13 mods
 - Dessometrics: 57 mods
 - Halcyonix: 10 mods
 - Jiala: 14 mods
@@ -24,6 +24,7 @@ Contributors
 - SpookieWookie: 7 mods
 - Superlagg: 31 mods
 - Thirsk: 6 mods
+- archangel5432: 30 mods
 - axelfoxy: 41 mods
 - bagelhe: 38 mods
 - bertaz: 1 mods
@@ -43,4 +44,3 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
-- archangel5432: 30 mods
