@@ -17,7 +17,6 @@ Contributors
 - Jiala: 14 mods
 - Jolc3r: 22 mods
 - KaosuReido: 1 mods
-- kladdey: 10 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
 - Nightliss: 60 mods
@@ -33,6 +32,7 @@ Contributors
 - john: 3 mods
 - johnrando: 30 mods
 - jupiterlily: 14 mods
+- kladdey: 10 mods
 - maff: 43 mods
 - pjradz: 2 mods
 - rallias: 15 mods
@@ -41,3 +41,4 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
+- darwinning: 6 mods
