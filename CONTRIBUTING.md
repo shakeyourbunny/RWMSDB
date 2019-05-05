@@ -27,6 +27,7 @@ Contributors
 - bagelhe: 38 mods
 - bertaz: 1 mods
 - czarneski77: 120 mods
+- darwinning: 6 mods
 - dreipixel: 49 mods
 - handspiker2: 2 mods
 - john: 3 mods
@@ -41,4 +42,4 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
-- darwinning: 6 mods
+- Superlagg: 31 mods
