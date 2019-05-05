@@ -3,7 +3,7 @@
   "AngryScandinavian": 22,
   "Bdan720": 29,
   "Black Goat": 159,
-  "DaedManLost": 35,
+  "DaedManLost": 36,
   "Deathawaits4": 11,
   "Dessometrics": 57,
   "Halcyonix": 10,
@@ -622,6 +622,7 @@
   "Jurassic Rimworld 1.0": "total_conversion",
   "Just Ignore Me Passing": "ai",
   "Kidnapped colonist camp": "caravan",
+  "Kijin": "race",
   "Kill For Me": "ai_animal",
   "Killfeed": "ui",
   "Kurin, The Three Tailed Fox": "faction",
@@ -1707,6 +1708,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May  5 10:36:47 2019",
+ "timestamp": "Sun May  5 10:39:35 2019",
  "version": 4
 }
