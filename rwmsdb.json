@@ -4,7 +4,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "DaedManLost": 36,
-  "Deathawaits4": 11,
+  "Deathawaits4": 12,
   "Dessometrics": 57,
   "Halcyonix": 10,
   "Jiala": 14,
@@ -146,6 +146,7 @@
   "Beta-humanoids": "race",
   "BetaTraps": "combat",
   "Better Infestations": "faction",
+  "Better Infestations 1.0": "animal",
   "Better Notifications": "ui",
   "Better Pawn Control": "ui",
   "Better Pod Launcher": "ai",
@@ -1708,6 +1709,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May  5 10:39:35 2019",
+ "timestamp": "Sun May  5 10:41:46 2019",
  "version": 4
 }
