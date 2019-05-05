@@ -17,7 +17,7 @@ Contributors
 - Jiala: 14 mods
 - Jolc3r: 22 mods
 - KaosuReido: 1 mods
-- Kladdey: 9 mods
+- kladdey: 10 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
 - Nightliss: 60 mods
@@ -38,6 +38,6 @@ Contributors
 - rallias: 15 mods
 - rawrfisher: 32 mods
 - seriouscylinder: 4 mods
-- shakeyourbunny: 683 mods
+- shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
