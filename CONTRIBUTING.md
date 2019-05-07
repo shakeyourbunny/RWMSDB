@@ -21,6 +21,7 @@ Contributors
 - Montyi: 16 mods
 - Nightliss: 60 mods
 - Preechr: 48 mods
+- Radical-Dragon: 12 mods
 - SpookieWookie: 7 mods
 - Superlagg: 31 mods
 - Thirsk: 6 mods
@@ -46,4 +47,4 @@ Contributors
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
 - whitmadm: 2 mods
-- Radical-Dragon: 12 mods
+- trillex: 6 mods

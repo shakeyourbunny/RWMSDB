@@ -39,6 +39,7 @@
   "seriouscylinder": 4,
   "shakeyourbunny": 691,
   "transbiod": 32,
+  "trillex": 6,
   "whitmadm": 2
  },
  "db": {
@@ -292,6 +293,7 @@
   "Crafting Quality Rebalanced": "patch",
   "Craftsmanship": "skill",
   "Crash Landing": "gameplay",
+  "Crashlanded know nothing": "scenario",
   "Crazy Cat Lady": "skill",
   "Cremate Auto Strip": "ai",
   "Crikey, it's a Croc!": "animal",
@@ -551,6 +553,7 @@
   "GloomyFurniture": "furniture",
   "Glowroot": "medicine",
   "Glowstone": "light",
+  "Golgafrinchans": "scenario",
   "GouRIMet": "food",
   "Gradient Hair": "appearance",
   "Grand Rivers Reborn": "biome",
@@ -1299,6 +1302,7 @@
   "Super Soil": "production",
   "Super animals 1.0": "annoyance",
   "Supply and Demand": "trading",
+  "Survivalist's Additions": "gameplay",
   "Synthmeat": "resource",
   "Syntho Race": "race",
   "T-45b Power Armor (1.0)": "clothing",
@@ -1449,6 +1453,9 @@
   "Weapons+": "weapon",
   "WeaponsOfChoice": "combat",
   "Westerado": "gameplay",
+  "Westerado Gunslinger": "total_conversion",
+  "Westerado The Gun Jesus Revelations": "total_conversion",
+  "Westerado Wilderness": "total_conversion",
   "What Is My Purpose": "ai",
   "What the hack?!": "gameplay",
   "Where is my weapon?": "ai",
@@ -1779,6 +1786,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May  5 21:14:03 2019",
+ "timestamp": "Tue May  7 19:17:46 2019",
  "version": 4
 }
