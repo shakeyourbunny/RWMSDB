@@ -11,7 +11,7 @@ Contributors
 - Bdan720: 29 mods
 - Black Goat: 159 mods
 - DaedManLost: 36 mods
-- Deathawaits4: 13 mods
+- Deathawaits4: 14 mods
 - Dessometrics: 57 mods
 - Halcyonix: 10 mods
 - Jiala: 14 mods
@@ -40,6 +40,7 @@ Contributors
 - jupiterlily: 14 mods
 - kladdey: 10 mods
 - maff: 43 mods
+- ouyin2000: 9 mods
 - pentacore: 2 mods
 - pjradz: 2 mods
 - rallias: 15 mods
@@ -49,4 +50,3 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- ouyin2000: 9 mods

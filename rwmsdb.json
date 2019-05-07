@@ -4,7 +4,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "DaedManLost": 36,
-  "Deathawaits4": 13,
+  "Deathawaits4": 14,
   "Dessometrics": 57,
   "Halcyonix": 10,
   "Jiala": 14,
@@ -453,6 +453,7 @@
   "FFGermanShepherd Caravaneer re-upload": "caravan",
   "FFGermanShepherd Compatibility Patch for A Dog Said": "patch",
   "Facial Stuff 1.0": "appearance",
+  "Faction Blender": "faction",
   "Faction Discovery": "faction",
   "Faction Manager": "gameplay",
   "Faction Manager - Set Up Camp": "caravan",
@@ -1798,6 +1799,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Tue May  7 19:23:09 2019",
+ "timestamp": "Tue May  7 19:26:34 2019",
  "version": 4
 }
