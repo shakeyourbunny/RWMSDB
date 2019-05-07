@@ -18,6 +18,7 @@
   "SpookieWookie": 7,
   "Superlagg": 31,
   "Thirsk": 6,
+  "Wolfehart": 1,
   "archangel5432": 30,
   "axelfoxy": 41,
   "bagelhe": 38,
@@ -487,6 +488,7 @@
   "Floor Lights - 1.0": "light",
   "Floor Lights - B19": "light",
   "Floored": "texture",
+  "Floored Re-Reupload [1.0]": "furniture",
   "FloraTab": "ui",
   "Flowers": "biome",
   "Flowers and Drugs": "biome",
@@ -1786,6 +1788,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Tue May  7 19:17:46 2019",
+ "timestamp": "Tue May  7 19:19:46 2019",
  "version": 4
 }

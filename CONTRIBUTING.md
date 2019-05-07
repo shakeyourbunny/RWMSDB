@@ -46,5 +46,6 @@ Contributors
 - seriouscylinder: 4 mods
 - shakeyourbunny: 691 mods
 - transbiod: 32 mods
-- whitmadm: 2 mods
 - trillex: 6 mods
+- whitmadm: 2 mods
+- Wolfehart: 1 mods
