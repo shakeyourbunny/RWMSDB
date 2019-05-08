@@ -13,6 +13,7 @@ Contributors
 - DaedManLost: 36 mods
 - Deathawaits4: 14 mods
 - Dessometrics: 57 mods
+- Endgegner: 37 mods
 - Halcyonix: 10 mods
 - Jiala: 14 mods
 - Jolc3r: 22 mods
@@ -50,4 +51,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- Endgegner: 37 mods
+- hafizhmakmur: 5 mods
