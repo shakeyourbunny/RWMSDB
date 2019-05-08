@@ -34,6 +34,7 @@ Contributors
 - czarneski77: 120 mods
 - darwinning: 6 mods
 - dreipixel: 49 mods
+- hafizhmakmur: 5 mods
 - handspiker2: 2 mods
 - john: 3 mods
 - johnrando: 30 mods
@@ -51,4 +52,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- hafizhmakmur: 5 mods
+- AaronAyante: 10 mods
