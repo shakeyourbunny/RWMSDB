@@ -22,6 +22,7 @@ Contributors
 - Kyonai: 6 mods
 - Montyi: 16 mods
 - Nightliss: 60 mods
+- Oggom: 1 mods
 - Preechr: 48 mods
 - Radical-Dragon: 12 mods
 - SpookieWookie: 7 mods
@@ -53,4 +54,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- Oggom: 1 mods
+- all2473: 5 mods
