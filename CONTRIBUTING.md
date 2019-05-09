@@ -12,7 +12,7 @@ Contributors
 - Bdan720: 29 mods
 - Black Goat: 159 mods
 - DaedManLost: 36 mods
-- Deathawaits4: 14 mods
+- Deathawaits4: 15 mods
 - Dessometrics: 57 mods
 - Endgegner: 37 mods
 - Fael Aredhel: 4 mods
@@ -54,7 +54,8 @@ Contributors
 - rawrfisher: 32 mods
 - seriouscylinder: 4 mods
 - shakeyourbunny: 691 mods
+- tarak55571: 4 mods
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- tarak55571: 4 mods
+- D3athAn63I: 4 mods
