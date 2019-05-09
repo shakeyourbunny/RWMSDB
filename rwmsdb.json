@@ -17,7 +17,7 @@
   "Karl Koch": 4,
   "Kyonai": 6,
   "Montyi": 16,
-  "Nightliss": 60,
+  "Nightliss": 61,
   "Oggom": 1,
   "Preechr": 48,
   "Radical-Dragon": 12,
@@ -58,6 +58,7 @@
   "1.0 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)": "prisoner",
   "2- UN-Furniture [1.0]": "furniture",
   "20th Century Weapons Mod Unofficial 1.0": "weapon",
+  "21st Century Arsenal": "weapon",
   "2x2 Hydroponics with Sunlamp": "production",
   "4M Mehni's Misc Modifications": "annoyance",
   "99 Percent": "annoyance",
@@ -1883,6 +1884,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May  9 22:31:03 2019",
+ "timestamp": "Thu May  9 22:34:37 2019",
  "version": 4
 }

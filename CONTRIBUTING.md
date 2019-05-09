@@ -11,6 +11,7 @@ Contributors
 - AngryScandinavian: 22 mods
 - Bdan720: 29 mods
 - Black Goat: 159 mods
+- D3athAn63I: 4 mods
 - DaedManLost: 36 mods
 - Deathawaits4: 15 mods
 - Dessometrics: 57 mods
@@ -23,7 +24,7 @@ Contributors
 - Karl Koch: 4 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
-- Nightliss: 60 mods
+- Nightliss: 61 mods
 - Oggom: 1 mods
 - Preechr: 48 mods
 - Radical-Dragon: 12 mods
@@ -58,4 +59,3 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- D3athAn63I: 4 mods
