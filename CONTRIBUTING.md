@@ -7,6 +7,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 
 Contributors
 ------------
+- AaronAyante: 10 mods
 - AngryScandinavian: 22 mods
 - Bdan720: 29 mods
 - Black Goat: 159 mods
@@ -52,4 +53,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- AaronAyante: 10 mods
+- Oggom: 1 mods

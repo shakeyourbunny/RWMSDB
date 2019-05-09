@@ -15,6 +15,7 @@
   "Kyonai": 6,
   "Montyi": 16,
   "Nightliss": 60,
+  "Oggom": 1,
   "Preechr": 48,
   "Radical-Dragon": 12,
   "SpookieWookie": 7,
@@ -120,6 +121,7 @@
   "Animals Logic": "ai_animal",
   "AnimalsGenderOnCaravan": "caravan",
   "Animated Marshes [1.0]": "texture",
+  "Annoyance Remover v0.05": "annoyance",
   "Anomlian Order Faction": "faction",
   "Anti-Air Artillery[1.0]": "combat",
   "Anti-tunnel Wall [1.0]": "structure",
@@ -1854,6 +1856,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Wed May  8 16:24:05 2019",
+ "timestamp": "Thu May  9 09:25:10 2019",
  "version": 4
 }
