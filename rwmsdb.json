@@ -8,6 +8,7 @@
   "Deathawaits4": 14,
   "Dessometrics": 57,
   "Endgegner": 37,
+  "Fael Aredhel": 4,
   "Halcyonix": 10,
   "Jiala": 14,
   "Jolc3r": 22,
@@ -393,6 +394,7 @@
   "Dryadic for beastmen patch": "patch",
   "Dryadic for daemonettes patch": "patch",
   "Dryadic for skavens patch": "patch",
+  "Dryxsteel": "resource",
   "Dual Wield": "combat",
   "Dub's Paint Shop": "structure",
   "Dubs Bad Hygiene": "gameplay",
@@ -549,6 +551,7 @@
   "Gas Traps And Shells": "combat",
   "Gear Up And Go": "ui",
   "Gems": "resource",
+  "GeneTech": "resource",
   "Generic CE Ammo": "patch",
   "Genetic Rim": "gameplay",
   "Genetic Rim CE Patch": "patch",
@@ -1285,6 +1288,7 @@
   "Single Plant Texture Patch": "texture",
   "Siren": "ui",
   "Skilled Stonecutting": "skill",
+  "Slag Refined Plus": "patch",
   "SleepStopper": "gameplay",
   "Slightly More Realistic Wool Production": "patch",
   "Slither Race": "race",
@@ -1442,6 +1446,7 @@
   "USCM Xenomorphs Faction 1.0": "faction",
   "Ugh You Got Me": "ai",
   "UltraMod": "gameplay",
+  "Ultraweave": "resource",
   "Un-Limited": "patch",
   "Uninspired": "ai",
   "Uninstall ED-Embrasures": "ui",
@@ -1867,6 +1872,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May  9 21:43:49 2019",
+ "timestamp": "Thu May  9 22:17:17 2019",
  "version": 4
 }
