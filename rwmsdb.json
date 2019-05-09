@@ -12,6 +12,7 @@
   "Jiala": 14,
   "Jolc3r": 22,
   "KaosuReido": 1,
+  "Karl Koch": 4,
   "Kyonai": 6,
   "Montyi": 16,
   "Nightliss": 60,
@@ -478,6 +479,7 @@
   "Faction Manager - Set Up Camp": "caravan",
   "Fahrenheit and Celsius": "ui",
   "Fallout Traits": "skill",
+  "Fallout: Retro Weapon Pack": "weapon",
   "FantasticWorlds": "biome",
   "Fantasy Goblins": "race",
   "Fantasy Metals": "resource",
@@ -580,6 +582,7 @@
   "GloomyFurniture": "furniture",
   "Glowroot": "medicine",
   "Glowstone": "light",
+  "Godlike Trait": "skill",
   "Golgafrinchans": "scenario",
   "GouRIMet": "food",
   "Gradient Hair": "appearance",
@@ -691,6 +694,7 @@
   "Kyulen - NinetailFox": "animal",
   "L-Slimes": "animal",
   "LBE's A Dog Said Easy Patcher": "patch",
+  "LED Technology [V1.0]": "light",
   "LOTR and Bones": "patch",
   "LWM's Deep Storage": "furniture",
   "Labels on Floor": "ui",
@@ -1362,6 +1366,7 @@
   "Super animals 1.0": "annoyance",
   "Supply and Demand": "trading",
   "Survivalist's Additions": "gameplay",
+  "Synthetic Leather": "resource",
   "Synthmeat": "resource",
   "Syntho Race": "race",
   "T-45b Power Armor (1.0)": "clothing",
@@ -1862,6 +1867,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May  9 09:29:58 2019",
+ "timestamp": "Thu May  9 21:43:49 2019",
  "version": 4
 }
