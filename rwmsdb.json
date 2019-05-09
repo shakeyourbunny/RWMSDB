@@ -47,6 +47,7 @@
   "rawrfisher": 32,
   "seriouscylinder": 4,
   "shakeyourbunny": 691,
+  "tarak55571": 4,
   "transbiod": 32,
   "trillex": 6,
   "whitmadm": 2
@@ -181,6 +182,7 @@
   "Better Roads": "ui",
   "Better Survival Meals": "food",
   "Better Traders (x2)": "trading",
+  "Better Vanilla Masking": "texture",
   "Better Workbench Management": "ui",
   "BetterCoolers": "temperature",
   "BetterLoading": "load_first_mod",
@@ -625,6 +627,7 @@
   "Hauling Bot": "prisoner",
   "Hay is Kibble": "patch",
   "Heat Map": "ui",
+  "Heating Cables": "temperature",
   "HelpTab": "ui",
   "Helpful Monkeys": "animal",
   "Herd Migration Revival": "ai_animal",
@@ -1448,6 +1451,7 @@
   "UltraMod": "gameplay",
   "Ultraweave": "resource",
   "Un-Limited": "patch",
+  "Underground Power Conduits": "energy",
   "Uninspired": "ai",
   "Uninstall ED-Embrasures": "ui",
   "Uninstall Rimworld": "patch",
@@ -1820,6 +1824,7 @@
   "[WD] Partially-Passable Wind Turbines 1.0": "patch",
   "[WD] Simple Coal 1.0": "resource",
   "[WD] Simple Concrete 1.0": "resource",
+  "[WD] Small Solar Panels": "energy",
   "[WD] Soil Contrast": "texture",
   "[WD] Vanilla Hairstyles Rebalance 1.0": "appearance",
   "[XND] Adjustable Predator Count": "ai_animal",
@@ -1872,6 +1877,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May  9 22:17:17 2019",
+ "timestamp": "Thu May  9 22:22:06 2019",
  "version": 4
 }

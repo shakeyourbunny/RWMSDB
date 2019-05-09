@@ -15,10 +15,12 @@ Contributors
 - Deathawaits4: 14 mods
 - Dessometrics: 57 mods
 - Endgegner: 37 mods
+- Fael Aredhel: 4 mods
 - Halcyonix: 10 mods
 - Jiala: 14 mods
 - Jolc3r: 22 mods
 - KaosuReido: 1 mods
+- Karl Koch: 4 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
 - Nightliss: 60 mods
@@ -55,4 +57,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- Karl Koch: 4 mods
+- tarak55571: 4 mods
