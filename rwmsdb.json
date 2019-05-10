@@ -5,6 +5,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "D3athAn63I": 4,
+  "D3athAn63l": 1,
   "DaedManLost": 36,
   "Deathawaits4": 15,
   "Dessometrics": 57,
@@ -157,6 +158,7 @@
   "Astra Militarum Imperial Guard Turret Addon Mod v1.51": "combat",
   "Auto Caravan Equip (Autoseller Extension)": "caravan",
   "Auto Light Switch": "patch",
+  "Auto Recycling[1.0]": "production",
   "Auto Seller": "trading",
   "AutoOwl": "ai",
   "AutoPriorities": "ui",
@@ -1888,6 +1890,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May 10 10:38:01 2019",
+ "timestamp": "Fri May 10 21:01:29 2019",
  "version": 4
 }

@@ -51,6 +51,7 @@ Contributors
 - ouyin2000: 9 mods
 - pentacore: 2 mods
 - pjradz: 2 mods
+- r4d6: 3 mods
 - rallias: 15 mods
 - rawrfisher: 32 mods
 - seriouscylinder: 4 mods
@@ -59,4 +60,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- r4d6: 3 mods
+- D3athAn63l: 1 mods
