@@ -25,7 +25,7 @@ Contributors
 - Karl Koch: 4 mods
 - Kyonai: 6 mods
 - Montyi: 16 mods
-- Nightliss: 61 mods
+- Nightliss: 63 mods
 - Oggom: 1 mods
 - Preechr: 48 mods
 - Radical-Dragon: 12 mods
@@ -41,6 +41,7 @@ Contributors
 - czarneski77: 120 mods
 - darwinning: 6 mods
 - dreipixel: 49 mods
+- florianraber: 10 mods
 - hafizhmakmur: 5 mods
 - handspiker2: 2 mods
 - john: 3 mods
@@ -61,4 +62,3 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- florianraber: 10 mods

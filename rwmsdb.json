@@ -18,7 +18,7 @@
   "Karl Koch": 4,
   "Kyonai": 6,
   "Montyi": 16,
-  "Nightliss": 61,
+  "Nightliss": 63,
   "Oggom": 1,
   "Preechr": 48,
   "Radical-Dragon": 12,
@@ -893,6 +893,7 @@
   "More Vanilla Turrets 1.0": "combat",
   "More Vanilla Turrets [1.0]": "combat",
   "More vanilla factions": "faction",
+  "More visible pause": "ui",
   "MoreFlowers": "biome",
   "MoreMonstergirls": "animal",
   "MoreQualityInfluence": "patch",
@@ -1888,6 +1889,7 @@
   "cryptorestore caskets (1.0)": "medicine",
   "dianne's defaults - Weapons [1.0]": "texture",
   "ez infestation": "annoyance",
+  "fast regen - Linkable Patches": "patch",
   "gloomy_dress": "clothing",
   "gloomy_face": "appearance",
   "gloomy_hair": "appearance",
@@ -1901,6 +1903,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May 10 21:09:52 2019",
+ "timestamp": "Fri May 10 21:13:07 2019",
  "version": 4
 }
