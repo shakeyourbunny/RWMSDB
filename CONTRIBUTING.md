@@ -59,3 +59,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
+- r4d6: 3 mods

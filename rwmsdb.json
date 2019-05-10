@@ -44,6 +44,7 @@
   "ouyin2000": 9,
   "pentacore": 2,
   "pjradz": 2,
+  "r4d6": 3,
   "rallias": 15,
   "rawrfisher": 32,
   "seriouscylinder": 4,
@@ -1210,6 +1211,7 @@
   "Rimworld: Spartan Foundry DE": "patch",
   "Riot Control": "combat",
   "Roads of the Rim": "caravan",
+  "RockSmooth Walls [1.0]": "resource",
   "Roof Support 1.0": "structure",
   "RoofBomb": "item",
   "Roofminer": "ui",
@@ -1386,6 +1388,7 @@
   "Tables+": "furniture",
   "Tactical Charged Gear": "combat",
   "Tag Trait": "skill",
+  "Take Shelter Theme": "ui_addon",
   "Taming Inspiration": "skill",
   "Tamped Dirt Floor": "structure",
   "Tech Advancing": "storyteller",
@@ -1554,6 +1557,7 @@
   "Wild Drugs": "biome",
   "Wild Haygrass [1.0]": "resource",
   "Wild Pok\u00e9mon [1.0]": "animal",
+  "Wildfire": "patch",
   "Wob Carry Capacity": "annoyance",
   "Wooden Pallet [1.0]": "furniture",
   "Work Tab": "ui",
@@ -1884,6 +1888,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May  9 22:34:37 2019",
+ "timestamp": "Fri May 10 10:38:01 2019",
  "version": 4
 }
