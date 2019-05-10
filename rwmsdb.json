@@ -50,7 +50,7 @@
   "rallias": 15,
   "rawrfisher": 32,
   "seriouscylinder": 4,
-  "shakeyourbunny": 691,
+  "shakeyourbunny": 694,
   "tarak55571": 4,
   "transbiod": 32,
   "trillex": 6,
@@ -198,6 +198,7 @@
   "Big Bakas No Research": "faction",
   "Big Batteries": "energy",
   "Billy's Improved Caravan Formation": "caravan",
+  "Billy's Improved Load Transport Pods": "ai",
   "BioReactor": "energy",
   "Biomes Core": "framework",
   "Biomes! Cavern Edition": "biome",
@@ -1198,6 +1199,7 @@
   "Rimcraft": "race",
   "Rimcraft Animals": "animal",
   "Rimcraft Animals Only": "animal",
+  "Rimcraft Metals": "resource",
   "Rimefeller": "energy",
   "Rimfire 2.5": "weapon",
   "Rimhammer - The End Times": "total_conversion",
@@ -1711,6 +1713,7 @@
   "[JP] Fertile Fields Makeover": "texture",
   "[KIR]Drop Pod Raids are Spacer Tech[1.0]": "patch",
   "[KIR]Emus Aren't That Aggressive": "ai_animal",
+  "[KIR]No Mechanoid Raids[1.0]": "annoyance",
   "[KIR]No Turret Barrels Replacing - More Vanilla Turrets Patch": "patch",
   "[KIR]No Turret Barrels Replacing - Rimsenal Security pack Patch": "patch",
   "[KIR]No Turret Barrels Replacing[1.0]": "annoyance",
@@ -1903,6 +1906,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May 10 21:13:07 2019",
+ "timestamp": "Fri May 10 21:16:31 2019",
  "version": 4
 }

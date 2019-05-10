@@ -57,7 +57,7 @@ Contributors
 - rallias: 15 mods
 - rawrfisher: 32 mods
 - seriouscylinder: 4 mods
-- shakeyourbunny: 691 mods
+- shakeyourbunny: 694 mods
 - tarak55571: 4 mods
 - transbiod: 32 mods
 - trillex: 6 mods
