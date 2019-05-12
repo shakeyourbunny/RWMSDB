@@ -12,6 +12,7 @@
   "Endgegner": 37,
   "Fael Aredhel": 4,
   "Halcyonix": 10,
+  "Japan2Canada": 4,
   "Jiala": 14,
   "Jolc3r": 22,
   "JonasScheins": 28,
@@ -143,6 +144,7 @@
   "Antimatter Power Boost": "patch",
   "AnyPlant": "patch",
   "Apex: Rimworld Legends": "weapon",
+  "Apex: Rimworld Legends CE Patch": "patch",
   "Apini Playable Race": "race",
   "Apparel Gizmos From Comps [V1]": "framework",
   "Apparello 2": "clothing",
@@ -189,6 +191,7 @@
   "Beautiful Water": "biome",
   "Beta-humanoids": "race",
   "BetaTraps": "combat",
+  "Better Grassy Biomes": "biome",
   "Better Infestations": "faction",
   "Better Infestations 1.0": "animal",
   "Better Notifications": "ui",
@@ -541,6 +544,7 @@
   "Floored": "texture",
   "Floored - Yellow and Striped Tiles Only [1.0]": "furniture",
   "Floored Re-Reupload [1.0]": "furniture",
+  "Flora": "annoyance",
   "FloraTab": "ui",
   "Flowers": "biome",
   "Flowers and Drugs": "biome",
@@ -644,6 +648,7 @@
   "Harvest Organs Post Mortem - 4.1 [1.0]": "production",
   "Harvest Sync": "gameplay",
   "Harvesting Is Plant Cutting": "ai",
+  "Hats Display Selection[1.0]": "ui",
   "Haul Explicitly": "ai",
   "Haul to Stack": "ai",
   "Hauling Bot": "prisoner",
@@ -1942,6 +1947,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May 12 10:36:09 2019",
+ "timestamp": "Sun May 12 10:39:29 2019",
  "version": 4
 }

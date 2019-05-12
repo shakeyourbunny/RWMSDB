@@ -47,6 +47,7 @@ Contributors
 - handspiker2: 2 mods
 - john: 3 mods
 - johnrando: 30 mods
+- jpc0: 2 mods
 - ju1998ly: 21 mods
 - jupiterlily: 14 mods
 - kladdey: 10 mods
@@ -63,4 +64,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- jpc0: 2 mods
+- Japan2Canada: 4 mods
