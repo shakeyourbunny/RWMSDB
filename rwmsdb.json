@@ -40,6 +40,7 @@
   "handspiker2": 2,
   "john": 3,
   "johnrando": 30,
+  "jpc0": 2,
   "ju1998ly": 21,
   "jupiterlily": 14,
   "kladdey": 10,
@@ -1227,9 +1228,11 @@
   "Rimperion": "weapon",
   "Rimsenal": "weapon",
   "Rimsenal + Combat Extended Compatibility Patch": "patch",
+  "Rimsenal - Enhanced Vanilla + Combat Extended Compatibility Patch": "patch",
   "Rimsenal - Enhanced Vanilla Pack": "weapon",
   "Rimsenal - Federation": "faction",
   "Rimsenal - Feral": "faction",
+  "Rimsenal - Feral + Combat Extended Patch": "patch",
   "Rimsenal - Rimhair": "appearance",
   "Rimsenal - Security pack": "combat",
   "Rimsenal - Storyteller pack": "storyteller",
@@ -1939,6 +1942,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May 12 10:34:00 2019",
+ "timestamp": "Sun May 12 10:36:09 2019",
  "version": 4
 }

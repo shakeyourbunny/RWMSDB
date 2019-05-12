@@ -21,6 +21,7 @@ Contributors
 - Halcyonix: 10 mods
 - Jiala: 14 mods
 - Jolc3r: 22 mods
+- JonasScheins: 28 mods
 - KaosuReido: 1 mods
 - Karl Koch: 4 mods
 - Kyonai: 6 mods
@@ -62,4 +63,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- JonasScheins: 28 mods
+- jpc0: 2 mods
