@@ -19,6 +19,7 @@ Contributors
 - Endgegner: 37 mods
 - Fael Aredhel: 4 mods
 - Halcyonix: 10 mods
+- Japan2Canada: 4 mods
 - Jiala: 14 mods
 - Jolc3r: 22 mods
 - JonasScheins: 28 mods
@@ -64,4 +65,4 @@ Contributors
 - transbiod: 32 mods
 - trillex: 6 mods
 - whitmadm: 2 mods
-- Japan2Canada: 4 mods
+- Theutus1: 2 mods
