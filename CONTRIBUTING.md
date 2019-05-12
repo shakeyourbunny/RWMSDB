@@ -28,7 +28,7 @@ Contributors
 - Nightliss: 63 mods
 - Oggom: 1 mods
 - Preechr: 48 mods
-- Radical-Dragon: 12 mods
+- Radical-Dragon: 16 mods
 - SpookieWookie: 7 mods
 - Superlagg: 31 mods
 - Thirsk: 6 mods

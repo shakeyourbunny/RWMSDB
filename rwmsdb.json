@@ -21,7 +21,7 @@
   "Nightliss": 63,
   "Oggom": 1,
   "Preechr": 48,
-  "Radical-Dragon": 12,
+  "Radical-Dragon": 16,
   "SpookieWookie": 7,
   "Superlagg": 31,
   "Thirsk": 6,
@@ -170,6 +170,7 @@
   "Avoid Friendly Fire": "combat",
   "Awoolf": "ui",
   "Baby and Children": "race",
+  "Bad Hygiene Lite": "patch",
   "Balanced Eclipse and Solar Flare": "annoyance",
   "Base Robots": "libs",
   "Base Robots Expansioni": "framework",
@@ -558,6 +559,7 @@
   "Furnace": "production",
   "GM's Winter Hats [1.0]": "clothing",
   "Galaxy Life": "animal",
+  "Galaxy News Radio": "music",
   "Garden Box 1.1": "production",
   "Gas Traps And Shells": "combat",
   "Gear Up And Go": "ui",
@@ -776,6 +778,7 @@
   "Mad Skills": "skill",
   "Make Boars Great Again": "ai_animal",
   "Map Reroll": "biome",
+  "Marine Armor Materials": "patch",
   "MarsX v3 - Musky Edition": "total_conversion",
   "Mass Graves": "combat",
   "Mass Muffect Races 1.0": "race",
@@ -1342,6 +1345,7 @@
   "Sparkling Worlds Addon - Mind Altering Device [1.0] - Standalone Addon": "skill",
   "Sparkling Worlds Addon - More Events [1.0] - Standalone Addon": "storyteller",
   "Sparkling Worlds Extension - BMC Hardcore Patch [1.0]": "patch",
+  "Spartan Foundry Warcraft": "clothing",
   "SpiderCamp's Dog Pack A Dog Said Compatability Patch": "patch",
   "Spidercamp Dog Genetics Rim Patch": "patch",
   "Spidercamp's Dog Pack (1.0)": "animal",
@@ -1906,6 +1910,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May 10 21:16:31 2019",
+ "timestamp": "Sun May 12 10:17:37 2019",
  "version": 4
 }
