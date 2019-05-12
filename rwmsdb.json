@@ -29,6 +29,7 @@
   "Theutus1": 2,
   "Thirsk": 6,
   "Wolfehart": 1,
+  "YesVeryYes": 2,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -1365,6 +1366,7 @@
   "Soitian": "race",
   "Sometimes Raids Go Wrong": "combat",
   "Sora's RimFantasy: Brutal Start (v. 1.0)": "storyteller",
+  "Soviet Armory [1.0]": "weapon",
   "Space Ship Chunk Retexture": "texture",
   "Sparkling Worlds - CE Patch [1.0] - Combat Extendend Compatibility": "patch",
   "Sparkling Worlds - Core Mod [1.0] - Reduced features": "gameplay",
@@ -1704,6 +1706,7 @@
   "[1.0] Xenite Industries": "production",
   "[1.0] Xenite Industries: Mechanite District": "gameplay",
   "[1.0] Xenite Industries\u201d": "gameplay",
+  "[1.0]-FuelBurning": "combat",
   "[1.0]-StockpileForDisaster": "furniture",
   "[1.0]Gourmand trait nerf": "annoyance",
   "[1.0]Long Range Transport Pods": "patch",
@@ -1950,6 +1953,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May 12 10:44:54 2019",
+ "timestamp": "Sun May 12 11:00:23 2019",
  "version": 4
 }

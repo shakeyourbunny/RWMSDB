@@ -1,68 +1,67 @@
-Contributions to this project
-=============================
+# Contributions to the RWMSDB database
 
-Main author
-----------
+#### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-Contributors
+#### Contributors (60)
+- shakeyourbunny: 694 mod(s)
+- Black Goat: 159 mod(s)
+- czarneski77: 120 mod(s)
+- Nightliss: 63 mod(s)
+- Dessometrics: 57 mod(s)
+- dreipixel: 49 mod(s)
+- Preechr: 48 mod(s)
+- maff: 43 mod(s)
+- axelfoxy: 41 mod(s)
+- bagelhe: 38 mod(s)
+- Endgegner: 37 mod(s)
+- DaedManLost: 36 mod(s)
+- rawrfisher: 32 mod(s)
+- transbiod: 32 mod(s)
+- Superlagg: 31 mod(s)
+- archangel5432: 30 mod(s)
+- johnrando: 30 mod(s)
+- Bdan720: 29 mod(s)
+- JonasScheins: 28 mod(s)
+- AngryScandinavian: 22 mod(s)
+- Jolc3r: 22 mod(s)
+- ju1998ly: 21 mod(s)
+- Montyi: 16 mod(s)
+- Radical-Dragon: 16 mod(s)
+- Deathawaits4: 15 mod(s)
+- rallias: 15 mod(s)
+- Jiala: 14 mod(s)
+- jupiterlily: 14 mod(s)
+- AaronAyante: 10 mod(s)
+- Halcyonix: 10 mod(s)
+- florianraber: 10 mod(s)
+- kladdey: 10 mod(s)
+- ouyin2000: 9 mod(s)
+- SpookieWookie: 7 mod(s)
+- Kyonai: 6 mod(s)
+- Thirsk: 6 mod(s)
+- darwinning: 6 mod(s)
+- trillex: 6 mod(s)
+- all2473: 5 mod(s)
+- hafizhmakmur: 5 mod(s)
+- D3athAn63I: 4 mod(s)
+- Fael Aredhel: 4 mod(s)
+- Japan2Canada: 4 mod(s)
+- Karl Koch: 4 mod(s)
+- seriouscylinder: 4 mod(s)
+- tarak55571: 4 mod(s)
+- john: 3 mod(s)
+- r4d6: 3 mod(s)
+- Theutus1: 2 mod(s)
+- handspiker2: 2 mod(s)
+- jpc0: 2 mod(s)
+- pentacore: 2 mod(s)
+- pjradz: 2 mod(s)
+- whitmadm: 2 mod(s)
+- YesVeryYes: 2 mod(s)
+- D3athAn63l: 1 mod(s)
+- KaosuReido: 1 mod(s)
+- Oggom: 1 mod(s)
+- Wolfehart: 1 mod(s)
+- bertaz: 1 mod(s)
 ------------
-- AaronAyante: 10 mods
-- AngryScandinavian: 22 mods
-- Bdan720: 29 mods
-- Black Goat: 159 mods
-- D3athAn63I: 4 mods
-- D3athAn63l: 1 mods
-- DaedManLost: 36 mods
-- Deathawaits4: 15 mods
-- Dessometrics: 57 mods
-- Endgegner: 37 mods
-- Fael Aredhel: 4 mods
-- Halcyonix: 10 mods
-- Japan2Canada: 4 mods
-- Jiala: 14 mods
-- Jolc3r: 22 mods
-- JonasScheins: 28 mods
-- KaosuReido: 1 mods
-- Karl Koch: 4 mods
-- Kyonai: 6 mods
-- Montyi: 16 mods
-- Nightliss: 63 mods
-- Oggom: 1 mods
-- Preechr: 48 mods
-- Radical-Dragon: 16 mods
-- SpookieWookie: 7 mods
-- Superlagg: 31 mods
-- Thirsk: 6 mods
-- Wolfehart: 1 mods
-- all2473: 5 mods
-- archangel5432: 30 mods
-- axelfoxy: 41 mods
-- bagelhe: 38 mods
-- bertaz: 1 mods
-- czarneski77: 120 mods
-- darwinning: 6 mods
-- dreipixel: 49 mods
-- florianraber: 10 mods
-- hafizhmakmur: 5 mods
-- handspiker2: 2 mods
-- john: 3 mods
-- johnrando: 30 mods
-- jpc0: 2 mods
-- ju1998ly: 21 mods
-- jupiterlily: 14 mods
-- kladdey: 10 mods
-- maff: 43 mods
-- ouyin2000: 9 mods
-- pentacore: 2 mods
-- pjradz: 2 mods
-- r4d6: 3 mods
-- rallias: 15 mods
-- rawrfisher: 32 mods
-- seriouscylinder: 4 mods
-- shakeyourbunny: 694 mods
-- tarak55571: 4 mods
-- transbiod: 32 mods
-- trillex: 6 mods
-- whitmadm: 2 mods
-- Theutus1: 2 mods
