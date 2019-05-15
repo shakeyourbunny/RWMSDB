@@ -38,7 +38,7 @@
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
-  "florianraber": 10,
+   "florianraber": 11,
   "hafizhmakmur": 5,
   "handspiker2": 2,
   "john": 3,
@@ -748,6 +748,7 @@
   "Less Arbitrary Surgery": "medicine",
   "Less Default Hair": "appearance",
   "Less Incident Trolling": "annoyance",
+   "Less Limb Loss": "patch",
   "Less Rebuff": "ai",
   "Less Stupid Romance Attempt": "ai",
   "Lesser mood debuffs": "annoyance",
@@ -1953,6 +1954,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Sun May 12 11:00:23 2019",
+  "timestamp": "Wed May 15 22:45:40 2019",
  "version": 4
 }
