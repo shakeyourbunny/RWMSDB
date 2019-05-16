@@ -39,7 +39,7 @@
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
-  "florianraber": 11,
+  "florianraber": 12,
   "hafizhmakmur": 5,
   "handspiker2": 2,
   "john": 3,
@@ -1901,6 +1901,7 @@
   "[WD] Expanded Artillery": "combat",
   "[WD] Expanded Artillery 1.0": "combat",
   "[WD] Fast Moisture Pumps 1.0": "item",
+  "[WD] Fewer Steam Geysers 1.0": "biome",
   "[WD] Materials For Coolers 1.0": "energy",
   "[WD] Materials For Vents 1.0": "temperature",
   "[WD] More Mini-Turrets 1.0": "combat",
@@ -1966,6 +1967,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Thu May 16 11:36:21 2019",
+ "timestamp": "Thu May 16 14:11:41 2019",
  "version": 4
 }
