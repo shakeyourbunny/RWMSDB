@@ -37,7 +37,7 @@
   "axelfoxy": 41,
   "bagelhe": 38,
   "bertaz": 1,
-  "connardman": 31,
+  "connardman": 35,
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
@@ -216,6 +216,7 @@
   "Bad Hygiene Lite": "patch",
   "Balanced Eclipse and Solar Flare": "annoyance",
   "Barbed Wire (unofficial update)": "combat",
+  "Bargain Tweaks": "trading",
   "Base Robots": "libs",
   "Base Robots Expansion": "patch",
   "Base Robots Expansioni": "framework",
@@ -783,6 +784,7 @@
   "I Never Asked For This": "ui",
   "Ice": "resource",
   "Idle Power Consumption": "patch",
+  "Ignite Everything": "gameplay",
   "Imp Race 1.0": "race",
   "Impassable Chest-deep Water": "biome",
   "ImpassableFurniture": "patch",
@@ -935,6 +937,7 @@
   "Mechanoid Power": "energy",
   "Mechanoids Extraordinaire": "faction",
   "Mechanoids Feel Chill Now 1.0": "faction",
+  "Medical Dissection": "production",
   "Medical IV": "medicine",
   "Medical Supplements": "medicine",
   "Medical Tab": "ui",
@@ -2127,6 +2130,7 @@
   "[T] MoreFloors \u4e2d\u6587\u7ffb\u8bd1": "patch",
   "[Uru] Kemono Friends Hair (1.0)": "appearance",
   "[Uru] Rim Seraph hair (1.0)": "appearance",
+  "[Uru] Touhou Hair (1.0)": "appearance",
   "[WD] Additional RAIDs! 1.0": "combat",
   "[WD] Antibiotics And Painkillers 1.0": "medicine",
   "[WD] Barbed Wire 1.0": "combat",
@@ -2205,6 +2209,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Fri May 17 19:44:10 2019",
+ "timestamp": "Fri May 17 19:52:26 2019",
  "version": 4
 }
