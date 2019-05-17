@@ -4,7 +4,7 @@
 shakeyourbunny <shakeyourbunny@gmail.com>
 
 #### Contributors (67)
-- shakeyourbunny: 694 mod(s)
+- shakeyourbunny: 695 mod(s)
 - Black Goat: 159 mod(s)
 - czarneski77: 120 mod(s)
 - GitrimEretnek: 110 mod(s)
@@ -51,6 +51,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - hafizhmakmur: 5 mod(s)
 - r4d6: 5 mod(s)
 - D3athAn63I: 4 mod(s)
+- D3athAn63l: 4 mod(s)
 - Fael Aredhel: 4 mod(s)
 - Japan2Canada: 4 mod(s)
 - Karl Koch: 4 mod(s)
