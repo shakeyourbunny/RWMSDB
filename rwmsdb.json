@@ -5,7 +5,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "D3athAn63I": 4,
-  "D3athAn63l": 4,
+   "D3athAn63l": 5,
   "DaedManLost": 36,
   "DavidBouw": 1,
   "Deathawaits4": 15,
@@ -553,6 +553,7 @@
   "Emergency Healer": "medicine",
   "Emergency Resources": "furniture",
   "Emporium": "trading",
+   "Endgame Buildings": "gameplay",
   "Engraved Walls [1.0]": "patch",
   "Enhanced Battery": "energy",
   "Enhanced Door": "structure",
@@ -2227,6 +2228,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
-  "timestamp": "Sat May 18 09:23:55 2019",
+  "timestamp": "Sat May 18 09:36:41 2019",
  "version": 4
 }
