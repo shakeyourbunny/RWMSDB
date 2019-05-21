@@ -41,7 +41,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 6,
-  "connardman": 36,
+  "connardman": 37,
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
@@ -508,6 +508,7 @@
   "Dragon Mod": "animal",
   "Dragonian": "race",
   "Dragonian Race": "race",
+  "Dragonian RimjobEdtion": "patch",
   "Draw a bead": "skill",
   "Dress Patients": "ai",
   "Drugs+": "medicine",
@@ -2264,6 +2265,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Tue May 21 21:12:44 2019",
+ "timestamp": "Tue May 21 21:16:31 2019",
  "version": 4
 }
