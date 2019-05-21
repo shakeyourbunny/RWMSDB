@@ -44,7 +44,7 @@
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
-  "florianraber": 12,
+  "florianraber": 15,
   "hafizhmakmur": 5,
   "handspiker2": 2,
   "haziel831": 13,
@@ -1193,6 +1193,7 @@
   "Pawn Badge - US ARMY ENLISTED BADGES": "ui_addon",
   "Pawn Badge - US MARINE CORPS ENLISTED RANKS": "ui_addon",
   "Pawn Badge - US OFFICER RANK INSIGNIAS": "ui_addon",
+  "Pawn Education": "skill",
   "Pawn Rules": "ai",
   "Pawns Paint! Restored": "joy",
   "Pawns Play Together": "ai",
@@ -1227,6 +1228,7 @@
   "PowerSwitch": "energy",
   "Powerful Faction Bases": "faction",
   "Praise the Emperor": "gameplay",
+  "Prayer Spots": "ui",
   "Predator Hunt Alert": "ui",
   "Prepare For Combat": "combat",
   "Prepare Landing": "ui",
@@ -1517,6 +1519,7 @@
   "Silts Cover": "structure",
   "Silts LEDs": "light",
   "Silts Radio": "item",
+  "Simple Artifacts Disassembly": "production",
   "Simple Bulk Cooking": "food",
   "Simple Bulk Drugs": "medicine",
   "Simple Chains: Leather": "production",
@@ -2236,6 +2239,6 @@
   "\u5996\u602a\u67511.2": "faction",
   "\u5bcc\u5546 Silver Rich Merchant": "trading"
  },
- "timestamp": "Tue May 21 20:59:18 2019",
+ "timestamp": "Tue May 21 21:04:26 2019",
  "version": 4
 }
