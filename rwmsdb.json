@@ -1487,7 +1487,7 @@
   "RunAndGun": "ai",
   "RuntimeGC": "load_first_mod",
   "SCP - 111|Dragon Snails [1.0]": "animal",
-  "SF Grim Reality 1.0": "ai",
+   "SF Grim Reality 1.0": "patch",
   "SF Materials Rebalanced": "patch",
   "SF [1.0] Orbital Trader Transponder": "trading",
   "SF [v1.0] Faceplate V1.4": "clothing",
