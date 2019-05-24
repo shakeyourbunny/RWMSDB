@@ -5,7 +5,7 @@
   "Bdan720": 29,
   "Black Goat": 159,
   "D3athAn63I": 4,
-  "D3athAn63l": 5,
+  "D3athAn63l": 6,
   "DaedManLost": 36,
   "DavidBouw": 1,
   "Deathawaits4": 15,
@@ -1894,6 +1894,7 @@
   "Xeva's Rimhair": "appearance",
   "Yabils: Space Gremlins": "race",
   "Yamato Main Gun\u5927\u548c\u70ae": "combat",
+  "Yayo's Combat": "patch",
   "Yes, Vehicles": "gameplay",
   "Yorkshire Terrors": "animal",
   "Yukusukyuru": "animal",
@@ -2269,6 +2270,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Thu May 23 20:32:14 2019",
+ "timestamp": "Fri May 24 18:39:28 2019",
  "version": 4
 }
