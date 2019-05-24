@@ -8,7 +8,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Black Goat: 159 mod(s)
 - czarneski77: 120 mod(s)
 - GitrimEretnek: 110 mod(s)
-- pigand: 78 mod(s)
+- pigand: 100 mod(s)
 - Nightliss: 63 mod(s)
 - Dessometrics: 57 mod(s)
 - dreipixel: 49 mod(s)
