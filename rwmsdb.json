@@ -64,7 +64,7 @@
   "preechr": 2,
   "r4d6": 5,
   "rallias": 15,
-  "rawrfisher": 32,
+   "rawrfisher": 36,
   "seriouscylinder": 4,
   "shakeyourbunny": 695,
   "tarak55571": 4,
@@ -482,6 +482,7 @@
   "Desynchronized (v1.4.5)": "ai",
   "Desynchronized (v1.4.6)": "ai",
   "Desynchronized: Tales and News (v1.5.0)": "ai",
+   "Desynchronized: Tales and News (v1.5.1)": "ai",
   "Dinosaur eggs don't deteriorate": "patch",
   "Dinosauria": "animal",
   "Dinosauria - Patch for A Dog Said...": "patch",
@@ -869,6 +870,7 @@
   "Killfeed": "ui",
   "Knot Root": "resource",
   "Komodons": "animal",
+   "Kurin CE Pach": "patch",
   "Kurin, Apparel Fix": "patch",
   "Kurin, The Three Tailed Fox": "faction",
   "Kurin, a bad translation": "faction",
@@ -1479,6 +1481,7 @@
   "Rimstro": "gameplay",
   "Rimworld Search Agency": "ui",
   "Rimworld Westernization Project": "total_conversion",
+   "Rimworld of Magic CE Patch": "patch",
   "Rimworld: Medieval Edition": "patch",
   "Rimworld: Spartan Foundry": "clothing",
   "Rimworld: Spartan Foundry DE": "patch",
@@ -1679,6 +1682,7 @@
   "Subtle variations for RimThemes": "ui_addon",
   "Suicide Vest [V1]": "clothing",
   "Sun Lamp Power": "light",
+   "Sun Lights (Balanced) [1.0]": "light",
   "Sun Lights [1.0]": "light",
   "Sun Tzu Raider Tactics": "ai",
   "Super Soil": "production",
@@ -2292,6 +2296,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Fri May 24 19:08:05 2019",
+  "timestamp": "Sun May 26 15:29:07 2019",
  "version": 4
 }

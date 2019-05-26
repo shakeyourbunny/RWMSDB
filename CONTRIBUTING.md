@@ -19,7 +19,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Endgegner: 37 mod(s)
 - connardman: 37 mod(s)
 - DaedManLost: 36 mod(s)
-- rawrfisher: 32 mod(s)
+- rawrfisher: 36 mod(s)
 - transbiod: 32 mod(s)
 - Superlagg: 31 mod(s)
 - archangel5432: 30 mod(s)
