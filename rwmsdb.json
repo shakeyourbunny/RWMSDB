@@ -60,7 +60,7 @@
   "maff": 43,
   "ouyin2000": 9,
   "pentacore": 2,
-  "pigand": 100,
+   "pigand": 103,
   "pjradz": 2,
   "preechr": 2,
    "r4d6": 8,
@@ -947,6 +947,7 @@
   "Logann Race": "race",
   "Lolidrop's hairshop": "appearance",
   "LongRangePodLauncher": "ai",
+   "Looks Don't Matter On The Rim": "ai",
   "Loot Boxes": "gameplay",
   "Lord of the Rims - Dwarves": "total_conversion",
   "Lord of the Rims - Elves": "total_conversion",
@@ -1914,6 +1915,7 @@
   "Weapon A1000 V1.0": "weapon",
   "Weapon Artwork Removal": "ui",
   "Weapon Condition Matters, and so does Quality": "patch",
+   "Weapon Enhancement Pack 1.0": "weapon",
   "Weapon Tech": "weapon",
   "Weapon Tech - Turret Extensions Patch": "patch",
   "Weapon Tech DE": "patch",
@@ -2254,6 +2256,7 @@
    "[TX] Hydroponic trees": "patch",
   "[T] ExpandedCloth": "resource",
   "[T] ExpandedCrops": "production",
+   "[T] MiscStuff": "annoyance",
   "[T] MoreBedsCloth": "furniture",
   "[T] MoreBedsVanilla": "furniture",
   "[T] MoreFloors": "furniture",
@@ -2341,6 +2344,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
-  "timestamp": "Sun May 26 15:59:05 2019",
+  "timestamp": "Sun May 26 16:10:03 2019",
  "version": 4
 }
