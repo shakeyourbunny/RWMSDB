@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (72)
+#### Contributors (73)
 - shakeyourbunny: 695 mod(s)
 - Black Goat: 159 mod(s)
 - czarneski77: 120 mod(s)
@@ -33,6 +33,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - florianraber: 17 mod(s)
 - Montyi: 16 mod(s)
 - Radical-Dragon: 16 mod(s)
+- CombatTentacles: 16 mod(s)
 - Deathawaits4: 15 mod(s)
 - rallias: 15 mod(s)
 - Jiala: 14 mod(s)
