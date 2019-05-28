@@ -62,7 +62,7 @@
   "maff": 43,
   "ouyin2000": 9,
   "pentacore": 2,
-   "pigand": 113,
+   "pigand": 117,
   "pjradz": 2,
   "preechr": 2,
    "r4d6": 8,
@@ -367,6 +367,7 @@
   "CelsiusAndFahrenheit": "ui",
   "Centenarians": "scenario",
   "Centralized Climate Control": "temperature",
+   "Ceramics": "structure",
   "Change map edge limit": "biome",
   "Character Editor": "ui",
    "Charged Armoury": "weapon",
@@ -1985,6 +1986,7 @@
   "Weaponry": "combat",
   "Weapons of the Gods!": "gameplay",
   "Weapons+": "weapon",
+   "WeaponsAndOutfits": "ui",
   "WeaponsOfChoice": "combat",
   "Weird Warfare": "weapon",
   "Westerado": "gameplay",
@@ -2283,6 +2285,8 @@
   "[RF] Tribal Pawn Names [1.0]": "appearance",
   "[RF] Tribal Raiders [1.0]": "faction",
   "[RF] Wild Cultivation [1.0]": "biome",
+   "[RH] Faction: Elite Crew (1.0)": "faction",
+   "[RH] Faction: Last Man Mercs (1.0)": "faction",
   "[RH] Faction: Militaires Sans Frontieres (1.0)": "faction",
   "[RH] Faction: Task Force 141 (1.0)": "faction",
   "[RH] Faction: The Ghosts (1.0)": "faction",
@@ -2412,6 +2416,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
-  "timestamp": "Tue May 28 20:51:36 2019",
+  "timestamp": "Tue May 28 20:56:23 2019",
  "version": 4
 }
