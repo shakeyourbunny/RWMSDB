@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (73)
+#### Contributors (74)
 - shakeyourbunny: 695 mod(s)
 - Black Goat: 159 mod(s)
 - czarneski77: 120 mod(s)
@@ -19,6 +19,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - bagelhe: 38 mod(s)
 - Endgegner: 37 mod(s)
 - connardman: 37 mod(s)
+- h3rb4l: 37 mod(s)
 - DaedManLost: 36 mod(s)
 - rawrfisher: 36 mod(s)
 - transbiod: 32 mod(s)
@@ -31,9 +32,9 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Jolc3r: 22 mod(s)
 - ju1998ly: 21 mod(s)
 - florianraber: 17 mod(s)
+- CombatTentacles: 16 mod(s)
 - Montyi: 16 mod(s)
 - Radical-Dragon: 16 mod(s)
-- CombatTentacles: 16 mod(s)
 - Deathawaits4: 15 mod(s)
 - rallias: 15 mod(s)
 - Jiala: 14 mod(s)
