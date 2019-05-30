@@ -1177,7 +1177,7 @@
   "MulitiRaid \u8054\u5408\u88ad\u51fb": "combat",
   "Multi Colorful Traits": "ui",
   "Multilopes": "animal",
-  "Multiplayer": "libs",
+   "Multiplayer": "load_first_mod",
   "Multiplayer Compatibility": "framework",
   "Musical Instruments": "joy",
   "Mutants": "skill",
