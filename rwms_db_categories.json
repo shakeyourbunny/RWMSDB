@@ -67,6 +67,10 @@
   10.0,
   "Gameplay"
  ],
+  "gameplay_addon": [
+    15.0,
+    "Gameplay addon"
+  ],
  "hugslib": [
   5.0,
   "hugslib"
