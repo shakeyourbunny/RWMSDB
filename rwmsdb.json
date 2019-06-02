@@ -12,6 +12,7 @@
   "DavidBouw": 1,
   "Deathawaits4": 15,
   "Dessometrics": 57,
+  "Discohydra": 4,
   "Endgegner": 37,
   "Fael Aredhel": 4,
   "GingerAvalanche": 5,
@@ -207,6 +208,7 @@
   "Argonians of Blackmarsh": "race",
   "Armor Crafting": "clothing",
   "Arrow Please": "weapon",
+  "Arrow Please - Faction Addon": "faction",
   "As Simple As A Rack (Continued)": "furniture",
   "Asphalt": "structure",
   "Assign Prisoner Beds": "prisoner",
@@ -406,6 +408,7 @@
   "Clockwork And Steam": "gameplay",
   "Clone Bay": "structure",
   "Cloth Sandbags": "combat",
+  "CloudCore": "framework",
   "Clutter \"The Door Stuff\"": "gameplay",
   "Clutter \"Windows Stuff\"": "structure",
   "Clutter Structures": "furniture",
@@ -1664,6 +1667,7 @@
   "Simple Artifacts Disassembly": "production",
   "Simple Bulk Cooking": "food",
   "Simple Bulk Drugs": "medicine",
+  "Simple Bulk Production": "production",
   "Simple Chains: Leather": "production",
   "Simple Chains: Lumber": "production",
   "Simple Chains: Steel": "production",
@@ -1991,6 +1995,7 @@
   "Wealthy Traders 1.0": "annoyance",
   "Weapon A1000 V1.0": "weapon",
   "Weapon Artwork Removal": "ui",
+  "Weapon Condition Matters": "patch",
   "Weapon Condition Matters, and so does Quality": "patch",
   "Weapon Enhancement Pack 1.0": "weapon",
   "Weapon Tech": "weapon",
@@ -2433,6 +2438,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun  2 15:52:42 2019",
+ "timestamp": "Sun Jun  2 15:56:35 2019",
  "version": 4
 }
