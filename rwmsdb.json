@@ -25,6 +25,7 @@
   "KaosuReido": 1,
   "Karl Koch": 4,
   "Kyonai": 6,
+   "LemmysTash": 3,
   "Maddremor": 11,
   "Montyi": 16,
   "NKSHV": 51,
@@ -302,6 +303,7 @@
   "Bo's Milkable Animals": "load_last_mod",
   "Body Parts Are Rottable": "patch",
   "BoomMod": "ai_animal",
+   "Boomalope fix [CE+SW]": "patch",
   "Boots and Stuff[1.0]": "clothing",
   "Boulder Trap Mod": "combat",
   "Bounded Roof Build Tool": "ui",
@@ -889,6 +891,8 @@
   "In-wall coolers and vents [1.0]": "temperature",
   "Incident Person Stat": "ui",
   "Increased Forest Density - Base Version V6 B18": "biome",
+   "Increased Forest Density - Deadly Version V6 B18": "biome",
+   "Increased Forest Density - Hostile Version V6 B18": "biome",
   "Increased Stack": "patch",
   "Industrial Age - Objects and Furniture": "furniture",
   "Industrial Rollers": "production",
@@ -2438,6 +2442,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun  2 15:56:35 2019",
+  "timestamp": "Sun Jun  2 16:00:04 2019",
  "version": 4
 }
