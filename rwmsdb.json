@@ -47,7 +47,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "connardman": 37,
+   "connardman": 38,
   "czarneski77": 120,
   "darwinning": 6,
   "dreipixel": 49,
@@ -243,6 +243,7 @@
   "Bad Hygiene Lite": "patch",
   "Bad People": "ai",
   "Balanced Eclipse and Solar Flare": "annoyance",
+   "Bananas!": "food",
   "Barbed Wire (unofficial update)": "combat",
   "Bargain Tweaks": "trading",
   "Barky's Lupaios Race Pack (for 1.0)": "race",
@@ -2442,6 +2443,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
-  "timestamp": "Sun Jun  2 16:00:04 2019",
+  "timestamp": "Sun Jun  2 16:04:41 2019",
  "version": 4
 }
