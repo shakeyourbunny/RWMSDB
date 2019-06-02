@@ -4,7 +4,7 @@
 shakeyourbunny <shakeyourbunny@gmail.com>
 
 #### Contributors (76)
-- shakeyourbunny: 695 mod(s)
+- shakeyourbunny: 696 mod(s)
 - Black Goat: 159 mod(s)
 - czarneski77: 120 mod(s)
 - pigand: 117 mod(s)
@@ -55,10 +55,10 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - darwinning: 6 mod(s)
 - kenderbard: 6 mod(s)
 - trillex: 6 mod(s)
+- GingerAvalanche: 5 mod(s)
 - TrippyTheO: 5 mod(s)
 - all2473: 5 mod(s)
 - hafizhmakmur: 5 mod(s)
-- GingerAvalanche: 5 mod(s)
 - AlphaAtlas: 4 mod(s)
 - D3athAn63I: 4 mod(s)
 - Fael Aredhel: 4 mod(s)
