@@ -7,7 +7,7 @@
   "Black Goat": 159,
   "CombatTentacles": 19,
   "D3athAn63I": 4,
-  "D3athAn63l": 6,
+  "D3athAn63l": 9,
   "DaedManLost": 36,
   "DavidBouw": 1,
   "Deathawaits4": 15,
@@ -266,6 +266,7 @@
   "Better Records Tab": "ui",
   "Better Rewards": "patch",
   "Better Roads": "ui",
+  "Better Spots": "ui",
   "Better Survival Meals": "food",
   "Better Traders (x2)": "trading",
   "Better Vanilla Masking": "texture",
@@ -653,6 +654,7 @@
   "Extended Woodworking": "production",
   "ExtendedInspectData [A17]": "ui",
   "Extra Traits for CE": "patch",
+  "EyesFix (RimFace)": "appearance",
   "FFGermanShepherd": "animal",
   "FFGermanShepherd Caravaneer re-upload": "caravan",
   "FFGermanShepherd Compatibility Patch for A Dog Said": "patch",
@@ -868,6 +870,7 @@
   "Hydroponic Hay": "production",
   "Hydroponics Growth Sync": "production",
   "Hyena!": "animal",
+  "I Am Hungry": "food",
   "I Can Fix It!": "ai",
   "I Clearly Have Enough!": "ui",
   "I Never Asked For This": "ui",
@@ -2430,6 +2433,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun  2 09:47:06 2019",
+ "timestamp": "Sun Jun  2 15:52:42 2019",
  "version": 4
 }
