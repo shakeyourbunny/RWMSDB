@@ -71,7 +71,7 @@
   "miyoumu": 1,
   "ouyin2000": 9,
   "pentacore": 2,
-  "pigand": 120,
+  "pigand": 122,
   "pjradz": 2,
   "preechr": 2,
   "r4d6": 8,
@@ -933,6 +933,7 @@
   "Improved Anesthetic": "medicine",
   "Improved Infestation": "gameplay",
   "In-wall coolers and vents [1.0]": "temperature",
+  "Incident Count Multiplier": "storyteller",
   "Incident Person Stat": "ui",
   "Increased Forest Density - Base Version V6 B18": "biome",
   "Increased Forest Density - Deadly Version V6 B18": "biome",
@@ -1951,6 +1952,7 @@
   "Tradable Meals": "trading",
   "Tradable Stone Blocks": "trading",
   "Tradeable AI Persona Core": "patch",
+  "Trader Stock Multiplier": "trading",
   "Trading Spot": "ui",
   "Trainable Rhinos": "animal",
   "Training Console 1.0": "skill",
@@ -2534,6 +2536,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jun  5 21:44:49 2019",
+ "timestamp": "Wed Jun  5 21:49:54 2019",
  "version": 4
 }
