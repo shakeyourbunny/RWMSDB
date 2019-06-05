@@ -16,7 +16,7 @@
   "Discohydra": 4,
   "Endgegner": 37,
   "Fael Aredhel": 4,
-  "GingerAvalanche": 5,
+  "GingerAvalanche": 7,
   "GitrimEretnek": 110,
   "Halcyonix": 10,
   "JangeL1997": 5,
@@ -978,6 +978,8 @@
   "KK_ACCTG!": "annoyance",
   "Kidnapped colonist camp": "caravan",
   "Kijin": "race",
+  "Kijin - Call of Cthulhu Apparel Patch": "patch",
+  "Kijin - Medieval Times Apparel Patch": "patch",
   "Kijin - Rimsenal Apparel Patch": "patch",
   "Kill For Me": "ai_animal",
   "Killfeed": "ui",
@@ -2532,6 +2534,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jun  5 21:43:13 2019",
+ "timestamp": "Wed Jun  5 21:44:49 2019",
  "version": 4
 }
