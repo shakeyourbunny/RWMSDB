@@ -71,7 +71,7 @@
   "miyoumu": 1,
   "ouyin2000": 9,
   "pentacore": 2,
-  "pigand": 119,
+  "pigand": 120,
   "pjradz": 2,
   "preechr": 2,
   "r4d6": 8,
@@ -1215,6 +1215,7 @@
   "More Planning": "ui",
   "More Practical Traits": "skill",
   "More Random Seeds": "ui",
+  "More Scenario Parts": "scenario",
   "More Sculpture": "statue",
   "More Shelves": "furniture",
   "More Slaves [1.0]": "prisoner",
@@ -2531,6 +2532,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jun  5 21:40:54 2019",
+ "timestamp": "Wed Jun  5 21:43:13 2019",
  "version": 4
 }
