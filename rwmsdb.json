@@ -1,5 +1,6 @@
 {
  "contributor": {
+  "3DSwayze": 2,
   "AaronAyante": 10,
   "AlphaAtlas": 4,
   "AngryScandinavian": 22,
@@ -1276,6 +1277,7 @@
   "No \"Ate Without A Table\"": "annoyance",
   "No Burny (less flammable metals)": "annoyance",
   "No Carried Food": "ai",
+  "No Debris 1.0": "texture",
   "No Debris B18": "annoyance",
   "No Fertilized Egg Deterioration": "annoyance",
   "No Forced Slowdown": "annoyance",
@@ -2445,6 +2447,7 @@
   "[WD] Expanded Artillery 1.0": "combat",
   "[WD] Fast Moisture Pumps 1.0": "item",
   "[WD] Fewer Steam Geysers 1.0": "biome",
+  "[WD] Grey Marine Armor 1.0": "patch",
   "[WD] Materials For Coolers 1.0": "energy",
   "[WD] Materials For Vents 1.0": "temperature",
   "[WD] More Mini-Turrets 1.0": "combat",
@@ -2517,6 +2520,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jun  5 21:28:57 2019",
+ "timestamp": "Wed Jun  5 21:32:35 2019",
  "version": 4
 }
