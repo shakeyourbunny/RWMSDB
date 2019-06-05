@@ -40,6 +40,7 @@
   "Superlagg": 31,
   "Theutus1": 2,
   "Thirsk": 6,
+  "Toby-Lawrance": 1,
   "TrippyTheO": 5,
   "Wolfehart": 1,
   "YesVeryYes": 2,
@@ -1502,6 +1503,7 @@
   "RePower Rimefeller Patch": "patch",
   "RePower VGP Patch": "patch",
   "Real Fog of War": "ui",
+  "Real Fog of War Extended": "ui",
   "Real Ruins": "biome",
   "Real Ruins - Deutschpatch": "patch",
   "Real Time Clock Plus (v1.0.0)": "ui",
@@ -2520,6 +2522,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jun  5 21:32:35 2019",
+ "timestamp": "Wed Jun  5 21:35:33 2019",
  "version": 4
 }
