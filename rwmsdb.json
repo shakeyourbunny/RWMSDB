@@ -82,7 +82,7 @@
   "sebitor": 65,
   "seriouscylinder": 4,
   "shakeyourbunny": 696,
-  "tarak55571": 4,
+  "tarak55571": 5,
   "transbiod": 32,
   "trillex": 6,
   "whitmadm": 2
@@ -1979,6 +1979,7 @@
   "Training Console 1.0": "skill",
   "Training Console B18": "skill",
   "Training Rack": "skill",
+  "Trait Rarity Colors": "ui",
   "Transmution": "production",
   "Transport Downed Pawns": "ai",
   "Trap Disable[1.0]": "patch",
@@ -2560,6 +2561,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Mon Jun 10 22:01:20 2019",
+ "timestamp": "Mon Jun 10 22:06:00 2019",
  "version": 4
 }
