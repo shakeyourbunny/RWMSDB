@@ -67,6 +67,7 @@
   "jupiterlily": 14,
   "kenderbard": 6,
   "kladdey": 10,
+   "m0bitz": 3,
   "maff": 43,
   "miyoumu": 1,
   "ouyin2000": 9,
@@ -1343,6 +1344,7 @@
   "Oni of the Rim - Legacy body texture": "texture",
   "Oni of the Rim More Weapons": "weapon",
   "Ooka Miko[1.0]": "animal",
+   "Op Trait": "ai",
   "Op Trait CE": "patch",
   "Open Door Manually": "ui",
   "Opened Doors Don't Block Light": "light",
@@ -1440,6 +1442,7 @@
   "Progress Renderer": "ui",
   "Project Armory 1.2": "weapon",
   "Project Fallout v1.7": "total_conversion",
+   "Project Itzal - Bonus Guns": "weapon",
   "Project Itzal - Main Pack": "weapon",
   "Project RimFactory - Core": "gameplay",
   "Project RimFactory - Drones": "gameplay",
@@ -1516,6 +1519,7 @@
   "RePower Rimatomics Patch": "patch",
   "RePower Rimefeller Patch": "patch",
   "RePower VGP Patch": "patch",
+   "Real Drug Names": "ui",
   "Real Fog of War": "ui",
   "Real Fog of War Extended": "ui",
   "Real Ruins": "biome",
@@ -2543,6 +2547,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Mon Jun 10 21:33:45 2019",
+  "timestamp": "Mon Jun 10 21:43:28 2019",
  "version": 4
 }
