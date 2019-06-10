@@ -52,7 +52,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "connardman": 38,
+  "connardman": 40,
   "czarneski77": 120,
   "darwinning": 6,
   "drbodrbo": 8,
@@ -276,6 +276,7 @@
   "Beach": "item",
   "Beam me up Scotty": "furniture",
   "Beast Man Tribes": "faction",
+  "Beastly Vanilla Turrets": "combat",
   "Beasts of the Rim": "animal",
   "Beautiful Water": "biome",
   "Beautiful Weapons": "annoyance",
@@ -1099,6 +1100,7 @@
   "Marriage Collar with \"Add Elona Shoujo\"": "item",
   "MarsX v3 - Musky Edition": "total_conversion",
   "Mass Graves": "combat",
+  "Mass Muffect Harder Raids": "combat",
   "Mass Muffect Races 1.0": "race",
   "Mass Muffect Races EPOE patch 1.0": "patch",
   "Mass Storage": "gameplay",
@@ -2568,6 +2570,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Mon Jun 10 22:12:31 2019",
+ "timestamp": "Mon Jun 10 22:20:42 2019",
  "version": 4
 }
