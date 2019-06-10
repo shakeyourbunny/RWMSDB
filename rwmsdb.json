@@ -55,7 +55,7 @@
   "darwinning": 6,
   "drbodrbo": 8,
   "dreipixel": 49,
-  "florianraber": 17,
+  "florianraber": 19,
   "h3rb4l": 37,
   "hafizhmakmur": 5,
   "handspiker2": 3,
@@ -1296,6 +1296,7 @@
   "No Fertilized Egg Deterioration": "annoyance",
   "No Forced Slowdown": "annoyance",
   "No Friendly Fire": "annoyance",
+  "No Haze": "patch",
   "No Humanlike Butchering Debuff": "annoyance",
   "No Murderous Rage": "annoyance",
   "No Pawn Left Behind": "gameplay",
@@ -1554,6 +1555,7 @@
   "Remote Tech": "combat",
   "Remove From Anything Outfit [V1]": "framework",
   "Remove Gradual Relations Decay": "annoyance",
+  "Remove Spacer Weapons": "patch",
   "Remove Tutorial Button": "ui",
   "Remove eating without table debuff": "annoyance",
   "RenameColony": "ui",
@@ -2541,6 +2543,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Mon Jun 10 21:28:32 2019",
+ "timestamp": "Mon Jun 10 21:33:45 2019",
  "version": 4
 }
