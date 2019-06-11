@@ -86,6 +86,7 @@
   "tarak55571": 5,
   "transbiod": 32,
   "trillex": 6,
+  "tymestrike": 1,
   "whitmadm": 2
  },
  "db": {
@@ -2142,6 +2143,7 @@
   "While You're Up [1.0]": "ai",
   "While You're Up [b18]": "ai",
   "White only": "appearance",
+  "Why Can't I Craft Neutroamine?!": "production",
   "Wide Boi Solar Panel": "energy",
   "Wild Drugs": "biome",
   "Wild Haygrass [1.0]": "resource",
@@ -2570,6 +2572,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Mon Jun 10 22:20:42 2019",
+ "timestamp": "Tue Jun 11 22:08:30 2019",
  "version": 4
 }
