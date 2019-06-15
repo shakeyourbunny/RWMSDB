@@ -52,7 +52,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "connardman": 40,
+  "connardman": 44,
   "czarneski77": 120,
   "darwinning": 6,
   "drbodrbo": 8,
@@ -1362,6 +1362,7 @@
   "Oni of the Rim - Legacy body texture": "texture",
   "Oni of the Rim More Weapons": "weapon",
   "Ooka Miko[1.0]": "animal",
+  "Ookami": "animal",
   "Op Trait": "ai",
   "Op Trait CE": "patch",
   "Open Door Manually": "ui",
@@ -1441,6 +1442,7 @@
   "PowerArmour T-45b": "clothing",
   "PowerSwitch": "energy",
   "Powerful Faction Bases": "faction",
+  "Practise Target": "skill",
   "Praise the Emperor": "gameplay",
   "Prayer Spots": "ui",
   "Precious Stones": "resource",
@@ -1992,6 +1994,7 @@
   "Trait Rarity Colors": "ui",
   "Transmution": "production",
   "Transport Downed Pawns": "ai",
+  "Transport Pod MK2": "ai",
   "Trap Disable[1.0]": "patch",
   "Travel through water": "caravan",
   "Tree People": "race",
@@ -2491,6 +2494,7 @@
   "[Uru] Kemono Friends Hair (1.0)": "appearance",
   "[Uru] Rim Seraph hair (1.0)": "appearance",
   "[Uru] Touhou Hair (1.0)": "appearance",
+  "[Uru] vocaloid hair (1.0)": "appearance",
   "[WD] Additional RAIDs! 1.0": "combat",
   "[WD] Antibiotics And Painkillers 1.0": "medicine",
   "[WD] Barbed Wire 1.0": "combat",
@@ -2572,6 +2576,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Tue Jun 11 22:08:30 2019",
+ "timestamp": "Sat Jun 15 21:57:40 2019",
  "version": 4
 }
