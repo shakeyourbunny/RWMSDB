@@ -3,12 +3,13 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (88)
+#### Contributors (89)
 - shakeyourbunny: 696 mod(s)
 - Black Goat: 159 mod(s)
 - pigand: 125 mod(s)
 - czarneski77: 120 mod(s)
 - GitrimEretnek: 110 mod(s)
+- Nuclearmayhem: 67 mod(s)
 - sebitor: 65 mod(s)
 - Nightliss: 63 mod(s)
 - Dessometrics: 57 mod(s)
