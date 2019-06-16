@@ -63,6 +63,7 @@
   "hafizhmakmur": 5,
   "handspiker2": 3,
   "haziel831": 13,
+  "jagvol": 2,
   "john": 3,
   "johnrando": 30,
   "jpc0": 2,
@@ -418,6 +419,7 @@
   "Centenarians": "scenario",
   "Centralized Climate Control": "temperature",
   "Ceramics": "structure",
+  "Chair Graphic Overhaul": "patch",
   "Chanfana's Bodies": "appearance",
   "Change map edge limit": "biome",
   "Character Editor": "ui",
@@ -2388,6 +2390,7 @@
   "[CP] Rimmu-Nation - Weapons (B18)": "weapon",
   "[Cab's]Beat The Meat 3.0": "production",
   "[Core] MDK Terrain Patch": "patch",
+  "[DEV]Medical Dissection": "production",
   "[EC]Shields": "combat",
   "[EPOE] Craftable Power Claws": "weapon",
   "[FGO]Fate Grand Order - Styles Apparel Pack": "clothing",
@@ -2648,6 +2651,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sat Jun 15 22:23:34 2019",
+ "timestamp": "Sun Jun 16 20:10:28 2019",
  "version": 4
 }

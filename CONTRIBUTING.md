@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (89)
+#### Contributors (90)
 - shakeyourbunny: 696 mod(s)
 - Black Goat: 159 mod(s)
 - pigand: 125 mod(s)
@@ -85,6 +85,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - pjradz: 2 mod(s)
 - preechr: 2 mod(s)
 - whitmadm: 2 mod(s)
+- jagvol: 2 mod(s)
 - DavidBouw: 1 mod(s)
 - KaosuReido: 1 mod(s)
 - Oggom: 1 mod(s)
