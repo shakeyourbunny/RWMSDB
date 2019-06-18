@@ -53,7 +53,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "connardman": 44,
+  "connardman": 45,
   "czarneski77": 120,
   "darwinning": 6,
   "drbodrbo": 8,
@@ -868,6 +868,7 @@
   "Glowstick": "light",
   "Glowstone": "light",
   "Gnoll Race 1.0": "race",
+  "Goblin Slayer": "clothing",
   "Godlike Trait": "skill",
   "Golgafrinchans": "scenario",
   "Gone with the Rimwave - (1.0)": "clothing",
@@ -2658,6 +2659,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun 16 20:13:48 2019",
+ "timestamp": "Tue Jun 18 19:22:01 2019",
  "version": 4
 }

@@ -16,7 +16,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - NKSHV: 51 mod(s)
 - dreipixel: 49 mod(s)
 - Preechr: 48 mod(s)
-- connardman: 44 mod(s)
+- connardman: 45 mod(s)
 - maff: 43 mod(s)
 - axelfoxy: 41 mod(s)
 - bagelhe: 38 mod(s)
