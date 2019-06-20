@@ -84,7 +84,7 @@
   "rawrfisher": 36,
   "sebitor": 72,
   "seriouscylinder": 4,
-  "shakeyourbunny": 696,
+  "shakeyourbunny": 697,
   "tarak55571": 5,
   "transbiod": 32,
   "trillex": 6,
@@ -1661,6 +1661,7 @@
   "RimBank": "gameplay",
   "RimBees": "resource",
   "RimBuff": "framework",
+  "RimCities": "biome",
   "RimCuisine 1.0": "food",
   "RimEVE (Music Pack)": "music",
   "RimEffect - Asari of the Rims": "race",
@@ -2659,6 +2660,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Tue Jun 18 19:22:01 2019",
+ "timestamp": "Thu Jun 20 12:16:47 2019",
  "version": 4
 }
