@@ -13,7 +13,7 @@
   "DavidBouw": 1,
   "Deathawaits4": 15,
   "Dessometrics": 57,
-  "Discohydra": 4,
+  "Discohydra": 5,
   "Drunkender": 5,
   "Endgegner": 37,
   "Fael Aredhel": 4,
@@ -2286,6 +2286,7 @@
   "[1.0] Combat Extended Guns": "combat_addon",
   "[1.0] Combat Extended: Shields": "combat_addon",
   "[1.0] Combat Shields": "combat",
+  "[1.0] Combat Shields - Unofficial Sci-Fi Addon": "combat_addon",
   "[1.0] Coonskin Cap": "clothing",
   "[1.0] DE Surgeries": "medicine",
   "[1.0] DE Surgeries - Alpha Animals patch": "patch",
@@ -2668,6 +2669,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun 23 08:45:09 2019",
+ "timestamp": "Sun Jun 23 08:47:43 2019",
  "version": 4
 }
