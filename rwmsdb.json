@@ -73,6 +73,7 @@
   "jupiterlily": 14,
   "kenderbard": 6,
   "kladdey": 10,
+  "kruemelkeksfan": 1,
   "m0bitz": 3,
   "maff": 43,
   "miyoumu": 1,
@@ -2300,6 +2301,7 @@
   "[1.0] DE Surgeries - Kijin patch": "patch",
   "[1.0] DE Surgeries - Kurin Race patch": "patch",
   "[1.0] DE Surgeries - Oni Race patch": "patch",
+  "[1.0] DE Surgeries Hard": "medicine",
   "[1.0] DE Surgeries NewRatkinPlus patch": "patch",
   "[1.0] DE Surgeries for RBSE only": "patch",
   "[1.0] Defenses Expanded": "structure",
@@ -2674,6 +2676,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Sun Jun 23 09:00:10 2019",
+ "timestamp": "Sun Jun 23 09:03:11 2019",
  "version": 4
 }
