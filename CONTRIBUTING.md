@@ -32,7 +32,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - JonasScheins: 28 mod(s)
 - AngryScandinavian: 22 mod(s)
 - Jolc3r: 22 mod(s)
-- florianraber: 21 mod(s)
+- florianraber: 22 mod(s)
 - ju1998ly: 21 mod(s)
 - CombatTentacles: 19 mod(s)
 - Montyi: 17 mod(s)
