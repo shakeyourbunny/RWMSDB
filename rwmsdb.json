@@ -94,6 +94,7 @@
   "seriouscylinder": 4,
   "shakeyourbunny": 697,
   "stealthbob69": 25,
+  "tarak5557": 2,
   "tarak55571": 5,
   "transbiod": 32,
   "trillex": 6,
@@ -678,6 +679,7 @@
   "Disasters": "gameplay",
   "Disasters: Tornado": "gameplay",
   "Diseases Overhauled": "gameplay",
+  "Disfigured Nerf": "patch",
   "Disinfectant stand.": "medicine",
   "Dismiss Trader": "ui",
   "Display Radius": "ui",
@@ -1175,6 +1177,7 @@
   "Kijin Item Removal Patch": "patch",
   "Kijin Race": "race",
   "Kijin: Apparello 2 Apparel Patch": "patch",
+  "Kijin: Boots and Stuff Apparel Patch": "patch",
   "Kijin: Call of Cthulhu Apparel Patch": "patch",
   "Kijin: Medieval Times Apparel Patch": "patch",
   "Kijin: Rimmu-Nation Apparel Patch": "patch",
@@ -2847,6 +2850,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jul 10 21:51:11 2019",
+ "timestamp": "Wed Jul 10 21:53:35 2019",
  "version": 4
 }
