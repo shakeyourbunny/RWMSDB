@@ -26,6 +26,7 @@
   "Jiala": 14,
   "Jolc3r": 22,
   "JonasScheins": 28,
+  "JonasScheirs": 1,
   "KaosuReido": 1,
   "Karl Koch": 4,
   "Kyonai": 6,
@@ -1184,6 +1185,7 @@
   "Kijin: Maid Project Apparel Patch": "patch",
   "Kijin: Medieval Times Apparel Patch": "patch",
   "Kijin: Rimmu-Nation Apparel Patch": "patch",
+  "Kijin: Rimmu-Nation Apparel Patch (converted for regular girl pawns)": "patch",
   "Kijin: Rimsenal Apparel Patch": "patch",
   "Kijin: Spartan Foundry and Field Medic Apparel Patch": "patch",
   "KijinOutfitsOnly": "patch",
@@ -2864,6 +2866,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jul 10 22:04:12 2019",
+ "timestamp": "Wed Jul 10 22:06:10 2019",
  "version": 4
 }
