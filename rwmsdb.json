@@ -34,7 +34,7 @@
   "Maddremor": 11,
   "Montyi": 17,
   "NKSHV": 51,
-  "Newkz": 1,
+  "Newkz": 2,
   "Nightliss": 63,
   "Nuclearmayhem": 67,
   "Oggom": 1,
@@ -1871,6 +1871,7 @@
   "Refugee Stats": "ui",
   "Regeneration Bay": "medicine",
   "Regenerator Nanohive": "gameplay",
+  "Reich Armory Ausf\u00fchrung": "weapon",
   "Relations Tab": "ui",
   "Release Animals into Wild": "animal",
   "Release the Muffs": "ai_animal",
@@ -2863,6 +2864,6 @@
   "\u5bcc\u5546 Silver Rich Merchant": "trading",
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance"
  },
- "timestamp": "Wed Jul 10 21:58:56 2019",
+ "timestamp": "Wed Jul 10 22:04:12 2019",
  "version": 4
 }
