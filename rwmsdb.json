@@ -33,7 +33,7 @@
   "LazyLizard95": 8,
   "LemmysTash": 7,
   "Maddremor": 11,
-  "Montyi": 17,
+  "Montyi": 18,
   "NKSHV": 51,
   "Newkz": 2,
   "Nightliss": 63,
@@ -1201,6 +1201,7 @@
   "Kijin: Boots and Stuff Apparel Patch": "patch",
   "Kijin: Call of Cthulhu Apparel Patch": "patch",
   "Kijin: Maid Project Apparel Patch": "patch",
+  "Kijin: Maid Project Apparel Patch (converted for regular girl pawns)": "patch",
   "Kijin: Medieval Times Apparel Patch": "patch",
   "Kijin: Rimmu-Nation Apparel Patch": "patch",
   "Kijin: Rimmu-Nation Apparel Patch (converted for regular girl pawns)": "patch",
@@ -2907,6 +2908,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Jul 10 22:20:13 2019",
+ "timestamp": "Wed Jul 10 22:22:26 2019",
  "version": 4
 }

@@ -39,7 +39,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - florianraber: 22 mod(s)
 - ju1998ly: 21 mod(s)
 - CombatTentacles: 19 mod(s)
-- Montyi: 17 mod(s)
+- Montyi: 18 mod(s)
 - Radical-Dragon: 16 mod(s)
 - Deathawaits4: 15 mod(s)
 - rallias: 15 mod(s)
