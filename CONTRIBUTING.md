@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (105)
+#### Contributors (106)
 - shakeyourbunny: 697 mod(s)
 - randomnone: 161 mod(s)
 - Black Goat: 159 mod(s)
@@ -82,6 +82,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Japan2Canada: 4 mod(s)
 - Karl Koch: 4 mod(s)
 - seriouscylinder: 4 mod(s)
+- kradlyn: 4 mod(s)
 - handspiker2: 3 mod(s)
 - john: 3 mod(s)
 - m0bitz: 3 mod(s)

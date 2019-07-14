@@ -80,6 +80,7 @@
   "jupiterlily": 14,
   "kenderbard": 6,
   "kladdey": 10,
+  "kradlyn": 4,
   "kruemelkeksfan": 1,
   "m0bitz": 3,
   "maff": 43,
@@ -1101,6 +1102,7 @@
   "Higher Power": "energy",
   "Highway Restoration": "structure",
   "Hisa Faction": "faction",
+  "Hisa Faction Lite": "faction",
   "Hold Open Opens Doors": "annoyance",
   "Holiday Special Edition": "gameplay",
   "HolyWasher": "item",
@@ -2123,6 +2125,7 @@
   "Shaggy: God of Destruction": "storyteller",
   "Shale: from oil to plastic": "resource",
   "Share The Load": "ai",
+  "Sharknado": "gameplay",
   "Shear Those Corpses ACP": "production",
   "Shear Those Corpses Vanilla": "production",
   "SheathYourSword": "appearance",
@@ -2142,6 +2145,7 @@
   "Shrink Corpse Buff": "patch",
   "Signs and Memorials": "structure",
   "Silent Mechanoids": "annoyance",
+  "Silent Power Changes": "patch",
   "Silts Additional Additions": "gameplay",
   "Silts Cover": "structure",
   "Silts LEDs": "light",
@@ -2277,6 +2281,7 @@
   "Storage Crates": "furniture",
   "Storage Solutions": "furniture",
   "Storage Tweaks": "patch",
+  "Storm's Living Biomes": "biome",
   "Story Framework": "framework",
   "Story Framework Showcase": "gameplay",
   "Storyteller Enhanced": "storyteller",
@@ -2931,6 +2936,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Jul 14 17:05:41 2019",
+ "timestamp": "Sun Jul 14 17:12:02 2019",
  "version": 4
 }
