@@ -57,7 +57,7 @@
   "Wolfehart": 1,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
-  "aboleba": 4,
+  "aboleba": 5,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -745,6 +745,7 @@
   "Dragonian RimjobEdtion": "patch",
   "Draw a bead": "skill",
   "Dress Patients": "ai",
+  "Drop on Water Revived": "gameplay",
   "Drugs are not Food": "annoyance",
   "Drugs+": "medicine",
   "Dryadic for Zhthy'hl patch": "patch",
@@ -3032,6 +3033,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 11:54:23 2019",
+ "timestamp": "Sat Jul 27 12:07:59 2019",
  "version": 4
 }
