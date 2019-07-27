@@ -11,6 +11,10 @@
   200.0,
   "animals"
  ],
+ "animal_pre_patch": [
+  199.0,
+  "animal pre-patch"
+ ],
  "annoyance": [
   500.0,
   "annoyances"
@@ -67,10 +71,10 @@
   10.0,
   "Gameplay"
  ],
-  "gameplay_addon": [
-    15.0,
-    "Gameplay addon"
-  ],
+ "gameplay_addon": [
+  15.0,
+  "Gameplay addon"
+ ],
  "hugslib": [
   5.0,
   "hugslib"
