@@ -97,6 +97,7 @@
   "pigand": 125,
   "pjradz": 2,
   "preechr": 2,
+  "questionmarkexclamationpoint": 2,
   "r4d6": 8,
   "rallias": 15,
   "randomnone": 205,
@@ -902,6 +903,7 @@
   "Fast regen": "medicine",
   "Faster Apparel": "annoyance",
   "Faster Dev Speed": "annoyance",
+  "Faster Smoothing": "annoyance",
   "Faster Thrumbo Lifecycle": "patch",
   "Faster Walking Speed": "annoyance",
   "Feed Box": "animal",
@@ -2971,6 +2973,7 @@
   "[XND] Proper Shotguns": "weapon",
   "[XND] Quality Cooldown": "ai",
   "[XND] Ranged Stagger Rebalanced": "combat",
+  "[XND] Rename Your Weapons!": "ui",
   "[XND] Simple Plastic": "resource",
   "[XND] StoveTech": "production",
   "[XND] Stuffed Flaks": "combat",
@@ -3039,6 +3042,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 12:20:16 2019",
+ "timestamp": "Sat Jul 27 12:22:28 2019",
  "version": 4
 }
