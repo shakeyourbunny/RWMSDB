@@ -33,7 +33,7 @@
   "Kyonai": 6,
   "LazyLizard95": 8,
   "LemmysTash": 7,
-  "Maddremor": 11,
+  "Maddremor": 13,
   "MatthewTh0": 13,
   "MlTHRlL": 2,
   "Montyi": 18,
@@ -1039,6 +1039,7 @@
   "Glowstick": "light",
   "Glowstone": "light",
   "Gnoll Race": "race",
+  "Go Explore!": "gameplay",
   "Goblin Slayer": "clothing",
   "Godlike Trait": "skill",
   "Gods of Elona": "gameplay",
@@ -2136,6 +2137,7 @@
   "SF  Faceplate": "clothing",
   "SF  Priority Treatment": "medicine",
   "SF  Rain Removes All Filth": "annoyance",
+  "SF Cave Life": "gameplay",
   "SF Grim Reality": "patch",
   "SF Materials Rebalanced": "patch",
   "SF Orbital Trader Transponder": "trading",
@@ -3037,6 +3039,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 12:14:11 2019",
+ "timestamp": "Sat Jul 27 12:20:16 2019",
  "version": 4
 }
