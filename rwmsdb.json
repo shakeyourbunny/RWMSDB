@@ -73,7 +73,7 @@
   "florianraber": 22,
   "h3rb4l": 37,
   "hafizhmakmur": 5,
-  "handspiker2": 3,
+  "handspiker2": 4,
   "haziel831": 13,
   "jagvol": 2,
   "john": 3,
@@ -2731,6 +2731,7 @@
   "[CP] Detailed Body Textures II": "appearance",
   "[CP] Metal Gear Solid: CQC Takedown": "combat",
   "[CP] Metal Gear Solid: Incident Sounds": "combat",
+  "[CP] Portable Nerfed Generator": "energy",
   "[CP] Portable Power Generator": "energy",
   "[CP] Prisoner Outfit": "prisoner",
   "[CP] Red Horse Furniture": "structure",
@@ -3033,6 +3034,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 12:07:59 2019",
+ "timestamp": "Sat Jul 27 12:11:05 2019",
  "version": 4
 }
