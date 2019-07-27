@@ -93,7 +93,7 @@
   "miyoumu": 1,
   "obncomputer": 1,
   "ouyin2000": 9,
-  "pentacore": 2,
+  "pentacore": 3,
   "pigand": 125,
   "pjradz": 2,
   "preechr": 2,
@@ -2622,6 +2622,7 @@
   "Wall Light": "light",
   "Wall Light (BRIGHT)": "light",
   "Wall Light: Extended Colors": "patch",
+  "Wall Turrets": "combat",
   "Wall Vitals Monitor": "medicine",
   "Wallponic": "production",
   "Wandering Caravans": "caravan",
@@ -3042,6 +3043,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 12:22:28 2019",
+ "timestamp": "Sat Jul 27 14:27:11 2019",
  "version": 4
 }
