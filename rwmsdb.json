@@ -54,6 +54,7 @@
   "Thirsk": 6,
   "Toby-Lawrance": 1,
   "TrippyTheO": 15,
+  "TwistedMinds2": 1,
   "Wolfehart": 1,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
@@ -558,6 +559,7 @@
   "Colourful Sterile Tiles": "furniture",
   "Combat Effects for Combat Extended": "patch",
   "Combat Extended": "gameplay",
+  "Combat Extended Fixes": "patch",
   "Combat Extended Guns": "combat_addon",
   "Combat Extended Guns Retextured": "texture",
   "Combat Extended: Chemical Distilling": "patch",
@@ -3035,6 +3037,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 12:12:54 2019",
+ "timestamp": "Sat Jul 27 12:14:11 2019",
  "version": 4
 }
