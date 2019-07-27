@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (110)
+#### Contributors (111)
 - shakeyourbunny: 697 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
@@ -66,6 +66,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - LemmysTash: 7 mod(s)
 - SpookieWookie: 7 mod(s)
 - brucethemoose: 7 mod(s)
+- melvingroenendaal: 7 mod(s)
 - Kyonai: 6 mod(s)
 - Thirsk: 6 mod(s)
 - Zyankali1995: 6 mod(s)
