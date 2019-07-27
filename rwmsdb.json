@@ -57,7 +57,7 @@
   "Wolfehart": 1,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
-  "aboleba": 3,
+  "aboleba": 4,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -784,6 +784,7 @@
   "EPOE Xenn Race Patch": "patch",
   "EPOE Zabrak RacePatch": "patch",
   "EPOE: Rebalanced": "patch",
+  "EPOE: Trader and Archotech patch": "patch",
   "EPOE: rebalance": "patch",
   "ETRT: Bulk Production Recipes": "production",
   "ETRT: Cannibal Tweaks": "ai",
@@ -3023,6 +3024,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 11:27:21 2019",
+ "timestamp": "Sat Jul 27 11:30:38 2019",
  "version": 4
 }
