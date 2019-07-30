@@ -46,7 +46,7 @@
   "Preechr": 48,
   "Radical-Dragon": 16,
   "Riley4376": 10,
-  "SpookieWookie": 7,
+  "SpookieWookie": 10,
   "Sunnday3": 33,
   "Superlagg": 31,
   "Taemaly": 17,
@@ -2575,6 +2575,8 @@
   "Vanilla Animals Expanded \u2014 Livestock": "animal",
   "Vanilla Animals Expanded \u2014 Livestock CombatExtended Patch": "patch",
   "Vanilla Animals Overhaul Reloaded": "patch",
+  "Vanilla Apparel Expanded": "clothing",
+  "Vanilla Armour Expanded": "clothing",
   "Vanilla Factions Tribal Weapons": "annoyance",
   "Vanilla Fences": "structure",
   "Vanilla Friendly Pallet": "furniture",
@@ -2585,6 +2587,7 @@
   "Vanilla Generators What Can Go Wrong?": "patch",
   "Vanilla Taxidermy": "furniture",
   "Vanilla Weapon Upgrades": "weapon",
+  "Vanilla Weapons Expanded": "weapon",
   "Vanilla Weapons Retextured": "texture",
   "Vanilla-Like Security": "combat",
   "Vanilla-like wheat": "food",
@@ -3043,6 +3046,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Jul 27 14:27:11 2019",
+ "timestamp": "Tue Jul 30 20:17:48 2019",
  "version": 4
 }
