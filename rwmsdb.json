@@ -58,7 +58,7 @@
   "Wolfehart": 1,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
-  "aboleba": 6,
+  "aboleba": 7,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -2497,6 +2497,7 @@
   "Trap Mastery": "combat",
   "Travel through water": "caravan",
   "Tree People": "race",
+  "Trench Cats": "race",
   "Tribal Beds": "furniture",
   "Tribal Defences": "combat",
   "Tribal Essentials Modpack": "gameplay",
@@ -3050,6 +3051,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Tue Jul 30 20:21:58 2019",
+ "timestamp": "Tue Jul 30 20:24:34 2019",
  "version": 4
 }
