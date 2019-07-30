@@ -65,6 +65,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
+  "captainjal": 3,
   "connardman": 45,
   "czarneski77": 120,
   "darwinning": 6,
@@ -996,6 +997,7 @@
   "Gas Traps And Shells": "combat",
   "Gear Up And Go": "ui",
   "Gems": "resource",
+  "Gender Distinction": "appearance",
   "Genderless Hair": "patch",
   "GeneTech": "resource",
   "Generic CE Ammo": "patch",
@@ -1777,6 +1779,7 @@
   "Plasteel Surgery": "appearance",
   "Plastic Revolution": "resource",
   "Play Time Tracker (DISCONTINUED)": "ui",
+  "Playable Dragongirls": "race",
   "Playable Feral Orkz": "race",
   "Playable Kobolds": "race",
   "Please Haul Perishables": "ai",
@@ -1842,6 +1845,7 @@
   "Project RimFactory: Storage": "gameplay",
   "Project XM8": "weapon",
   "Proper Beavers": "animal",
+  "Prospector": "ai",
   "Prosthetic Didgets": "gameplay",
   "Psychology": "ai",
   "Psychology Imprisonment Patch": "patch",
@@ -3046,6 +3050,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Tue Jul 30 20:17:48 2019",
+ "timestamp": "Tue Jul 30 20:21:58 2019",
  "version": 4
 }
