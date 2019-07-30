@@ -55,7 +55,7 @@
   "Toby-Lawrance": 1,
   "TrippyTheO": 15,
   "TwistedMinds2": 1,
-  "Wolfehart": 1,
+  "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
   "aboleba": 7,
@@ -646,6 +646,7 @@
   "CyberNet": "gameplay",
   "Cybernetic Organism and Neural Network": "gameplay",
   "Cybernetic Storm": "gameplay",
+  "Cybernetic Warfare": "weapon",
   "Cyberpunk Factions [18]": "faction",
   "Cyberpunk [18]": "gameplay",
   "DDA Security and More": "structure",
@@ -2982,8 +2983,8 @@
   "[XND] Proper Shotguns": "weapon",
   "[XND] Quality Cooldown": "ai",
   "[XND] Ranged Stagger Rebalanced": "combat",
-  "[XND] Rename Your Weapons!": "ui",
   "[XND] Rename Everything!": "ui",
+  "[XND] Rename Your Weapons!": "ui",
   "[XND] Simple Plastic": "resource",
   "[XND] StoveTech": "production",
   "[XND] Stuffed Flaks": "combat",
@@ -3052,6 +3053,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Tue Jul 30 20:24:34 2019",
+ "timestamp": "Tue Jul 30 20:29:21 2019",
  "version": 4
 }
