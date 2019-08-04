@@ -72,7 +72,7 @@
   "darwinning": 6,
   "drbodrbo": 8,
   "dreipixel": 49,
-  "felixkempf": 2,
+  "felixkempf": 3,
   "florianraber": 22,
   "h3rb4l": 37,
   "hafizhmakmur": 5,
@@ -2157,6 +2157,7 @@
   "SF Cave Life": "gameplay",
   "SF Grim Reality": "patch",
   "SF Materials Rebalanced": "patch",
+  "SF More Steel from Slag": "annoyance",
   "SF Orbital Trader Transponder": "trading",
   "SS Battery Fuse": "energy",
   "SS Bigger Batteries": "energy",
@@ -3066,6 +3067,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug  4 15:37:20 2019",
+ "timestamp": "Sun Aug  4 15:40:43 2019",
  "version": 4
 }

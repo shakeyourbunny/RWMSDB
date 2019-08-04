@@ -92,6 +92,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - kradlyn: 4 mod(s)
 - seriouscylinder: 4 mod(s)
 - captainjal: 3 mod(s)
+- felixkempf: 3 mod(s)
 - john: 3 mod(s)
 - m0bitz: 3 mod(s)
 - pentacore: 3 mod(s)
@@ -101,7 +102,6 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Theutus1: 2 mod(s)
 - Wolfehart: 2 mod(s)
 - YesVeryYes: 2 mod(s)
-- felixkempf: 2 mod(s)
 - jagvol: 2 mod(s)
 - jpc0: 2 mod(s)
 - pjradz: 2 mod(s)
@@ -118,6 +118,6 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - kruemelkeksfan: 1 mod(s)
 - miyoumu: 1 mod(s)
 - obncomputer: 1 mod(s)
-- tymestrike: 1 mod(s)
 - sceiler: 1 mod(s)
+- tymestrike: 1 mod(s)
 ------------
