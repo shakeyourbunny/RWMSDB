@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (118)
+#### Contributors (119)
 - shakeyourbunny: 697 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
@@ -122,4 +122,5 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - obncomputer: 1 mod(s)
 - sceiler: 1 mod(s)
 - tymestrike: 1 mod(s)
+- jamesblack: 1 mod(s)
 ------------
