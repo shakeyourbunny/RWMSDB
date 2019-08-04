@@ -66,7 +66,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "captainjal": 3,
+  "captainjal": 4,
   "connardman": 45,
   "czarneski77": 120,
   "darwinning": 6,
@@ -1674,6 +1674,7 @@
   "Nukes": "weapon",
   "Number 22 with Rice": "production",
   "Numbers": "ui",
+  "NurseJob": "ai",
   "Nutrient Paste Production": "food",
   "Nutrient Paste Rebalanced": "patch",
   "NutritiousKibble": "annoyance",
@@ -3067,6 +3068,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug  4 15:40:43 2019",
+ "timestamp": "Sun Aug  4 15:43:57 2019",
  "version": 4
 }
