@@ -59,7 +59,7 @@
   "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
-  "aboleba": 9,
+  "aboleba": 10,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -105,6 +105,7 @@
   "randomnone": 205,
   "rawrfisher": 36,
   "rossol": 40,
+  "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
   "shakeyourbunny": 697,
@@ -366,6 +367,7 @@
   "Better Social Skills": "ai",
   "Better Speed": "ai",
   "Better Spots": "ui",
+  "Better Sun Lamps": "light",
   "Better Survival Meals": "food",
   "Better Temperature Control": "temperature",
   "Better Traders (x2)": "trading",
@@ -2180,6 +2182,7 @@
   "Science Never Stops": "resource",
   "Search and Destroy": "ai",
   "Secret Passage Doors": "structure",
+  "Seed Please Collection!": "patch",
   "SeedsPlease": "food",
   "SeedsPleaseAddon\u3010ZP\u3011RCC\u3010\u3011": "patch",
   "Select Turret Target": "ui",
@@ -3063,6 +3066,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug  4 15:33:35 2019",
+ "timestamp": "Sun Aug  4 15:37:20 2019",
  "version": 4
 }
