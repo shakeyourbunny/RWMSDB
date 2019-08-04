@@ -84,6 +84,7 @@
   "jpc0": 2,
   "ju1998ly": 21,
   "jupiterlily": 14,
+  "kaijinzero": 2,
   "kenderbard": 6,
   "kladdey": 10,
   "kradlyn": 4,
@@ -812,6 +813,7 @@
   "Early Industrial Societies": "faction",
   "Easier Growingzones": "ui",
   "Easily Craftable Components": "production",
+  "Easy Kibble": "food",
   "Easy Speedup": "ui",
   "Eating without a table is a war crime": "ai",
   "EdB Prepare Carefully": "load_last_mod",
@@ -2592,6 +2594,7 @@
   "VOHAIR": "appearance",
   "Valkyrie Corp. Gun Printing": "weapon",
   "Vanilla Animal Overhaul": "animal",
+  "Vanilla Animals Expanded \u2014 Cats and Dogs": "animal",
   "Vanilla Animals Expanded \u2014 Livestock": "animal",
   "Vanilla Animals Expanded \u2014 Livestock CombatExtended Patch": "patch",
   "Vanilla Animals Overhaul Reloaded": "patch",
@@ -3068,6 +3071,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug  4 15:43:57 2019",
+ "timestamp": "Sun Aug  4 15:51:58 2019",
  "version": 4
 }
