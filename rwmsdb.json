@@ -108,6 +108,7 @@
   "randomnone": 205,
   "rawrfisher": 36,
   "rossol": 40,
+  "sazra": 2,
   "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
@@ -500,6 +501,7 @@
   "Carcinoma spreads": "gameplay",
   "Careful Raids": "combat",
   "Cargo Pod Transport": "ai",
+  "Carry Capacity Fix": "patch",
   "Cassandra Hardcore": "storyteller",
   "CatsAreCleverToo": "ai_animal",
   "Caution Tiles": "furniture",
@@ -1373,6 +1375,7 @@
   "MT: Starting Tech": "storyteller",
   "Machine gun defense": "combat",
   "Mad Skills": "skill",
+  "Magical Menagerie": "animal",
   "Make Boars Great Again": "ai_animal",
   "Mantodean CE Patch": "patch",
   "Map Edit Tools": "ui",
@@ -3081,6 +3084,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug  4 16:02:11 2019",
+ "timestamp": "Sun Aug  4 16:05:33 2019",
  "version": 4
 }
