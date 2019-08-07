@@ -47,6 +47,7 @@
   "Preechr": 48,
   "Radical-Dragon": 16,
   "Riley4376": 10,
+  "Son_Of_Diablo": 2,
   "SpookieWookie": 10,
   "Sunnday3": 33,
   "Superlagg": 31,
@@ -564,6 +565,7 @@
   "Cloth Sandbags": "combat",
   "Clothes To Cloths": "production",
   "CloudCore": "framework",
+  "Clueless Arrivals": "scenario",
   "Clutter \"The Door Stuff\"": "gameplay",
   "Clutter \"Windows Stuff\"": "structure",
   "Clutter Structures": "furniture",
@@ -1222,6 +1224,7 @@
   "Infinite Mortar Range": "patch",
   "Infinite Turrets": "annoyance",
   "Infused": "item",
+  "Infused Filter (Auto Seller Filter)": "patch",
   "Infused: Tech Edition": "gameplay",
   "Inspiration": "skill",
   "Interaction Bubbles": "ui",
@@ -3113,6 +3116,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Aug  7 21:45:25 2019",
+ "timestamp": "Wed Aug  7 21:48:59 2019",
  "version": 4
 }
