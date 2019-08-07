@@ -66,7 +66,7 @@
   "bagelhe": 38,
   "bertaz": 1,
   "brucethemoose": 7,
-  "captainjal": 4,
+  "captainjal": 5,
   "connardman": 45,
   "czarneski77": 120,
   "darwinning": 6,
@@ -2615,6 +2615,7 @@
   "VGP Garden Drinks": "food",
   "VGP Garden Dyes": "texture",
   "VGP Garden Fabrics": "resource",
+  "VGP Garden Fabrics Simplified": "production",
   "VGP Garden Gourmet": "food",
   "VGP Garden Medicine": "medicine",
   "VGP Garden Resources": "resource",
@@ -3112,6 +3113,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Aug  7 21:42:40 2019",
+ "timestamp": "Wed Aug  7 21:45:25 2019",
  "version": 4
 }
