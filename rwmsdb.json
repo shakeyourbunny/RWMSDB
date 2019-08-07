@@ -117,6 +117,7 @@
   "seriouscylinder": 4,
   "shakeyourbunny": 697,
   "simplysublime": 6,
+  "soxiel": 1,
   "stealthbob69": 25,
   "tarak5557": 2,
   "tarak55571": 5,
@@ -1051,6 +1052,7 @@
   "GeneticRim Megafauna Patch": "patch",
   "Genetically Engineered Trait": "skill",
   "Gerzee Race": "race",
+  "Geth": "race",
   "Geyser Cooking station": "production",
   "Ghosts CE Patch": "patch",
   "Giant Bees": "animal",
@@ -3144,6 +3146,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Aug  7 22:05:54 2019",
+ "timestamp": "Wed Aug  7 22:07:50 2019",
  "version": 4
 }
