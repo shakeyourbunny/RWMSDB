@@ -124,7 +124,8 @@
   "transbiod": 32,
   "trillex": 6,
   "tymestrike": 1,
-  "whitmadm": 2
+  "whitmadm": 2,
+  "wolfehart": 2
  },
  "db": {
   "\"ADS: CK-APP\" Compatibility Patch": "patch",
@@ -2245,6 +2246,7 @@
   "Selectable Sculpture Graphic": "ui",
   "Selected Reconnector": "energy",
   "Self Lovin": "joy",
+  "Self reloading traps": "combat",
   "Selling prisoners with no guilt": "prisoner",
   "Sensible Stone and Steel": "annoyance",
   "Sergals, Gnolls and Lions": "race",
@@ -2589,6 +2591,7 @@
   "True Oracle": "skill",
   "Truly Non-Lethal (TNL)": "annoyance",
   "Trump Hair": "appearance",
+  "Try to find it!": "caravan",
   "Tsundere Trait": "skill",
   "Turn It On and Off": "energy",
   "Turret Collection": "combat",
@@ -3141,6 +3144,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Aug  7 22:03:30 2019",
+ "timestamp": "Wed Aug  7 22:05:54 2019",
  "version": 4
 }
