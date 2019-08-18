@@ -56,7 +56,7 @@
   "SpookieWookie": 10,
   "Sunnday3": 33,
   "Superlagg": 31,
-  "Taemaly": 17,
+  "Taemaly": 21,
   "Theutus1": 2,
   "Thirsk": 6,
   "Toby-Lawrance": 1,
@@ -393,6 +393,7 @@
   "Better Speed": "ai",
   "Better Spots": "ui",
   "Better Sun Lamps": "light",
+  "Better Sunlamps & More": "light",
   "Better Survival Meals": "food",
   "Better Temperature Control": "temperature",
   "Better Traders (x2)": "trading",
@@ -415,6 +416,8 @@
   "Biomatter": "resource",
   "Biomatter ( Edition)": "production",
   "Biomes Core": "framework",
+  "Biomes! 2: Caves": "biome",
+  "Biomes! 2: Core": "framework",
   "Biomes! Cavern Edition": "biome",
   "Bionic Weapons Platform": "medicine",
   "Bionic icons": "texture",
@@ -2984,6 +2987,7 @@
   "[O21] Pokemon Rim": "animal",
   "[O21] Rimbolds": "animal",
   "[O21] Rimhammer 40K": "total_conversion",
+  "[O21] WikiRim": "ui",
   "[Ods] Kaiser Reich's Imperial Army: Apparel": "clothing",
   "[Ods] Mens Hair": "appearance",
   "[Ods] SCP": "gameplay",
@@ -3193,6 +3197,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 20:24:17 2019",
+ "timestamp": "Sun Aug 18 20:31:13 2019",
  "version": 4
 }
