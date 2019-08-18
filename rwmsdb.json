@@ -18,6 +18,7 @@
   "Dessometrics": 57,
   "Discohydra": 5,
   "Drunkender": 5,
+  "ElvisUntot": 3,
   "Endgegner": 37,
   "Espilonarge": 10,
   "Fael Aredhel": 4,
@@ -1175,6 +1176,7 @@
   "Helpful Lights and Miscellany": "light",
   "Helpful Monkeys": "animal",
   "Helpful Raccoons": "patch",
+  "Heppoko Security Turrets": "combat",
   "Herbal Boosters": "medicine",
   "Herd Migration Revival": "ai_animal",
   "Heresy": "gameplay",
@@ -1840,6 +1842,7 @@
   "Penoxycyline for food poisoning": "patch",
   "People Can Change": "skill",
   "Persistent Float Menus": "ui",
+  "Personal Defense System": "combat",
   "Pet Cucumber": "animal",
   "Peter R. de Vries": "annoyance",
   "Pharmacist": "medicine",
@@ -2316,6 +2319,7 @@
   "Silts LEDs": "light",
   "Silts Passive Cooler": "temperature",
   "Silts Radio": "item",
+  "Silts Reworked Starting Techs": "gameplay",
   "Simple Artifacts Disassembly": "production",
   "Simple Bulk Cooking": "food",
   "Simple Bulk Drugs": "medicine",
@@ -3189,6 +3193,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 20:20:47 2019",
+ "timestamp": "Sun Aug 18 20:24:17 2019",
  "version": 4
 }
