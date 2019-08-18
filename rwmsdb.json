@@ -5,6 +5,7 @@
   "AlphaAtlas": 4,
   "AngryScandinavian": 22,
   "Bdan720": 29,
+  "Bert249": 2,
   "Black Goat": 159,
   "CombatTentacles": 21,
   "D3athAn63I": 4,
@@ -848,6 +849,7 @@
   "Easy Kibble": "food",
   "Easy Speedup": "ui",
   "Eating without a table is a war crime": "ai",
+  "Eccentric Tech: Foxy's Armory": "weapon",
   "EdB Prepare Carefully": "load_last_mod",
   "EdB Prepare Carefully[\u4e2d\u6587\u7248]": "patch",
   "Effective Lumbering": "skill",
@@ -1743,6 +1745,7 @@
   "One More Small Shelf": "furniture",
   "Oni of the Rim": "race",
   "Oni of the Rim More Weapons": "weapon",
+  "Oni of the Rim: Combat Extended": "patch",
   "Oni of the Rim: Faceless heads": "patch",
   "Oni of the Rim: Legacy body texture": "texture",
   "Oni of the Rim: Lite": "race",
@@ -3152,6 +3155,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 19:46:45 2019",
+ "timestamp": "Sun Aug 18 20:01:12 2019",
  "version": 4
 }
