@@ -48,7 +48,7 @@
   "Radical-Dragon": 16,
   "Riley4376": 10,
   "Scryingfox": 8,
-  "Son_Of_Diablo": 2,
+  "Son_Of_Diablo": 3,
   "SpookieWookie": 10,
   "Sunnday3": 33,
   "Superlagg": 31,
@@ -2485,6 +2485,7 @@
   "Tamped Dirt Floor": "structure",
   "Tangerine Music Labs: Ambient Jams": "music",
   "Tank Beds (Fast Sleep)": "furniture",
+  "Taxidermy[v18]": "furniture",
   "Tech Advancing": "storyteller",
   "Tech Primitives": "faction",
   "Tech Raiding": "gameplay",
@@ -3147,6 +3148,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 19:36:03 2019",
+ "timestamp": "Sun Aug 18 19:38:31 2019",
  "version": 4
 }
