@@ -63,7 +63,7 @@
   "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
-  "aboleba": 11,
+  "aboleba": 14,
   "all2473": 5,
   "archangel5432": 30,
   "axelfoxy": 41,
@@ -164,6 +164,7 @@
   "Additional Conduit": "energy",
   "Additional Joy Objects": "joy",
   "Additional Joy Objects Classic": "joy",
+  "Additional Joy Objects Lite": "joy",
   "Additional Lights": "light",
   "Additional Tools Mod": "item",
   "Additional Traits [Update]": "skill",
@@ -1483,6 +1484,7 @@
   "Melee Weapons Rebalance": "patch",
   "Melody Through Power!": "music",
   "MendAndRecycle": "production",
+  "Mercenaries For Me": "gameplay",
   "Mercer's Backpacks": "clothing",
   "Mercer's Backpacks + Nano Suit": "clothing",
   "Metabolism Feels Cared About Now": "patch",
@@ -2952,6 +2954,7 @@
   "[NL] Custom Portraits": "appearance",
   "[NL] Facial Animation: WIP": "appearance",
   "[O21] Barbed Wire (Unofficial Update Improved)": "combat",
+  "[O21] Kobolds": "race",
   "[O21] Pokemon Rim": "animal",
   "[O21] Rimbolds": "animal",
   "[O21] Rimhammer 40K": "total_conversion",
@@ -3164,6 +3167,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 20:05:00 2019",
+ "timestamp": "Sun Aug 18 20:08:19 2019",
  "version": 4
 }
