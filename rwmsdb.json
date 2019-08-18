@@ -126,7 +126,8 @@
   "trillex": 6,
   "tymestrike": 1,
   "whitmadm": 2,
-  "wolfehart": 2
+  "wolfehart": 2,
+  "zavian": 3
  },
  "db": {
   "\"ADS: CK-APP\" Compatibility Patch": "patch",
@@ -785,6 +786,7 @@
   "Dragonian Race": "race",
   "Dragonian Race Apparel Patch": "patch",
   "Dragonian RimjobEdtion": "patch",
+  "Dragonkin": "race",
   "Draw a bead": "skill",
   "Dress Patients": "ai",
   "Drop on Water Revived": "gameplay",
@@ -2667,6 +2669,7 @@
   "Vanilla Armour Expanded": "clothing",
   "Vanilla Factions Tribal Weapons": "annoyance",
   "Vanilla Fences": "structure",
+  "Vanilla Floors Tweaked": "furniture",
   "Vanilla Friendly Pallet": "furniture",
   "Vanilla Furniture Expanded": "furniture",
   "Vanilla Furniture Expanded DE": "patch",
@@ -2716,6 +2719,7 @@
   "Wall Light": "light",
   "Wall Light (BRIGHT)": "light",
   "Wall Light: Extended Colors": "patch",
+  "Wall Mounted Turrets": "combat",
   "Wall Sun Lamp": "light",
   "Wall Turrets": "combat",
   "Wall Vitals Monitor": "medicine",
@@ -3148,6 +3152,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sun Aug 18 19:38:31 2019",
+ "timestamp": "Sun Aug 18 19:46:45 2019",
  "version": 4
 }
