@@ -57,7 +57,7 @@
   "Thirsk": 6,
   "Toby-Lawrance": 1,
   "TrippyTheO": 15,
-  "TwistedMinds2": 1,
+  "TwistedMinds2": 2,
   "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
@@ -2660,6 +2660,7 @@
   "Vanilla Animals Expanded \u2014 Cats and Dogs": "animal",
   "Vanilla Animals Expanded \u2014 Livestock": "animal",
   "Vanilla Animals Expanded \u2014 Livestock CombatExtended Patch": "patch",
+  "Vanilla Animals Expanded: Patch Pack": "patch",
   "Vanilla Animals Overhaul Reloaded": "patch",
   "Vanilla Apparel Expanded": "clothing",
   "Vanilla Armour Expanded": "clothing",
@@ -3146,6 +3147,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Wed Aug  7 22:07:50 2019",
+ "timestamp": "Sun Aug 18 19:36:03 2019",
  "version": 4
 }
