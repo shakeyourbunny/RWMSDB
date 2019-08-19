@@ -4,7 +4,7 @@
 shakeyourbunny <shakeyourbunny@gmail.com>
 
 #### Contributors (134)
-- shakeyourbunny: 697 mod(s)
+- shakeyourbunny: 710 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
 - pigand: 125 mod(s)
@@ -128,6 +128,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - JonasScheirs: 1 mod(s)
 - KaosuReido: 1 mod(s)
 - Oggom: 1 mod(s)
+- SeppDE: 1 mod(s)
 - Toby-Lawrance: 1 mod(s)
 - bertaz: 1 mod(s)
 - jamesblack: 1 mod(s)
@@ -137,5 +138,4 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - sceiler: 1 mod(s)
 - soxiel: 1 mod(s)
 - tymestrike: 1 mod(s)
-- SeppDE: 1 mod(s)
 ------------
