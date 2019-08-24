@@ -18,7 +18,7 @@
   "Dessometrics": 57,
   "Discohydra": 5,
   "Drunkender": 5,
-  "ElvisUntot": 3,
+  "ElvisUntot": 6,
   "Endgegner": 37,
   "Eruestani": 16,
   "Espilonarge": 10,
@@ -1677,6 +1677,7 @@
   "Movable Pumps": "annoyance",
   "Movable Sandbags": "patch",
   "Much Quieter Fallout Vault Doors": "annoyance",
+  "Mud": "structure",
   "Muffalant": "animal",
   "Muffalant: A Dog Said Patch": "patch",
   "Muffalo Plants": "resource",
@@ -2622,6 +2623,7 @@
   "The Drow Race Facial Stuff Patch": "appearance",
   "The Drow Race Fantasy Edition": "race",
   "The Ghillie Suit": "clothing",
+  "The God Launcher": "combat",
   "The Grass Is Redder On The Other Side": "texture",
   "The Great War": "gameplay",
   "The Harvest": "production",
@@ -2734,6 +2736,7 @@
   "Underground Conduits": "energy",
   "Underground Food": "food",
   "Underground Power Conduits": "energy",
+  "Underground Soil": "structure",
   "Uninspired": "ai",
   "Uninstall ED-Embrasures": "ui",
   "Uninstall Rimefeller": "patch",
@@ -3286,6 +3289,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:43:05 2019",
+ "timestamp": "Sat Aug 24 16:46:29 2019",
  "version": 4
 }
