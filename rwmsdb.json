@@ -97,7 +97,7 @@
   "jpc0": 2,
   "ju1998ly": 21,
   "jupiterlily": 14,
-  "kaijinzero": 2,
+  "kaijinzero": 4,
   "kenderbard": 6,
   "kladdey": 10,
   "kradlyn": 4,
@@ -1457,6 +1457,7 @@
   "Mantodean CE Patch": "patch",
   "Map Edit Tools": "ui",
   "Map Reroll": "biome",
+  "Map Wide Orbital Trade Beacon": "trading",
   "Marine Armor Materials": "patch",
   "Marine Corps Traits": "skill",
   "Marriage Collar with \"Add Elona Shoujo\"": "item",
@@ -1719,6 +1720,7 @@
   "Nirvana": "item",
   "No \"Ate Without A Table\"": "annoyance",
   "No Barrack Penalty": "ai",
+  "No Barrack Penalty Buff": "annoyance",
   "No Boom Boom": "annoyance",
   "No Burny (less flammable metals)": "annoyance",
   "No Carried Food": "ai",
@@ -3253,6 +3255,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:12:05 2019",
+ "timestamp": "Sat Aug 24 16:14:39 2019",
  "version": 4
 }
