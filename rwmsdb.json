@@ -120,6 +120,7 @@
   "rallias": 15,
   "randomnone": 205,
   "rawrfisher": 36,
+  "ridesdragons": 2,
   "rossol": 40,
   "sazra": 2,
   "sbrandsborg": 1,
@@ -1346,6 +1347,7 @@
   "Knot Root": "resource",
   "Komodons": "animal",
   "Krysa Race": "race",
+  "Kura's Extra Gems": "resource",
   "Kurin CE Pach": "patch",
   "Kurin, Apparel Fix": "patch",
   "Kurin, The Three Tailed Fox": "faction",
@@ -3024,6 +3026,7 @@
   "[KV] Trading Spot": "trading",
   "[KV] Weapon Storage": "gameplay",
   "[KV] Weapon Storage Combat Extended Patch": "patch",
+  "[K]Extra Stone": "resource",
   "[K]Extra Stone(w/ Cupro's Textures)": "resource",
   "[Ku] A Mod About Meat": "resource",
   "[L] House Maid Nukos": "animal",
@@ -3259,6 +3262,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:19:37 2019",
+ "timestamp": "Sat Aug 24 16:22:12 2019",
  "version": 4
 }
