@@ -20,7 +20,7 @@
   "Drunkender": 5,
   "ElvisUntot": 3,
   "Endgegner": 37,
-  "Eruestani": 5,
+  "Eruestani": 9,
   "Espilonarge": 10,
   "Fael Aredhel": 4,
   "GingerAvalanche": 9,
@@ -2951,6 +2951,9 @@
   "[CP] Rimmu-Nation: Weapons": "weapon",
   "[Cab's]Beat The Meat": "production",
   "[Core] MDK Terrain Patch": "patch",
+  "[DCS]Dead Can Tame": "production",
+  "[DCS]Feed the Vampire": "production",
+  "[DCS]Transfusion from Corpses": "production",
   "[DEV]Medical Dissection": "production",
   "[EC]Shields": "combat",
   "[EPOE] Craftable Power Claws": "weapon",
@@ -3031,6 +3034,7 @@
   "[Ling]Move Steam Geyser": "annoyance",
   "[Ling]MoveSteamGeyser": "biome",
   "[MS-I] Brain surgery": "prisoner",
+  "[Medieval]Dead Can Serve": "gameplay",
   "[N17] Thaumrim": "faction",
   "[NL] Chibi Body": "appearance",
   "[NL] Chibi Face Female only": "appearance",
@@ -3255,6 +3259,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:14:39 2019",
+ "timestamp": "Sat Aug 24 16:19:37 2019",
  "version": 4
 }
