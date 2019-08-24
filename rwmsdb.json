@@ -120,6 +120,7 @@
   "rawrfisher": 36,
   "rossol": 40,
   "sazra": 2,
+  "sbrandsborg": 1,
   "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
@@ -2096,6 +2097,7 @@
   "Regenerator Nanohive": "gameplay",
   "Reich Armory": "weapon",
   "Reich Armory Ausf\u00fchrung": "weapon",
+  "Rejuvenate surgery": "medicine",
   "Relations Tab": "ui",
   "Release Animals into Wild": "ui_addon",
   "Release the Muffs": "ai_animal",
@@ -3242,6 +3244,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:03:39 2019",
+ "timestamp": "Sat Aug 24 16:05:29 2019",
  "version": 4
 }
