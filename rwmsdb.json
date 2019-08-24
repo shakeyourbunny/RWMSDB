@@ -109,6 +109,7 @@
   "melvingroenendaal": 7,
   "miyoumu": 1,
   "montyi": 5,
+  "ninekoki": 3,
   "obncomputer": 1,
   "ouyin2000": 9,
   "pentacore": 3,
@@ -544,6 +545,7 @@
   "Cargo Pod Transport": "gameplay",
   "Carry Capacity Fix": "patch",
   "Cassandra Hardcore": "storyteller",
+  "Cat's Crying Sound Reduction Patch": "annoyance",
   "CatsAreCleverToo": "ai_animal",
   "Caution Tiles": "furniture",
   "CaveworldFlora": "resource",
@@ -1108,6 +1110,7 @@
   "Girls Frontine Armory": "weapon",
   "Girls Frontine Armory: Rimmu-Nation patch": "patch",
   "Girls' frontline Apparel Pack": "clothing",
+  "Girls' frontline Weapon Pack": "weapon",
   "Give Me A Moment": "ui",
   "Glass+Lights": "light",
   "Glass+Lights Efficient Lights": "patch",
@@ -2512,6 +2515,7 @@
   "StockpileForDisaster": "furniture",
   "Stone Dining Chairs": "patch",
   "Stone Painting": "texture",
+  "Stony campfire": "production",
   "Stop the spam": "ui",
   "Storage Crates": "furniture",
   "Storage Solutions": "furniture",
@@ -3270,6 +3274,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:30:04 2019",
+ "timestamp": "Sat Aug 24 16:32:28 2019",
  "version": 4
 }
