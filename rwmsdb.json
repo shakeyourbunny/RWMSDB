@@ -28,6 +28,7 @@
   "Halcyonix": 10,
   "Hoijima": 6,
   "Ibmaian": 6,
+  "JamesTalon": 3,
   "JangeL1997": 5,
   "Japan2Canada": 4,
   "Jiala": 14,
@@ -368,6 +369,7 @@
   "Backup Generators": "energy",
   "Bad Hygiene Lite": "patch",
   "Bad People": "ai",
+  "Bad Traits Improvement": "ai",
   "Balanced Eclipse and Solar Flare": "annoyance",
   "Balanced Leather Armor Patch": "patch",
   "Balanced Tribal Apparel Patch": "patch",
@@ -819,6 +821,7 @@
   "Dragonian": "race",
   "Dragonian Race": "race",
   "Dragonian Race Apparel Patch": "patch",
+  "Dragonian Race Factions and Scenarios": "faction",
   "Dragonian Race Weapons permit CE and not CE Patch": "patch",
   "Dragonian RimjobEdtion": "patch",
   "Dragonkin": "race",
@@ -2980,6 +2983,7 @@
   "[CP] Detailed Body Textures": "texture",
   "[CP] Detailed Body Textures II": "appearance",
   "[CP] I Need Nourishment!: Malnutrition Patch": "patch",
+  "[CP] I Need Nourishment!: Slower Malnutrition": "annoyance",
   "[CP] Metal Gear Solid: CQC Takedown": "combat",
   "[CP] Metal Gear Solid: Incident Sounds": "combat",
   "[CP] Portable Nerfed Generator": "energy",
@@ -3305,6 +3309,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Fri Aug 30 23:13:54 2019",
+ "timestamp": "Fri Aug 30 23:16:47 2019",
  "version": 4
 }
