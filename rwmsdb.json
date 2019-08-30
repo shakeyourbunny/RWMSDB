@@ -129,7 +129,7 @@
   "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
-  "shakeyourbunny": 710,
+  "shakeyourbunny": 712,
   "simplysublime": 6,
   "simplysublimee": 7,
   "soxiel": 1,
@@ -2781,6 +2781,8 @@
   "Vanilla Animal Overhaul": "animal",
   "Vanilla Animals Expanded \u2014 Arid Shrubland": "animal",
   "Vanilla Animals Expanded \u2014 Cats and Dogs": "animal",
+  "Vanilla Animals Expanded \u2014 Desert": "animal",
+  "Vanilla Animals Expanded \u2014 Extreme Desert": "animal",
   "Vanilla Animals Expanded \u2014 Livestock": "animal",
   "Vanilla Animals Expanded \u2014 Livestock CombatExtended Patch": "patch",
   "Vanilla Animals Expanded: Patch Pack": "patch",
@@ -3294,6 +3296,6 @@
   "\u66f4\u591a\u6280\u80fd\u76f8\u5173": "annoyance",
   "\u72f8 TANUKI": "animal"
  },
- "timestamp": "Sat Aug 24 16:49:45 2019",
+ "timestamp": "Fri Aug 30 23:03:52 2019",
  "version": 4
 }
