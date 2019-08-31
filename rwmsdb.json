@@ -82,6 +82,7 @@
   "captainjal": 5,
   "connardman": 45,
   "czarneski77": 120,
+  "danieltufton": 2,
   "darwinning": 6,
   "dnecro": 2,
   "drbodrbo": 8,
@@ -1682,6 +1683,7 @@
   "More Stone": "resource",
   "More Surgery Mod": "medicine",
   "More Than Capable": "skill",
+  "More Thrumbos": "animal",
   "More Toolboxes": "production",
   "More Trade Ships": "annoyance",
   "More Trade Ships: Double Population": "patch",
@@ -1889,6 +1891,7 @@
   "Paint Bugs": "animal",
   "Palisades": "structure",
   "Palisades Embrasures Patch": "combat",
+  "Palm Cats": "animal",
   "Pandoras Box": "gameplay",
   "Panzer Muffalo": "animal",
   "Parallel Power Grid (Parallel Conduits)": "energy",
@@ -3344,6 +3347,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Fri Aug 30 23:27:05 2019",
+ "timestamp": "Sat Aug 31 09:04:59 2019",
  "version": 4
 }
