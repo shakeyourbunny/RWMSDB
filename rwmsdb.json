@@ -133,7 +133,7 @@
   "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
-  "shakeyourbunny": 712,
+  "shakeyourbunny": 713,
   "simplysublime": 6,
   "simplysublimee": 7,
   "soxiel": 1,
@@ -1596,6 +1596,7 @@
   "Milkable Orassans": "patch",
   "Mincing Organs and Limbs": "production",
   "Mine Tech": "combat",
+  "Mine To Exhaustion": "ui",
   "MineItAll": "production",
   "MineItAll: unofficial": "production",
   "MinePlan Designator": "ui",
@@ -3364,6 +3365,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Aug 31 09:19:02 2019",
+ "timestamp": "Sun Sep  1 12:22:03 2019",
  "version": 4
 }
