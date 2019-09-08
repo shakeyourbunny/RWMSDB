@@ -61,7 +61,7 @@
   "Scryingfox": 8,
   "SeppDE": 1,
   "Son_Of_Diablo": 3,
-  "SpookieWookie": 10,
+  "SpookieWookie": 13,
   "Sunnday3": 38,
   "Superlagg": 31,
   "Taemaly": 23,
@@ -2722,6 +2722,7 @@
   "Technology Blueprints": "load_last_mod",
   "Teellox's Glitter Tech Rebalance": "patch",
   "Temperature Gauge": "temperature",
+  "Tenants": "gameplay",
   "Tend Whenever": "medicine",
   "Terra Project": "biome",
   "Terraform Rimworld": "gameplay",
@@ -2910,6 +2911,8 @@
   "Vanilla Animals Overhaul Reloaded": "patch",
   "Vanilla Apparel Expanded": "clothing",
   "Vanilla Armour Expanded": "clothing",
+  "Vanilla Factions Expanded: Core": "framework",
+  "Vanilla Factions Expanded: Medieval": "gameplay",
   "Vanilla Factions Tribal Weapons": "annoyance",
   "Vanilla Fences": "structure",
   "Vanilla Floors Tweaked": "furniture",
@@ -3436,6 +3439,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:31:33 2019",
+ "timestamp": "Sun Sep  8 10:34:58 2019",
  "version": 4
 }
