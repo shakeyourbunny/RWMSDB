@@ -32,6 +32,7 @@
   "JangeL1997": 5,
   "Japan2Canada": 4,
   "Jiala": 14,
+  "JohnM514": 1,
   "Jolc3r": 22,
   "JonasScheins": 28,
   "JonasScheirs": 1,
@@ -292,6 +293,7 @@
   "AnimalFoodRestrictionInTab": "ui",
   "AnimalHarvestingSpot (Continued)": "ui",
   "AnimalHusbandry": "production",
+  "Animals Are Fun": "joy",
   "Animals Logic": "ai_animal",
   "AnimalsGenderOnCaravan": "caravan",
   "Animated Background": "ui",
@@ -3407,6 +3409,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:19:33 2019",
+ "timestamp": "Sun Sep  8 10:23:14 2019",
  "version": 4
 }
