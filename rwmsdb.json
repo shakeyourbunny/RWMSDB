@@ -92,6 +92,7 @@
   "dreipixel": 49,
   "emipa606": 13,
   "felixkempf": 3,
+  "flarefluffsune": 3,
   "florianraber": 22,
   "h3rb4l": 37,
   "hafizhmakmur": 5,
@@ -187,6 +188,7 @@
   "Adaptation Refusal": "gameplay",
   "Add Elona Shoujo": "animal",
   "Additional Conduit": "energy",
+  "Additional Dragonian Backstories": "ai",
   "Additional Joy Objects": "joy",
   "Additional Joy Objects Classic": "joy",
   "Additional Joy Objects Lite": "joy",
@@ -1884,6 +1886,7 @@
   "Nutrient Paste Production": "food",
   "Nutrient Paste Rebalanced": "patch",
   "NutritiousKibble": "annoyance",
+  "Nyaron(WIP)": "animal",
   "OHU Addon: C-77 Freighter": "structure",
   "OHU Addon: S-342 Transporter": "structure",
   "OHU Ships": "ai",
@@ -2730,6 +2733,7 @@
   "Terra Project": "biome",
   "Terraform Rimworld": "gameplay",
   "Terrain Zone Selections": "ui",
+  "Teshi ADS Patch": "patch",
   "Textiles+": "resource",
   "Thanks For All The Fish": "production",
   "The Alance Empire: Core\uff08\u963f\u5170\u65af\u5e1d\u56fd-\u6838\u5fc3\uff09": "faction",
@@ -3442,6 +3446,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:40:59 2019",
+ "timestamp": "Sun Sep  8 10:44:27 2019",
  "version": 4
 }
