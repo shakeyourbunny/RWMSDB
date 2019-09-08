@@ -62,7 +62,7 @@
   "SpookieWookie": 10,
   "Sunnday3": 38,
   "Superlagg": 31,
-  "Taemaly": 21,
+  "Taemaly": 23,
   "TheVoidRose": 8,
   "Theutus1": 2,
   "Thirsk": 6,
@@ -1329,6 +1329,7 @@
   "InventoryTab": "ui",
   "Invisible Conduit": "energy",
   "Invisible Conduits": "energy",
+  "Invisible Hats": "clothing",
   "Invisible Roof Support": "structure",
   "InwallShelf": "furniture",
   "Iron Stars of True Horde": "weapon",
@@ -2265,6 +2266,7 @@
   "RimNGE": "appearance",
   "RimNudeWorld": "appearance",
   "RimOverhaul": "gameplay",
+  "RimOverhaul: Without Ore and Gas System": "gameplay",
   "RimPlas": "resource",
   "RimQuest": "gameplay",
   "RimRPC: RichPresence": "ui",
@@ -3365,6 +3367,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  1 12:22:03 2019",
+ "timestamp": "Sun Sep  8 09:55:04 2019",
  "version": 4
 }
