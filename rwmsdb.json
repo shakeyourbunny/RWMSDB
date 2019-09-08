@@ -2,7 +2,7 @@
  "contributor": {
   "3DSwayze": 2,
   "AaronAyante": 10,
-  "AleksiMK": 3,
+  "AleksiMK": 4,
   "AlphaAtlas": 4,
   "AngryScandinavian": 22,
   "Bdan720": 29,
@@ -486,6 +486,7 @@
   "Brain Implants and More (implants)!": "gameplay",
   "Brain Implants and More (implants): Testing Branch": "gameplay",
   "Brain In a Jar": "production",
+  "Brain In a Jar Patch": "patch",
   "BreedLikeRabbits": "ai_animal",
   "Brewer Job Mod": "ui",
   "Bricks Don't Vanish": "annoyance",
@@ -3439,6 +3440,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:34:58 2019",
+ "timestamp": "Sun Sep  8 10:37:55 2019",
  "version": 4
 }
