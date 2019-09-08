@@ -64,7 +64,7 @@
   "SpookieWookie": 13,
   "Sunnday3": 38,
   "Superlagg": 31,
-  "Taemaly": 23,
+  "Taemaly": 25,
   "TheVoidRose": 8,
   "Theutus1": 2,
   "Thirsk": 6,
@@ -1225,6 +1225,7 @@
   "Growing Plots": "production",
   "Growing Zone Priorities": "ai",
   "Grub Farm": "production",
+  "Guards For Me": "gameplay",
   "Guns and Grenades Tech Removal": "gameplay",
   "Gwen's Gone Mental Traits": "ai",
   "H.P. Lovecraft Storyteller: ADS Patch": "patch",
@@ -1779,6 +1780,7 @@
   "Mystery Meat: Feed human meat to colonists!": "annoyance",
   "NANOMACHINES SON": "gameplay",
   "NEKO": "animal",
+  "NPC Bonus": "gameplay",
   "NPS Patches": "patch",
   "NR_AutoMachineTool": "production",
   "NW Sterile Wall": "structure",
@@ -3440,6 +3442,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:37:55 2019",
+ "timestamp": "Sun Sep  8 10:40:59 2019",
  "version": 4
 }
