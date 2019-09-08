@@ -69,7 +69,7 @@
   "Thirsk": 6,
   "Toby-Lawrance": 1,
   "TrippyTheO": 15,
-  "TwistedMinds2": 2,
+  "TwistedMinds2": 4,
   "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
@@ -1206,6 +1206,7 @@
   "Growing Zone Priorities": "ai",
   "Grub Farm": "production",
   "Guns and Grenades Tech Removal": "gameplay",
+  "Gwen's Gone Mental Traits": "ai",
   "H.P. Lovecraft Storyteller: ADS Patch": "patch",
   "H.P. Lovecraft Storyteller: Remastered": "storyteller",
   "HD Terrain Texture Pack": "texture",
@@ -2972,6 +2973,7 @@
   "WeaponsAndOutfits": "ui",
   "WeaponsOfChoice": "combat",
   "WearedArmorInfo": "ui",
+  "Wearing Armor Info": "ui",
   "Weather Disruptor": "annoyance",
   "Wehrmacht": "faction",
   "Weird Defences": "combat",
@@ -3392,6 +3394,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:02:50 2019",
+ "timestamp": "Sun Sep  8 10:04:49 2019",
  "version": 4
 }
