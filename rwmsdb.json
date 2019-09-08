@@ -41,7 +41,7 @@
   "Kyonai": 6,
   "LazyLizard95": 8,
   "LemmysTash": 7,
-  "LuckyFluffy": 22,
+  "LuckyFluffy": 26,
   "Maddremor": 13,
   "MattRobinson41": 1,
   "MatthewTh0": 13,
@@ -1780,6 +1780,7 @@
   "Never Retreat": "combat",
   "New Joy Source: Play Music": "ai",
   "NewRatkinPlus": "race",
+  "Next Inc.": "clothing",
   "Ni'Hal": "race",
   "Ni'Hal (EPOE Patch)": "patch",
   "Ni'Hal Drake Gear": "animal",
@@ -2099,6 +2100,7 @@
   "RT's Weapon Pack CE Version": "patch",
   "RT's Weapon Pack Reloaded": "weapon",
   "RT's Weapon Pack: visibility patch": "patch",
+  "RWBC: Rim World Broadcasting Company": "patch",
   "RWBY Weapons": "weapon",
   "RWBY World of Remnant": "gameplay",
   "RWP: Cowboy Songs and Trail Tunes": "music",
@@ -2280,6 +2282,7 @@
   "RimOverhaul": "gameplay",
   "RimOverhaul: Without Ore and Gas System": "gameplay",
   "RimPlas": "resource",
+  "RimPy Mod Manager Database": "ui",
   "RimQuest": "gameplay",
   "RimRPC: RichPresence": "ui",
   "RimRadio: Outdated": "joy",
@@ -3289,6 +3292,7 @@
   "[WD] Expanded Artillery": "combat",
   "[WD] Expanded Floors": "structure",
   "[WD] Expanded Floors (Dropdown Menu Addon)": "ui",
+  "[WD] Expanded Floors (Expanded Woodworking Addon)": "structure",
   "[WD] Expanded Floors (Simple Concrete Addon)": "structure",
   "[WD] Fast Moisture Pumps": "item",
   "[WD] Fewer Steam Geysers": "biome",
@@ -3394,6 +3398,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:04:49 2019",
+ "timestamp": "Sun Sep  8 10:08:23 2019",
  "version": 4
 }
