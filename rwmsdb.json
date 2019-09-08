@@ -129,7 +129,7 @@
   "r4d6": 8,
   "rallias": 15,
   "randomnone": 205,
-  "rawrfisher": 36,
+  "rawrfisher": 39,
   "ridesdragons": 2,
   "rossol": 40,
   "sazra": 2,
@@ -1462,6 +1462,7 @@
   "Lawnreality's Music Box": "music",
   "Lazy Base Lighting": "light",
   "Leather Armor": "clothing",
+  "Leather floors": "structure",
   "Leeani Playable Race": "race",
   "Leeani RBSE Patch": "patch",
   "Less Arbitrary Surgery": "medicine",
@@ -2881,6 +2882,7 @@
   "Uranium is Green": "texture",
   "Use A Freaking Table": "ai",
   "Use Bedrolls": "caravan",
+  "Use Resurrector Mech Serum On Rotten or Skeleton People": "annoyance",
   "Use Your Gun!": "ai",
   "Ushanka!": "clothing",
   "Utility Supplements": "item",
@@ -3110,6 +3112,7 @@
   "[CP] DOOM": "appearance",
   "[CP] Detailed Body Textures": "texture",
   "[CP] Detailed Body Textures II": "appearance",
+  "[CP] Get to the Chopper!: Aircraft mod": "caravan",
   "[CP] Get to the Chopper!: Helicopters": "gameplay",
   "[CP] I Need Nourishment!: Malnutrition Patch": "patch",
   "[CP] I Need Nourishment!: Slower Malnutrition": "annoyance",
@@ -3446,6 +3449,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:44:27 2019",
+ "timestamp": "Sun Sep  8 10:46:45 2019",
  "version": 4
 }
