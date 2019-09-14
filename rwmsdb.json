@@ -48,7 +48,7 @@
   "MattRobinson41": 1,
   "MatthewTh0": 13,
   "MelvinGr": 4,
-  "MlTHRlL": 11,
+  "MlTHRlL": 13,
   "Montyi": 18,
   "NKSHV": 86,
   "Newkz": 2,
@@ -2975,6 +2975,7 @@
   "Volcano Variety (Advanced Biomes)": "patch",
   "Voluptuous Bodies": "appearance",
   "Vulpine Race Pack": "race",
+  "Vulpine Race Pack Combat Extended Patch": "patch",
   "WA": "patch",
   "WA VG-Addon": "patch",
   "WA-Wall": "structure",
@@ -3360,6 +3361,7 @@
   "[WD] Nerfed Parasites": "annoyance",
   "[WD] No Annoying Shrines Anymore!": "annoyance",
   "[WD] Partially-Passable Wind Turbines": "patch",
+  "[WD] Reinforced Doors": "structure",
   "[WD] Simple Coal": "resource",
   "[WD] Simple Concrete": "resource",
   "[WD] Small Solar Panels": "energy",
@@ -3456,6 +3458,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:15:26 2019",
+ "timestamp": "Sat Sep 14 09:19:51 2019",
  "version": 4
 }
