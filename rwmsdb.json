@@ -120,6 +120,7 @@
   "lolidroid86": 8,
   "m0bitz": 3,
   "maff": 43,
+  "marcopk": 3,
   "melvingroenendaal": 7,
   "miyoumu": 1,
   "montyi": 5,
@@ -500,6 +501,7 @@
   "Bridgello": "structure",
   "Brighter Blood": "texture",
   "Brrr and Phew": "ai",
+  "Build Anything Everywhere": "ui",
   "Build Everywhere": "annoyance",
   "Build From Inventory": "ai",
   "Buildable Terrain v1": "biome",
@@ -1689,6 +1691,7 @@
   "Miscellaneous 'CORE'": "libs",
   "Miscellaneous Materials": "resource",
   "MizuModAddon\u3010ZP\u3011RCC\u3010\u3011": "patch",
+  "Mo' Drugs": "medicine",
   "MoD's Mods: Docile Hive": "animal",
   "Moa": "animal",
   "Moar Jobs Mod": "ai",
@@ -1723,6 +1726,7 @@
   "More Hyrdoponics Crops": "patch",
   "More Kawai For Facial Stuff": "appearance",
   "More Lamps": "light",
+  "More Lamps Always on": "light",
   "More Lamps: Vanilla Power Consumption Patch": "patch",
   "More Lances": "weapon",
   "More Linkables": "furniture",
@@ -3478,6 +3482,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:38:28 2019",
+ "timestamp": "Sat Sep 14 09:41:00 2019",
  "version": 4
 }
