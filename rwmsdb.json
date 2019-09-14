@@ -110,6 +110,7 @@
   "ju1998ly": 21,
   "jupiterlily": 14,
   "kaijinzero": 4,
+  "kd8lvt": 3,
   "kenderbard": 6,
   "kladdey": 10,
   "kradlyn": 4,
@@ -790,6 +791,7 @@
   "Deconstruct First": "ai",
   "Deconstruct Return Fix": "patch",
   "Deep Ore Identifier": "ui",
+  "Deep Stack": "patch",
   "Deep Storage Fast Storing": "patch",
   "DeepRim": "production",
   "DeepRim Power Transfer": "energy",
@@ -1431,6 +1433,7 @@
   "KijinOutfitsOnly": "patch",
   "Kilhn Race": "race",
   "Kill For Me": "ai_animal",
+  "KilledEnemyAutoAllowed": "annoyance",
   "Killfeed": "ui",
   "Knot Root": "resource",
   "Komodons": "animal",
@@ -1632,6 +1635,7 @@
   "Mercer's Backpacks": "clothing",
   "Mercer's Backpacks + Nano Suit": "clothing",
   "Metabolism Feels Cared About Now": "patch",
+  "Metal Ain't Flammable: Vanilla": "patch",
   "Metal Doesn't Burn": "annoyance",
   "Metals Trader": "trading",
   "Metals+": "resource",
@@ -3465,6 +3469,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:25:34 2019",
+ "timestamp": "Sat Sep 14 09:28:54 2019",
  "version": 4
 }
