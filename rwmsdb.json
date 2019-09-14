@@ -147,7 +147,7 @@
   "sceiler": 1,
   "sebitor": 72,
   "seriouscylinder": 4,
-  "shakeyourbunny": 713,
+  "shakeyourbunny": 714,
   "simplysublime": 6,
   "simplysublimee": 7,
   "soxiel": 1,
@@ -2247,6 +2247,7 @@
   "Recycle": "production",
   "Red Alert 2": "total_conversion",
   "Red Dragon": "animal",
+  "Red-PrepCarePawns": "ui",
   "RedistHeat": "temperature",
   "Reduce Gradual Relations Decay": "annoyance",
   "Refugee Stats": "ui",
@@ -3493,6 +3494,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:49:17 2019",
+ "timestamp": "Sat Sep 14 09:52:10 2019",
  "version": 4
 }
