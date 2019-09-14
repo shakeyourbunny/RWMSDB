@@ -68,6 +68,7 @@
   "Son_Of_Diablo": 3,
   "SpookieWookie": 16,
   "Sunnday3": 38,
+  "Supa3939Spider": 1,
   "Superlagg": 31,
   "Taemaly": 25,
   "TheVoidRose": 8,
@@ -699,6 +700,7 @@
   "Cosmic Horrors VGP Meal Patch": "patch",
   "Cosmic Horrors: Genetic Rim CE Patch": "patch",
   "Covenant Of Hir": "race",
+  "Craft Glitterworld Meds": "production",
   "Craft Neutroamine": "production",
   "Craft Orbital Power Beam Targeter and Orbital Targeter Bombardment": "combat",
   "Craftable Drugs + Glit med": "medicine",
@@ -3491,6 +3493,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:47:11 2019",
+ "timestamp": "Sat Sep 14 09:49:17 2019",
  "version": 4
 }
