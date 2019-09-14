@@ -39,7 +39,7 @@
   "JonasScheirs": 1,
   "KaosuReido": 1,
   "Karl Koch": 4,
-  "KuroNeko87": 58,
+  "KuroNeko87": 62,
   "Kyonai": 6,
   "LazyLizard95": 8,
   "LemmysTash": 7,
@@ -804,6 +804,7 @@
   "Definitely More Cannons: No Ammo Patch": "patch",
   "Definitely More Cannons: No Armored Centipedes": "combat",
   "Definitely More Cannons: Turret Extension Patch": "patch",
+  "Deity difficulty": "gameplay",
   "Delsin53's HD Terrain Texture Pack": "texture",
   "DermalRegenerator": "medicine",
   "Designator Shapes": "ui",
@@ -2669,6 +2670,7 @@
   "Storage Solutions": "furniture",
   "Storage Tweaks": "patch",
   "Storm's Living Biomes": "biome",
+  "Storm's Living Biomes: Terra Project Patch": "patch",
   "Story Framework": "framework",
   "Story Framework Showcase": "gameplay",
   "Storyteller Enhanced": "storyteller",
@@ -2748,6 +2750,7 @@
   "Tenants": "gameplay",
   "Tend Whenever": "medicine",
   "Terra Project": "biome",
+  "Terra Project (Core)": "biome",
   "Terraform Rimworld": "gameplay",
   "Terrain Zone Selections": "ui",
   "Teshi ADS Patch": "patch",
@@ -3294,6 +3297,7 @@
   "[RF] Tribal Pawn Names": "appearance",
   "[RF] Tribal Raiders": "faction",
   "[RF] Wild Cultivation": "biome",
+  "[RF]Sun Zha Styles: \u6c34\u67e5\u5b50\u9020\u578b\u5305": "clothing",
   "[RH] Faction: Elite Crew": "faction",
   "[RH] Faction: Last Man Mercs": "faction",
   "[RH] Faction: Militaires Sans Frontieres": "faction",
@@ -3469,6 +3473,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:28:54 2019",
+ "timestamp": "Sat Sep 14 09:34:32 2019",
  "version": 4
 }
