@@ -64,7 +64,7 @@
   "Scryingfox": 8,
   "SeppDE": 1,
   "Son_Of_Diablo": 3,
-  "SpookieWookie": 13,
+  "SpookieWookie": 16,
   "Sunnday3": 38,
   "Superlagg": 31,
   "Taemaly": 25,
@@ -2253,6 +2253,7 @@
   "Removable Mt.Rock Roof Patche": "biome",
   "Remove From Anything Outfit [V1]": "framework",
   "Remove Gradual Relations Decay": "annoyance",
+  "Remove Rocket Launchers": "annoyance",
   "Remove Spacer Weapons": "patch",
   "Remove Tutorial Button": "ui",
   "Remove Vocal Cords": "medicine",
@@ -3308,6 +3309,8 @@
   "[RH] Faction: Umbra Company": "faction",
   "[RH] The Ghosts: A Dog Said.. Patch": "patch",
   "[SB] OP Generator": "energy",
+  "[SPK] Neutroamine Synthesis": "production",
+  "[SPK] Neutroamine Synthesis: Lite": "production",
   "[SS]AdvBody": "medicine",
   "[SS]Advance Body and Clothing": "appearance",
   "[SS]GhostArmy": "faction",
@@ -3475,6 +3478,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:36:16 2019",
+ "timestamp": "Sat Sep 14 09:38:28 2019",
  "version": 4
 }
