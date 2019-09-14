@@ -70,6 +70,7 @@
   "Theutus1": 2,
   "Thirsk": 6,
   "Toby-Lawrance": 1,
+  "Treazul": 2,
   "TrippyTheO": 15,
   "TwistedMinds2": 4,
   "Wolfehart": 2,
@@ -2551,6 +2552,7 @@
   "SleepStopper": "gameplay",
   "Slightly More Realistic Wool Production": "patch",
   "Slither Race": "race",
+  "Slither Race: Eye Patch": "patch",
   "Sloppy Chop": "production",
   "Small Comms Console": "furniture",
   "Small Maps": "biome",
@@ -2694,6 +2696,7 @@
   "Supply and Demand": "trading",
   "Support Beams": "structure",
   "Suppression": "combat",
+  "Supreme Melee": "patch",
   "Surgical Body Shaping (SBS)": "medicine",
   "Survivalist's Additions": "gameplay",
   "Sustainable Drill Updated": "production",
@@ -3453,6 +3456,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:12:09 2019",
+ "timestamp": "Sat Sep 14 09:15:26 2019",
  "version": 4
 }
