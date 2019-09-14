@@ -39,7 +39,7 @@
   "JonasScheirs": 1,
   "KaosuReido": 1,
   "Karl Koch": 4,
-  "KuroNeko87": 54,
+  "KuroNeko87": 58,
   "Kyonai": 6,
   "LazyLizard95": 8,
   "LemmysTash": 7,
@@ -791,6 +791,7 @@
   "Deep Ore Identifier": "ui",
   "Deep Storage Fast Storing": "patch",
   "DeepRim": "production",
+  "DeepRim Power Transfer": "energy",
   "Deer Extension": "animal",
   "Defenses Expanded": "structure",
   "Defensive CE Machine Gun Turret Pack": "combat",
@@ -1077,6 +1078,7 @@
   "Flags and Banners": "furniture",
   "Flagstone Cheaper (2 per)": "patch",
   "Flagstone Cheaper (3 per)": "annoyance",
+  "Flak Dusters": "clothing",
   "Flak Fabrics": "resource",
   "Flamethrower": "weapon",
   "Flashlights": "light",
@@ -1465,6 +1467,7 @@
   "Lawnreality's Music Box": "music",
   "Lazy Base Lighting": "light",
   "Leather Armor": "clothing",
+  "Leather Armor (Original)": "clothing",
   "Leather floors": "structure",
   "Leeani Playable Race": "race",
   "Leeani RBSE Patch": "patch",
@@ -3060,6 +3063,7 @@
   "Wildlife": "animal",
   "Wildlife Tab": "ui",
   "Witching Hour": "gameplay",
+  "WoW Orcs": "race",
   "Wob Carry Capacity": "annoyance",
   "Wolverines CE Patch": "patch",
   "WoodLog to WoodPlanks": "production",
@@ -3458,6 +3462,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:19:51 2019",
+ "timestamp": "Sat Sep 14 09:22:48 2019",
  "version": 4
 }
