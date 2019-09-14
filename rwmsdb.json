@@ -18,6 +18,7 @@
   "Dessometrics": 57,
   "Discohydra": 5,
   "Drunkender": 5,
+  "Egor-Mikhaylov": 3,
   "ElvisUntot": 6,
   "Endgegner": 37,
   "Eruestani": 16,
@@ -1324,6 +1325,7 @@
   "I Don't Feel So Good": "patch",
   "I Never Asked For This": "ui",
   "Ice": "resource",
+  "Idle Pawn Fix": "patch",
   "Idle Power Consumption": "patch",
   "Ignite Everything": "gameplay",
   "Ikquan Race (Humanoid Fish Alien Race)": "race",
@@ -2377,6 +2379,7 @@
   "Rimsenal Security: Turret Extensions Patch": "patch",
   "Rimsenal: Enhanced Vanilla + Combat Extended Compatibility Patch": "patch",
   "Rimsenal: Enhanced Vanilla Pack": "weapon",
+  "Rimsenal: Enhanced Vanilla Pack CE Patch": "patch",
   "Rimsenal: Federation": "faction",
   "Rimsenal: Federation + Combat Extended Patch": "patch",
   "Rimsenal: Feral": "faction",
@@ -3405,6 +3408,7 @@
   "[sd] round tables": "furniture",
   "[sd] spaceship": "structure",
   "[tW] Finger and Toes for EPOE": "patch",
+  "[test] Star Wars Factions + CE compatibility patch (b18)": "patch",
   "add hairs": "appearance",
   "advanced powergeneration b18": "energy",
   "advanced powergeneration v1": "energy",
@@ -3449,6 +3453,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep  8 10:46:45 2019",
+ "timestamp": "Sat Sep 14 09:12:09 2019",
  "version": 4
 }
