@@ -1,6 +1,7 @@
 {
  "contributor": {
   "3DSwayze": 2,
+  "404Error5": 1,
   "AaronAyante": 10,
   "AleksiMK": 4,
   "AlphaAtlas": 4,
@@ -1683,6 +1684,7 @@
   "Misc. Training": "skill",
   "Misc. TurretBase, Objects": "combat",
   "Misc. Weapon Repair": "combat",
+  "Misc. XPatches CE only 'CORE'": "patch",
   "Misc.Robots++ Eazy Mode": "annoyance",
   "Miscellaneous 'CORE'": "libs",
   "Miscellaneous Materials": "resource",
@@ -3473,6 +3475,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:34:32 2019",
+ "timestamp": "Sat Sep 14 09:36:16 2019",
  "version": 4
 }
