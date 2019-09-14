@@ -126,6 +126,7 @@
   "miyoumu": 1,
   "montyi": 5,
   "ninekoki": 3,
+  "normous": 1,
   "obncomputer": 1,
   "ouyin2000": 9,
   "pentacore": 3,
@@ -2742,6 +2743,7 @@
   "Take My Organs": "medicine",
   "Take Shelter Theme": "ui_addon",
   "Tale Log [Retold]": "ui",
+  "Tall Shelf for LWM's Deep Storage": "furniture",
   "Talons Faction New pawns and races": "faction",
   "Tamago meshi": "food",
   "Taming Artifact": "item",
@@ -3484,6 +3486,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Sep 14 09:42:39 2019",
+ "timestamp": "Sat Sep 14 09:44:15 2019",
  "version": 4
 }
