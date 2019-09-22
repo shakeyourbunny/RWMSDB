@@ -98,6 +98,7 @@
   "dnecro": 2,
   "drbodrbo": 8,
   "dreipixel": 49,
+  "ebensquid": 2,
   "emipa606": 13,
   "felixkempf": 3,
   "flarefluffsune": 3,
@@ -1449,6 +1450,7 @@
   "Kilhn Race": "race",
   "Kill For Me": "ai_animal",
   "KilledEnemyAutoAllowed": "annoyance",
+  "KilledEnemyDontPushOutThings": "annoyance",
   "Killfeed": "ui",
   "Klickmala Race (Humanoid Insect Alien Race)": "race",
   "Knot Root": "resource",
@@ -3197,6 +3199,7 @@
   "[FIXED] Woohooer": "ai",
   "[FIXED]Humanlike Life Stages: Age Matters 2": "patch",
   "[FSF] Advanced Bionics Expansion": "gameplay",
+  "[FSF] Always Rearm Turrets": "annoyance",
   "[FSF] Better Spike Traps": "combat",
   "[FSF] Carpets of the Rainbow": "furniture",
   "[FSF] Complex Jobs": "ui",
@@ -3509,6 +3512,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep 22 08:31:02 2019",
+ "timestamp": "Sun Sep 22 08:34:58 2019",
  "version": 4
 }
