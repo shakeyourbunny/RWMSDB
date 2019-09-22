@@ -130,7 +130,7 @@
   "miyoumu": 1,
   "montyi": 5,
   "ninekoki": 3,
-  "normous": 1,
+  "normous": 2,
   "obncomputer": 1,
   "ouyin2000": 9,
   "pentacore": 3,
@@ -709,6 +709,7 @@
   "Craft Orbital Power Beam Targeter and Orbital Targeter Bombardment": "combat",
   "Craftable Drugs + Glit med": "medicine",
   "Craftable Emanators": "ai",
+  "Craftable Foil Hats": "clothing",
   "Craftable Glitter Tech Weapons and Apparels": "weapon",
   "Craftable Luciferium": "production",
   "Craftable Neutroamine": "medicine",
@@ -3512,6 +3513,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep 22 08:34:58 2019",
+ "timestamp": "Sun Sep 22 08:36:31 2019",
  "version": 4
 }
