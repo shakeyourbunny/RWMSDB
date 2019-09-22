@@ -62,7 +62,7 @@
   "Phoewcy": 13,
   "Preechr": 48,
   "Radical-Dragon": 16,
-  "Ranaark": 2,
+  "Ranaark": 6,
   "Riley4376": 10,
   "Scryingfox": 8,
   "SeppDE": 1,
@@ -667,6 +667,7 @@
   "Colorful Traits": "ui",
   "Colourful Sterile Tiles": "furniture",
   "Combat Effects for Combat Extended": "patch",
+  "Combat Enthusiast's Collection": "weapon",
   "Combat Extended": "gameplay",
   "Combat Extended Fixes": "patch",
   "Combat Extended Guns": "combat_addon",
@@ -1411,6 +1412,7 @@
   "Jernfalk's Standalone Horses": "animal",
   "JetPack": "clothing",
   "Jewelry": "resource",
+  "Jin-Roh Kerberos Panzer Cop Armor": "clothing",
   "Job Splitter": "ui",
   "JobsLimitTweak": "skill",
   "Joystick": "medicine",
@@ -1739,6 +1741,7 @@
   "More Furniture": "furniture",
   "More Harvest Designators!": "ui",
   "More Higher difficulty": "storyteller",
+  "More Hydroponics": "production",
   "More Hydroponics Crops": "production",
   "More Hyrdoponics Crops": "patch",
   "More Kawai For Facial Stuff": "appearance",
@@ -3166,6 +3169,7 @@
   "[CP] Chicken Mitchell: Facial Stuff Version": "appearance",
   "[CP] Chicken Mitchell: Hairstyles": "appearance",
   "[CP] DOOM": "appearance",
+  "[CP] DOOM: Glory Kill Takedown": "combat",
   "[CP] Detailed Body Textures": "texture",
   "[CP] Detailed Body Textures II": "appearance",
   "[CP] Get to the Chopper!: Aircraft mod": "caravan",
@@ -3513,6 +3517,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep 22 08:36:31 2019",
+ "timestamp": "Sun Sep 22 08:40:09 2019",
  "version": 4
 }
