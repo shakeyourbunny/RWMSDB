@@ -67,7 +67,7 @@
   "Scryingfox": 8,
   "SeppDE": 1,
   "Son_Of_Diablo": 3,
-  "SpookieWookie": 16,
+  "SpookieWookie": 17,
   "Sunnday3": 38,
   "Supa3939Spider": 1,
   "Superlagg": 31,
@@ -657,6 +657,7 @@
   "ClutterDoors": "furniture",
   "Coal": "resource",
   "Cobalt Collection": "resource",
+  "CodeOptimist's Assorted Alterations": "gameplay",
   "Collapser": "biome",
   "Colonist Bar KF": "texture",
   "Colonist Tech Background": "ai",
@@ -3517,6 +3518,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sun Sep 22 08:40:09 2019",
+ "timestamp": "Thu Sep 26 15:49:25 2019",
  "version": 4
 }
