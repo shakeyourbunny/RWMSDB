@@ -26,6 +26,7 @@
   "Eruestani": 16,
   "Espilonarge": 10,
   "Fael Aredhel": 4,
+  "GUYMCAWESOME": 3,
   "GingerAvalanche": 9,
   "GitrimEretnek": 110,
   "Halcyonix": 10,
@@ -2482,6 +2483,7 @@
   "SF Orbital Trader Transponder": "trading",
   "SRTS": "ai",
   "SRTS Expanded": "ai",
+  "SRTS Expanded Realism Patch": "patch",
   "SS Battery Fuse": "energy",
   "SS Bigger Batteries": "energy",
   "SS Clocks": "ui",
@@ -2501,6 +2503,7 @@
   "Saloon Doors and Light Wood": "structure",
   "SameSpot": "combat",
   "Satisfied Beavers": "ai_animal",
+  "Save Our Ship (Reincarnated) !!INSTABLE!!": "scenario",
   "Save Our Ship (Reloaded)": "gameplay",
   "Save Our Ship Simplified": "gameplay",
   "Scheduled Events": "scenario",
@@ -3192,6 +3195,7 @@
   "[CP] Rimmu-Nation: Gloves N' Boots": "clothing",
   "[CP] Rimmu-Nation: Proper Shotguns Patch": "patch",
   "[CP] Rimmu-Nation: Weapons": "weapon",
+  "[CP] The DOOM Kit: Classic": "weapon",
   "[CP] Vegan Survival Meals": "food",
   "[Cab's]Beat The Meat": "production",
   "[Core] MDK Terrain Patch": "patch",
@@ -3520,6 +3524,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Thu Sep 26 15:53:50 2019",
+ "timestamp": "Thu Sep 26 15:56:38 2019",
  "version": 4
 }
