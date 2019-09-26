@@ -125,7 +125,7 @@
   "lolidroid86": 8,
   "m0bitz": 3,
   "maff": 43,
-  "marcopk": 3,
+  "marcopk": 5,
   "melvingroenendaal": 7,
   "miyoumu": 1,
   "montyi": 5,
@@ -326,6 +326,7 @@
   "Apex: Rimworld Legends": "weapon",
   "Apex: Rimworld Legends CE Patch": "patch",
   "Apex: Rimworld Legends Unnoficial CE Patch": "patch",
+  "Apex: Rimworld Legends test": "weapon",
   "Apini CE Patch": "patch",
   "Apini EPOE Plugin": "patch",
   "Apini Playable Race": "race",
@@ -2325,6 +2326,7 @@
   "RimBees": "resource",
   "RimBuff": "framework",
   "RimCities": "biome",
+  "RimCities: Dev Build": "biome",
   "RimCuisine": "food",
   "RimCuisine 2 Core": "food",
   "RimCuisine 2 Meals and Munchies Expansion": "food",
@@ -3518,6 +3520,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Thu Sep 26 15:49:25 2019",
+ "timestamp": "Thu Sep 26 15:53:50 2019",
  "version": 4
 }
