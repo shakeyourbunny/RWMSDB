@@ -175,6 +175,7 @@
   "tarak5557": 2,
   "tarak55571": 5,
   "taranchuk": 27,
+  "tigartar": 1,
   "transbiod": 39,
   "trillex": 6,
   "tymestrike": 1,
@@ -1651,6 +1652,7 @@
   "MT: Starting Tech": "storyteller",
   "Machine gun defense": "combat",
   "Mad Skills": "skill",
+  "Magical Freezer": "temperature",
   "Magical Menagerie": "animal",
   "Magical Potion Of Medieval": "medicine",
   "Make Boars Great Again": "ai_animal",
@@ -3697,6 +3699,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:43:15 2019",
+ "timestamp": "Sat Oct 12 12:48:29 2019",
  "version": 4
 }
