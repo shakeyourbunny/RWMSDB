@@ -20,6 +20,7 @@
   "DavidBouw": 1,
   "Deathawaits4": 15,
   "Dessometrics": 57,
+  "DidNotZero": 1,
   "Discohydra": 5,
   "Drunkender": 5,
   "E-Gamma-102": 1,
@@ -513,6 +514,7 @@
   "Blueprint Totals Tooltip": "ui",
   "Blueprints": "appearance",
   "BnC Alien Support": "patch",
+  "BnC: Shut up, baby!": "annoyance",
   "Bo's Milkable Animals": "load_last_mod",
   "Boartato Badditions": "gameplay",
   "Bob's Mass Effect Turians": "race",
@@ -3695,6 +3697,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:41:55 2019",
+ "timestamp": "Sat Oct 12 12:43:15 2019",
  "version": 4
 }
