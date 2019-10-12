@@ -54,7 +54,7 @@
   "Linkolas": 4,
   "LuckyFluffy": 35,
   "LunaticNeko": 3,
-  "Maddremor": 13,
+  "Maddremor": 14,
   "MattRobinson41": 1,
   "MatthewTh0": 13,
   "MelvinGr": 4,
@@ -2623,6 +2623,7 @@
   "Save Our Ship (Reloaded)": "gameplay",
   "Save Our Ship (Reloaded): Space Suits": "clothing",
   "Save Our Ship Simplified": "gameplay",
+  "Scarification": "gameplay",
   "Scheduled Events": "scenario",
   "Sci-Fire-Power Core": "combat",
   "Science Never Stops": "resource",
@@ -3694,6 +3695,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:40:30 2019",
+ "timestamp": "Sat Oct 12 12:41:55 2019",
  "version": 4
 }
