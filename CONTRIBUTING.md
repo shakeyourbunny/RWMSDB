@@ -10,7 +10,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - czarneski77: 127 mod(s)
 - pigand: 125 mod(s)
 - GitrimEretnek: 110 mod(s)
-- NKSHV: 86 mod(s)
+- NKSHV: 98 mod(s)
 - KuroNeko87: 79 mod(s)
 - sebitor: 72 mod(s)
 - Nuclearmayhem: 67 mod(s)
