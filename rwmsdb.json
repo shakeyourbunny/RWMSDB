@@ -29,7 +29,7 @@
   "Eruestani": 16,
   "Espilonarge": 10,
   "Fael Aredhel": 4,
-  "GUYMCAWESOME": 3,
+  "GUYMCAWESOME": 4,
   "GingerAvalanche": 9,
   "GitrimEretnek": 110,
   "Halcyonix": 10,
@@ -2007,6 +2007,7 @@
   "Nutrient Paste Rebalanced": "patch",
   "NutritiousKibble": "annoyance",
   "Nyaron(WIP)": "animal",
+  "O21 Races + Combat Extended Compatibility Patch": "patch",
   "OHU Addon: C-77 Freighter": "structure",
   "OHU Addon: S-342 Transporter": "structure",
   "OHU Ships": "ai",
@@ -3664,6 +3665,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:26:25 2019",
+ "timestamp": "Sat Oct 12 12:28:09 2019",
  "version": 4
 }
