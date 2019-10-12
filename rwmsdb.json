@@ -148,6 +148,7 @@
   "preechr": 2,
   "questionmarkexclamationpoint": 8,
   "r4d6": 8,
+  "rakumaru88": 2,
   "rallias": 15,
   "randomnone": 205,
   "rawrfisher": 39,
@@ -1246,6 +1247,8 @@
   "Glitterworld medicine craftable": "medicine",
   "Gloomy Deco": "furniture",
   "Gloomy Extra: Kitchen": "furniture",
+  "Gloomy Face mk2": "appearance",
+  "Gloomy Hair mk2": "appearance",
   "Gloomy Vanilla": "patch",
   "GloomyEmbrasure": "structure",
   "GloomyFurniture": "furniture",
@@ -3618,6 +3621,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:38:36 2019",
+ "timestamp": "Sat Oct 12 11:40:02 2019",
  "version": 4
 }
