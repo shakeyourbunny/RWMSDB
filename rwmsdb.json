@@ -150,6 +150,7 @@
   "rallias": 15,
   "randomnone": 205,
   "rawrfisher": 39,
+  "reteo": 1,
   "ridesdragons": 2,
   "rossol": 40,
   "sazra": 2,
@@ -1891,6 +1892,7 @@
   "NeuTech Advanced Medical Pod": "medicine",
   "Neuter Animals": "medicine",
   "Neutrainer and AI Persona Core Crafting": "production",
+  "Neutroamine Synthesis": "medicine",
   "Neutrolope": "animal",
   "Never Retreat": "combat",
   "New Joy Source: Play Music": "ai",
@@ -3604,6 +3606,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:21:50 2019",
+ "timestamp": "Sat Oct 12 11:26:03 2019",
  "version": 4
 }
