@@ -64,6 +64,7 @@
   "Nightliss": 63,
   "Nuclearmayhem": 67,
   "Oggom": 1,
+  "Patraic": 2,
   "Phoewcy": 13,
   "Preechr": 48,
   "Radical-Dragon": 16,
@@ -925,6 +926,7 @@
   "Dubs Break Mod": "ai",
   "Dubs Mint Menus": "ui",
   "Dubs Mint Minimap": "ui",
+  "Dubs Mint Storage": "furniture",
   "Dubs Rimkit": "item",
   "Dubs Skylights": "light",
   "Dubs Skylights Glass+Lights Patch": "patch",
@@ -2487,6 +2489,7 @@
   "Rimscavenger Kit": "weapon",
   "Rimsenal": "weapon",
   "Rimsenal + Combat Extended Compatibility Patch": "patch",
+  "Rimsenal CE Patch": "patch",
   "Rimsenal Security: Turret Extensions Patch": "patch",
   "Rimsenal: Enhanced Vanilla + Combat Extended Compatibility Patch": "patch",
   "Rimsenal: Enhanced Vanilla Pack": "weapon",
@@ -3623,6 +3626,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:41:42 2019",
+ "timestamp": "Sat Oct 12 11:49:10 2019",
  "version": 4
 }
