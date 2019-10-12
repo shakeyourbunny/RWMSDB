@@ -164,6 +164,7 @@
   "transbiod": 39,
   "trillex": 6,
   "tymestrike": 1,
+  "warstoke": 1,
   "whitmadm": 2,
   "wolfehart": 2,
   "zavian": 3
@@ -323,6 +324,7 @@
   "Annoyance Remover": "annoyance",
   "Annoying Life": "gameplay",
   "Anomlian Order Faction": "faction",
+  "Anti Infestation Machine": "annoyance",
   "Anti Material Rifle": "weapon",
   "Anti Material Rifle +": "weapon",
   "Anti-Air Artillery": "combat",
@@ -3576,6 +3578,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:08:15 2019",
+ "timestamp": "Sat Oct 12 11:11:32 2019",
  "version": 4
 }

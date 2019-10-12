@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (167)
+#### Contributors (168)
 - shakeyourbunny: 714 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
@@ -50,8 +50,8 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Radical-Dragon: 16 mod(s)
 - Deathawaits4: 15 mod(s)
 - TrippyTheO: 15 mod(s)
-- rallias: 15 mod(s)
 - paulollivier: 15 mod(s)
+- rallias: 15 mod(s)
 - D3athAn63l: 14 mod(s)
 - Jiala: 14 mod(s)
 - aboleba: 14 mod(s)
@@ -171,4 +171,5 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - sceiler: 1 mod(s)
 - soxiel: 1 mod(s)
 - tymestrike: 1 mod(s)
+- warstoke: 1 mod(s)
 ------------
