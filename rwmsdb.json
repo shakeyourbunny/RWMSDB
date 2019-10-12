@@ -148,7 +148,7 @@
   "preechr": 2,
   "questionmarkexclamationpoint": 8,
   "r4d6": 8,
-  "rakumaru88": 2,
+  "rakumaru88": 4,
   "rallias": 15,
   "randomnone": 205,
   "rawrfisher": 39,
@@ -1550,6 +1550,7 @@
   "LesserToxicFallout": "annoyance",
   "Let's Have a Cat!": "animal",
   "Let's Have a Cat!: A Dog Said Patch": "patch",
+  "Let's Have a Cat!: CE Patch": "patch",
   "Let's Have a Cat!: Not Train Patch": "patch",
   "Let's Make!": "medicine",
   "Let's Trade!": "trading",
@@ -2907,6 +2908,7 @@
   "Therapy": "ai",
   "There's not enough time!": "annoyance",
   "Thermal Generator": "energy",
+  "They're still Clever": "patch",
   "Thick Armor": "patch",
   "Thinner Conduits": "energy",
   "Thorium mod": "gameplay",
@@ -3621,6 +3623,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:40:02 2019",
+ "timestamp": "Sat Oct 12 11:41:42 2019",
  "version": 4
 }
