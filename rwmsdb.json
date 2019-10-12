@@ -10,6 +10,7 @@
   "Bert249": 2,
   "Black Goat": 159,
   "CJVeto": 6,
+  "Chymeira": 3,
   "CombatTentacles": 21,
   "D3athAn63I": 4,
   "D3athAn63l": 14,
@@ -878,6 +879,7 @@
   "Don't Shave Your Head": "appearance",
   "Don't Tempt Me": "ui",
   "Don't stop the music": "annoyance",
+  "Don't take my guns": "weapon",
   "Donkeys": "animal",
   "DontBlockDoorMod": "ai",
   "Doomalope": "animal",
@@ -1357,6 +1359,7 @@
   "Hotkeys": "ui",
   "Hotline Miami Music Pack": "music",
   "House Maid Nukos CE Patch": "patch",
+  "Housekeeper cat textures": "texture",
   "HousekeeperAssistanceCat": "animal",
   "HousekeeperAssistanceCatADSPatch": "patch",
   "HugsLib": "hugslib",
@@ -1633,6 +1636,7 @@
   "Matching Embrasures": "structure",
   "Material Filter": "furniture",
   "Material Filter Savegame Fix": "patch",
+  "Max Gain Cap Removal": "annoyance",
   "Meal Radius 80 Tiles": "ai",
   "Meal radius": "ai",
   "Meals Are Meals": "ai",
@@ -3598,6 +3602,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 11:17:17 2019",
+ "timestamp": "Sat Oct 12 11:20:23 2019",
  "version": 4
 }
