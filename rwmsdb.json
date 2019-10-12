@@ -53,6 +53,7 @@
   "LemmysTash": 7,
   "Linkolas": 4,
   "LuckyFluffy": 35,
+  "LunaticNeko": 3,
   "Maddremor": 13,
   "MattRobinson41": 1,
   "MatthewTh0": 13,
@@ -998,6 +999,7 @@
   "Elemental Weapons": "weapon",
   "Elite Archotech": "patch",
   "Elite Bionics Framework": "framework",
+  "Elona Imouto Race": "race",
   "Embrasures": "structure",
   "Emergency Healer": "medicine",
   "Emergency Healer (nerfed)": "medicine",
@@ -1428,6 +1430,7 @@
   "Infused": "item",
   "Infused Filter (Auto Seller Filter)": "patch",
   "Infused: Tech Edition": "gameplay",
+  "Ingots": "resource",
   "Insect Jelly Improvement": "patch",
   "InsectUpgrades": "animal",
   "Inspiration": "skill",
@@ -2335,6 +2338,7 @@
   "Recycle": "production",
   "Red Alert 2": "total_conversion",
   "Red Dragon": "animal",
+  "Red Sterile Tile": "structure",
   "Red-PrepCarePawns": "ui",
   "RedistHeat": "temperature",
   "Reduce Gradual Relations Decay": "annoyance",
@@ -3641,6 +3645,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:01:17 2019",
+ "timestamp": "Sat Oct 12 12:07:05 2019",
  "version": 4
 }
