@@ -88,7 +88,7 @@
   "Toby-Lawrance": 1,
   "Treazul": 2,
   "TrippyTheO": 15,
-  "TwistedMinds2": 4,
+  "TwistedMinds2": 5,
   "Wolfehart": 2,
   "YesVeryYes": 2,
   "Zyankali1995": 6,
@@ -2813,6 +2813,7 @@
   "Stone Painting": "texture",
   "Stony campfire": "production",
   "Stop the spam": "ui",
+  "Storage & Ingredient Filters": "ui",
   "Storage Crates": "furniture",
   "Storage Solutions": "furniture",
   "Storage Tweaks": "patch",
@@ -3663,6 +3664,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:24:01 2019",
+ "timestamp": "Sat Oct 12 12:26:25 2019",
  "version": 4
 }
