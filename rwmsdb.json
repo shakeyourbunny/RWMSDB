@@ -79,6 +79,7 @@
   "SpookieWookie": 17,
   "Sunnday3": 38,
   "Supa3939Spider": 1,
+  "Supa39Spider": 1,
   "Superlagg": 36,
   "Taemaly": 25,
   "TheVoidRose": 9,
@@ -853,6 +854,7 @@
   "Definitely More Cannons: Turret Extension Patch": "patch",
   "Deity difficulty": "gameplay",
   "Delsin53's HD Terrain Texture Pack": "texture",
+  "Denser Beds": "furniture",
   "DermalRegenerator": "medicine",
   "Designator Shapes": "ui",
   "Desperades": "food",
@@ -3661,6 +3663,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:22:19 2019",
+ "timestamp": "Sat Oct 12 12:24:01 2019",
  "version": 4
 }
