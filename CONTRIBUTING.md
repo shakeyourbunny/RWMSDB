@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (178)
+#### Contributors (179)
 - shakeyourbunny: 714 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
@@ -128,6 +128,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - Chymeira: 3 mod(s)
 - GUYMCAWESOME: 3 mod(s)
 - JamesTalon: 3 mod(s)
+- LunaticNeko: 3 mod(s)
 - Son_Of_Diablo: 3 mod(s)
 - felixkempf: 3 mod(s)
 - flarefluffsune: 3 mod(s)
@@ -136,7 +137,6 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - ninekoki: 3 mod(s)
 - pentacore: 3 mod(s)
 - zavian: 3 mod(s)
-- LunaticNeko: 3 mod(s)
 - 3DSwayze: 2 mod(s)
 - Bert249: 2 mod(s)
 - Newkz: 2 mod(s)
@@ -182,4 +182,5 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - soxiel: 1 mod(s)
 - tymestrike: 1 mod(s)
 - warstoke: 1 mod(s)
+- sTiKyt: 1 mod(s)
 ------------
