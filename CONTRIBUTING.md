@@ -3,7 +3,7 @@
 #### Main author
 shakeyourbunny <shakeyourbunny@gmail.com>
 
-#### Contributors (184)
+#### Contributors (185)
 - shakeyourbunny: 714 mod(s)
 - randomnone: 205 mod(s)
 - Black Goat: 159 mod(s)
@@ -86,6 +86,7 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - brucethemoose: 7 mod(s)
 - melvingroenendaal: 7 mod(s)
 - simplysublimee: 7 mod(s)
+- barzopacopalus: 7 mod(s)
 - CJVeto: 6 mod(s)
 - ElvisUntot: 6 mod(s)
 - Hoijima: 6 mod(s)
@@ -107,12 +108,12 @@ shakeyourbunny <shakeyourbunny@gmail.com>
 - TwistedMinds2: 5 mod(s)
 - all2473: 5 mod(s)
 - captainjal: 5 mod(s)
+- else0ne: 5 mod(s)
 - hafizhmakmur: 5 mod(s)
 - marcopk: 5 mod(s)
 - montyi: 5 mod(s)
 - plesry: 5 mod(s)
 - tarak55571: 5 mod(s)
-- else0ne: 5 mod(s)
 - AleksiMK: 4 mod(s)
 - AlphaAtlas: 4 mod(s)
 - D3athAn63I: 4 mod(s)
