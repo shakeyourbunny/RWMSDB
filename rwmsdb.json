@@ -22,7 +22,7 @@
   "Dessometrics": 57,
   "DidNotZero": 1,
   "Discohydra": 5,
-  "Drunkender": 5,
+  "Drunkender": 7,
   "E-Gamma-102": 1,
   "Egor-Mikhaylov": 5,
   "ElvisUntot": 6,
@@ -828,6 +828,7 @@
   "Dalmatians": "animal",
   "Damage Indicators": "ui",
   "Dampening Belts": "clothing",
+  "Danger Noodles": "patch",
   "Darkest Night SK Steam": "gameplay",
   "Days Matter": "gameplay",
   "DeCore": "gameplay",
@@ -3002,6 +3003,7 @@
   "Time-of-Day Switches": "energy",
   "Tiny Table": "furniture",
   "Tiny Workbenchs": "production",
+  "Titanium+": "resource",
   "To My Side!: Medieval": "gameplay",
   "Tobe's Dining Room": "furniture",
   "Toggle Harvest": "ui",
@@ -3714,6 +3716,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 19 20:05:22 2019",
+ "timestamp": "Sat Oct 19 20:08:15 2019",
  "version": 4
 }
