@@ -3,7 +3,7 @@
   "3DSwayze": 2,
   "404Error5": 3,
   "AaronAyante": 10,
-  "AerosolNinja": 1,
+  "AerosolNinja": 2,
   "AleksiMK": 4,
   "AlphaAtlas": 4,
   "AngryScandinavian": 22,
@@ -2061,6 +2061,7 @@
   "Opened Doors Don't Block Light": "light",
   "Optimization: CE Ammo": "annoyance",
   "Optimization: Meats": "annoyance",
+  "Optimization: RAID": "combat",
   "Orassan Facial Stuff": "appearance",
   "Orassan RimAtomics Compatability": "patch",
   "Orassans": "race",
@@ -3713,6 +3714,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 19 20:03:24 2019",
+ "timestamp": "Sat Oct 19 20:05:22 2019",
  "version": 4
 }
