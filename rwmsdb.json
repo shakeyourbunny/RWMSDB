@@ -82,7 +82,7 @@
   "Supa3939Spider": 1,
   "Supa39Spider": 1,
   "Superlagg": 36,
-  "Taemaly": 25,
+  "Taemaly": 28,
   "TheVoidRose": 9,
   "Theutus1": 2,
   "Thirsk": 6,
@@ -819,6 +819,7 @@
   "DE Surgeries: Friends patch": "patch",
   "DE Surgeries: Kijin patch": "patch",
   "DE Surgeries: Kurin Race patch": "patch",
+  "DE Surgeries: NewRatkinPlus patch": "patch",
   "DE Surgeries: Oni Race patch": "patch",
   "DEVRIMMSqol": "texture",
   "DIY Neutroamine": "production",
@@ -1338,6 +1339,7 @@
   "Half-Dragons": "race",
   "Half-Rim 2": "faction",
   "Halloween Special Edition": "gameplay",
+  "HalloweenParade": "gameplay",
   "Halo: Armors": "clothing",
   "Halo: Soundtrack": "music",
   "Halo: Weapons": "weapon",
@@ -3405,6 +3407,7 @@
   "[FSF] Growable Ambrosia": "resource",
   "[FSF] Growable Grass": "resource",
   "[FSF] Growable Mushrooms": "food",
+  "[FSF] Human Leather Is Worthless": "annoyance",
   "[FSF] Improved Ship Reactors": "energy",
   "[FSF] Improved Vanometric Power Cells": "patch",
   "[FSF] Indoor Tree Farms": "production",
@@ -3725,6 +3728,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 19 20:11:45 2019",
+ "timestamp": "Sat Oct 19 20:15:39 2019",
  "version": 4
 }
