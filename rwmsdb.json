@@ -111,6 +111,7 @@
   "drbodrbo": 8,
   "dreipixel": 49,
   "ebensquid": 2,
+  "else0ne": 5,
   "emipa606": 13,
   "felixkempf": 3,
   "flarefluffsune": 3,
@@ -402,6 +403,7 @@
   "Auto Notify (Autoseller Extension)": "patch",
   "Auto Recycling": "production",
   "Auto Seller": "trading",
+  "Auto-Cut Blight": "annoyance",
   "Auto-Mortars": "combat",
   "AutoOwl": "ai",
   "AutoPriorities": "ui",
@@ -689,6 +691,7 @@
   "Clutter Structures": "furniture",
   "ClutterDoors": "furniture",
   "Coal": "resource",
+  "Coal Expanded": "patch",
   "Cobalt Collection": "resource",
   "CodeOptimist's Assorted Alterations": "gameplay",
   "Collapser": "biome",
@@ -2254,6 +2257,7 @@
   "Quick Stockpile Creation": "ui",
   "Quicker+skill Stonecutting": "skill",
   "Quicksaver": "ui",
+  "RBSE Back to Basics": "gameplay",
   "RBSE Hardcore Edition": "gameplay",
   "RBSE Patch for Beast Man Tribes": "patch",
   "RD: Mech Shutdown Tool": "ui",
@@ -3147,6 +3151,8 @@
   "Vanilla Furniture Expanded: Security": "combat",
   "Vanilla Furniture Expanded: Spacer Module": "furniture",
   "Vanilla Generators What Can Go Wrong?": "patch",
+  "Vanilla Hair Expanded": "appearance",
+  "Vanilla Iron and Steel": "resource",
   "Vanilla Raid Strategies Unknown": "ui",
   "Vanilla Taxidermy": "furniture",
   "Vanilla Weapon Upgrades": "weapon",
@@ -3699,6 +3705,6 @@
   "\u72f8 TANUKI": "animal",
   "\u9664\u53bb\u6b96\u6c11\u8005\u5de5\u4f5c\u9650\u5236 No work restrictions": "annoyance"
  },
- "timestamp": "Sat Oct 12 12:48:29 2019",
+ "timestamp": "Sat Oct 19 19:53:45 2019",
  "version": 4
 }
